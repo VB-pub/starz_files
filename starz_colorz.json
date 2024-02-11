@@ -1,0 +1,8110 @@
+[
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "O0Ia0",
+    "Column1": "3.41e+07",
+    "Column2": "8.02e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "O0Ia",
+    "Column1": "2.59e+06",
+    "Column2": "2.21e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "O0Ib",
+    "Column1": "2.15e+06",
+    "Column2": "2.02e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "O0II",
+    "Column1": "2.15e+06",
+    "Column2": "2.02e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "O0III",
+    "Column1": "2.15e+06",
+    "Column2": "2.02e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "O0IV",
+    "Column1": "1.36e+06",
+    "Column2": "1.60e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "O0V",
+    "Column1": "1.24e+06",
+    "Column2": "1.53e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "O0VI",
+    "Column1": "9.40e+05",
+    "Column2": "1.33e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "O1Ia0",
+    "Column1": "2.71e+07",
+    "Column2": "7.88e+01",
+    "Column3": "47600",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "O1Ia",
+    "Column1": "2.25e+06",
+    "Column2": "2.27e+01",
+    "Column3": "47600",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "O1Ib",
+    "Column1": "1.87e+06",
+    "Column2": "2.07e+01",
+    "Column3": "47600",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "O1II",
+    "Column1": "1.73e+06",
+    "Column2": "1.98e+01",
+    "Column3": "47800",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "O1III",
+    "Column1": "1.58e+06",
+    "Column2": "1.89e+01",
+    "Column3": "47800",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "O1IV",
+    "Column1": "1.09e+06",
+    "Column2": "1.57e+01",
+    "Column3": "47800",
+    "Column4": "145 167 255"
+  },
+  {
+    "Column0": "O1V",
+    "Column1": "9.94e+05",
+    "Column2": "1.50e+01",
+    "Column3": "47800",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "O1VI",
+    "Column1": "7.54e+05",
+    "Column2": "1.31e+01",
+    "Column3": "47800",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "O2Ia0",
+    "Column1": "2.14e+07",
+    "Column2": "7.77e+01",
+    "Column3": "45200",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "O2Ia",
+    "Column1": "2.14e+06",
+    "Column2": "2.46e+01",
+    "Column3": "45200",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "O2Ib",
+    "Column1": "1.62e+06",
+    "Column2": "2.14e+01",
+    "Column3": "45200",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "O2II",
+    "Column1": "1.52e+06",
+    "Column2": "2.03e+01",
+    "Column3": "45600",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "O2III",
+    "Column1": "1.26e+06",
+    "Column2": "1.85e+01",
+    "Column3": "45600",
+    "Column4": "148 169 255"
+  },
+  {
+    "Column0": "O2IV",
+    "Column1": "8.72e+05",
+    "Column2": "1.54e+01",
+    "Column3": "45600",
+    "Column4": "146 169 255"
+  },
+  {
+    "Column0": "O2V",
+    "Column1": "7.95e+05",
+    "Column2": "1.47e+01",
+    "Column3": "45600",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "O2VI",
+    "Column1": "6.03e+05",
+    "Column2": "1.28e+01",
+    "Column3": "45600",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "O3Ia0",
+    "Column1": "1.68e+07",
+    "Column2": "7.69e+01",
+    "Column3": "42800",
+    "Column4": "151 172 255"
+  },
+  {
+    "Column0": "O3Ia",
+    "Column1": "1.85e+06",
+    "Column2": "2.55e+01",
+    "Column3": "42800",
+    "Column4": "151 172 255"
+  },
+  {
+    "Column0": "O3Ib",
+    "Column1": "1.40e+06",
+    "Column2": "2.22e+01",
+    "Column3": "42800",
+    "Column4": "151 172 255"
+  },
+  {
+    "Column0": "O3II",
+    "Column1": "1.21e+06",
+    "Column2": "2.00e+01",
+    "Column3": "43400",
+    "Column4": "149 173 255"
+  },
+  {
+    "Column0": "O3III",
+    "Column1": "9.17e+05",
+    "Column2": "1.75e+01",
+    "Column3": "43400",
+    "Column4": "150 171 255"
+  },
+  {
+    "Column0": "O3IV",
+    "Column1": "6.96e+05",
+    "Column2": "1.52e+01",
+    "Column3": "43400",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "O3V",
+    "Column1": "6.34e+05",
+    "Column2": "1.45e+01",
+    "Column3": "43400",
+    "Column4": "151 172 255"
+  },
+  {
+    "Column0": "O3VI",
+    "Column1": "4.81e+05",
+    "Column2": "1.26e+01",
+    "Column3": "43400",
+    "Column4": "151 172 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "O4Ia0",
+    "Column1": "1.32e+07",
+    "Column2": "7.64e+01",
+    "Column3": "40400",
+    "Column4": "153 174 255"
+  },
+  {
+    "Column0": "O4Ia",
+    "Column1": "1.74e+06",
+    "Column2": "2.77e+01",
+    "Column3": "40400",
+    "Column4": "153 174 255"
+  },
+  {
+    "Column0": "O4Ib",
+    "Column1": "1.20e+06",
+    "Column2": "2.31e+01",
+    "Column3": "40400",
+    "Column4": "153 174 255"
+  },
+  {
+    "Column0": "O4II",
+    "Column1": "9.60e+05",
+    "Column2": "1.98e+01",
+    "Column3": "41200",
+    "Column4": "151 175 255"
+  },
+  {
+    "Column0": "O4III",
+    "Column1": "7.28e+05",
+    "Column2": "1.73e+01",
+    "Column3": "41200",
+    "Column4": "152 172 255"
+  },
+  {
+    "Column0": "O4IV",
+    "Column1": "5.52e+05",
+    "Column2": "1.50e+01",
+    "Column3": "41200",
+    "Column4": "149 171 255"
+  },
+  {
+    "Column0": "O4V",
+    "Column1": "5.04e+05",
+    "Column2": "1.44e+01",
+    "Column3": "41200",
+    "Column4": "153 174 255"
+  },
+  {
+    "Column0": "O4VI",
+    "Column1": "3.82e+05",
+    "Column2": "1.25e+01",
+    "Column3": "41200",
+    "Column4": "153 174 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "O5Ia0",
+    "Column1": "1.03e+07",
+    "Column2": "7.62e+01",
+    "Column3": "38000",
+    "Column4": "155 176 255"
+  },
+  {
+    "Column0": "O5Ia",
+    "Column1": "1.48e+06",
+    "Column2": "2.90e+01",
+    "Column3": "38000",
+    "Column4": "155 176 255"
+  },
+  {
+    "Column0": "O5Ib",
+    "Column1": "1.03e+06",
+    "Column2": "2.41e+01",
+    "Column3": "38000",
+    "Column4": "155 176 255"
+  },
+  {
+    "Column0": "O5II",
+    "Column1": "7.59e+05",
+    "Column2": "1.97e+01",
+    "Column3": "39000",
+    "Column4": "153 177 255"
+  },
+  {
+    "Column0": "O5III",
+    "Column1": "5.25e+05",
+    "Column2": "1.64e+01",
+    "Column3": "39000",
+    "Column4": "154 174 255"
+  },
+  {
+    "Column0": "O5IV",
+    "Column1": "4.37e+05",
+    "Column2": "1.49e+01",
+    "Column3": "39000",
+    "Column4": "150 172 255"
+  },
+  {
+    "Column0": "O5V",
+    "Column1": "3.98e+05",
+    "Column2": "1.42e+01",
+    "Column3": "39000",
+    "Column4": "155 176 255"
+  },
+  {
+    "Column0": "O5VI",
+    "Column1": "3.02e+05",
+    "Column2": "1.24e+01",
+    "Column3": "39000",
+    "Column4": "155 176 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "O6Ia0",
+    "Column1": "7.81e+06",
+    "Column2": "7.66e+01",
+    "Column3": "35400",
+    "Column4": "157 178 255"
+  },
+  {
+    "Column0": "O6Ia",
+    "Column1": "1.36e+06",
+    "Column2": "3.19e+01",
+    "Column3": "35400",
+    "Column4": "157 178 255"
+  },
+  {
+    "Column0": "O6Ib",
+    "Column1": "7.81e+05",
+    "Column2": "2.42e+01",
+    "Column3": "35400",
+    "Column4": "157 178 255"
+  },
+  {
+    "Column0": "O6II",
+    "Column1": "6.54e+05",
+    "Column2": "2.05e+01",
+    "Column3": "36800",
+    "Column4": "155 179 255"
+  },
+  {
+    "Column0": "O6III",
+    "Column1": "3.76e+05",
+    "Column2": "1.56e+01",
+    "Column3": "36800",
+    "Column4": "156 175 255"
+  },
+  {
+    "Column0": "O6IV",
+    "Column1": "3.13e+05",
+    "Column2": "1.42e+01",
+    "Column3": "36800",
+    "Column4": "151 174 255"
+  },
+  {
+    "Column0": "O6V",
+    "Column1": "2.60e+05",
+    "Column2": "1.29e+01",
+    "Column3": "36800",
+    "Column4": "162 184 255"
+  },
+  {
+    "Column0": "O6VI",
+    "Column1": "1.80e+05",
+    "Column2": "1.08e+01",
+    "Column3": "36800",
+    "Column4": "162 184 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "O7Ia0",
+    "Column1": "5.88e+06",
+    "Column2": "7.74e+01",
+    "Column3": "32800",
+    "Column4": "160 181 255"
+  },
+  {
+    "Column0": "O7Ia",
+    "Column1": "1.12e+06",
+    "Column2": "3.38e+01",
+    "Column3": "32800",
+    "Column4": "160 181 255"
+  },
+  {
+    "Column0": "O7Ib",
+    "Column1": "5.88e+05",
+    "Column2": "2.45e+01",
+    "Column3": "32800",
+    "Column4": "160 181 255"
+  },
+  {
+    "Column0": "O7II",
+    "Column1": "5.10e+05",
+    "Column2": "2.05e+01",
+    "Column3": "34600",
+    "Column4": "156 181 255"
+  },
+  {
+    "Column0": "O7III",
+    "Column1": "2.94e+05",
+    "Column2": "1.55e+01",
+    "Column3": "34600",
+    "Column4": "158 177 255"
+  },
+  {
+    "Column0": "O7IV",
+    "Column1": "2.23e+05",
+    "Column2": "1.35e+01",
+    "Column3": "34600",
+    "Column4": "152 175 255"
+  },
+  {
+    "Column0": "O7V",
+    "Column1": "1.54e+05",
+    "Column2": "1.13e+01",
+    "Column3": "34600",
+    "Column4": "157 177 255"
+  },
+  {
+    "Column0": "O7VI",
+    "Column1": "1.07e+05",
+    "Column2": "9.36e+00",
+    "Column3": "34600",
+    "Column4": "157 177 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "O8Ia0",
+    "Column1": "4.37e+06",
+    "Column2": "7.87e+01",
+    "Column3": "30200",
+    "Column4": "162 183 255"
+  },
+  {
+    "Column0": "O8Ia",
+    "Column1": "9.13e+05",
+    "Column2": "3.60e+01",
+    "Column3": "30200",
+    "Column4": "162 183 255"
+  },
+  {
+    "Column0": "O8Ib",
+    "Column1": "4.37e+05",
+    "Column2": "2.49e+01",
+    "Column3": "30200",
+    "Column4": "162 183 255"
+  },
+  {
+    "Column0": "O8II",
+    "Column1": "3.60e+05",
+    "Column2": "1.96e+01",
+    "Column3": "32400",
+    "Column4": "158 183 255"
+  },
+  {
+    "Column0": "O8III",
+    "Column1": "2.07e+05",
+    "Column2": "1.49e+01",
+    "Column3": "32400",
+    "Column4": "157 178 255"
+  },
+  {
+    "Column0": "O8IV",
+    "Column1": "1.57e+05",
+    "Column2": "1.30e+01",
+    "Column3": "32400",
+    "Column4": "153 176 255"
+  },
+  {
+    "Column0": "O8V",
+    "Column1": "9.91e+04",
+    "Column2": "1.03e+01",
+    "Column3": "32400",
+    "Column4": "157 177 255"
+  },
+  {
+    "Column0": "O8VI",
+    "Column1": "5.70e+04",
+    "Column2": "7.81e+00",
+    "Column3": "32400",
+    "Column4": "157 177 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "O9Ia0",
+    "Column1": "3.19e+06",
+    "Column2": "8.05e+01",
+    "Column3": "27600",
+    "Column4": "164 185 255"
+  },
+  {
+    "Column0": "O9Ia",
+    "Column1": "7.31e+05",
+    "Column2": "3.85e+01",
+    "Column3": "27600",
+    "Column4": "164 185 255"
+  },
+  {
+    "Column0": "O9Ib",
+    "Column1": "3.19e+05",
+    "Column2": "2.55e+01",
+    "Column3": "27600",
+    "Column4": "164 185 255"
+  },
+  {
+    "Column0": "O9II",
+    "Column1": "2.76e+05",
+    "Column2": "1.98e+01",
+    "Column3": "30200",
+    "Column4": "160 186 255"
+  },
+  {
+    "Column0": "O9III",
+    "Column1": "1.59e+05",
+    "Column2": "1.50e+01",
+    "Column3": "30200",
+    "Column4": "158 177 255"
+  },
+  {
+    "Column0": "O9IV",
+    "Column1": "1.10e+05",
+    "Column2": "1.25e+01",
+    "Column3": "30200",
+    "Column4": "155 177 255"
+  },
+  {
+    "Column0": "O9V",
+    "Column1": "5.76e+04",
+    "Column2": "9.04e+00",
+    "Column3": "30200",
+    "Column4": "154 178 255"
+  },
+  {
+    "Column0": "O9VI",
+    "Column1": "3.31e+04",
+    "Column2": "6.85e+00",
+    "Column3": "30200",
+    "Column4": "154 178 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "B0Ia0",
+    "Column1": "2.28e+06",
+    "Column2": "8.30e+01",
+    "Column3": "25000",
+    "Column4": "161 189 255"
+  },
+  {
+    "Column0": "B0Ia",
+    "Column1": "5.73e+05",
+    "Column2": "4.16e+01",
+    "Column3": "25000",
+    "Column4": "161 189 255"
+  },
+  {
+    "Column0": "B0Ib",
+    "Column1": "2.28e+05",
+    "Column2": "2.62e+01",
+    "Column3": "25000",
+    "Column4": "161 189 255"
+  },
+  {
+    "Column0": "B0II",
+    "Column1": "1.90e+05",
+    "Column2": "1.91e+01",
+    "Column3": "28000",
+    "Column4": "162 188 255"
+  },
+  {
+    "Column0": "B0III",
+    "Column1": "1.09e+05",
+    "Column2": "1.45e+01",
+    "Column3": "28000",
+    "Column4": "158 177 255"
+  },
+  {
+    "Column0": "B0IV",
+    "Column1": "7.57e+04",
+    "Column2": "1.21e+01",
+    "Column3": "28000",
+    "Column4": "156 179 255"
+  },
+  {
+    "Column0": "B0V",
+    "Column1": "3.62e+04",
+    "Column2": "8.34e+00",
+    "Column3": "28000",
+    "Column4": "156 178 255"
+  },
+  {
+    "Column0": "B0VI",
+    "Column1": "1.90e+04",
+    "Column2": "6.04e+00",
+    "Column3": "28000",
+    "Column4": "156 178 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "B1Ia0",
+    "Column1": "2.02e+06",
+    "Column2": "8.62e+01",
+    "Column3": "23790",
+    "Column4": "168 193 255"
+  },
+  {
+    "Column0": "B1Ia",
+    "Column1": "5.07e+05",
+    "Column2": "4.32e+01",
+    "Column3": "23790",
+    "Column4": "168 193 255"
+  },
+  {
+    "Column0": "B1Ib",
+    "Column1": "1.84e+05",
+    "Column2": "2.60e+01",
+    "Column3": "23790",
+    "Column4": "168 193 255"
+  },
+  {
+    "Column0": "B1II",
+    "Column1": "1.34e+05",
+    "Column2": "1.83e+01",
+    "Column3": "26190",
+    "Column4": "163 190 255"
+  },
+  {
+    "Column0": "B1III",
+    "Column1": "5.34e+04",
+    "Column2": "1.16e+01",
+    "Column3": "26190",
+    "Column4": "158 177 255"
+  },
+  {
+    "Column0": "B1IV",
+    "Column1": "3.70e+04",
+    "Column2": "9.63e+00",
+    "Column3": "26190",
+    "Column4": "157 180 255"
+  },
+  {
+    "Column0": "B1V",
+    "Column1": "1.94e+04",
+    "Column2": "6.97e+00",
+    "Column3": "26190",
+    "Column4": "160 182 255"
+  },
+  {
+    "Column0": "B1VI",
+    "Column1": "1.02e+04",
+    "Column2": "5.05e+00",
+    "Column3": "26190",
+    "Column4": "160 182 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "B2Ia0",
+    "Column1": "1.62e+06",
+    "Column2": "8.57e+01",
+    "Column3": "22580",
+    "Column4": "177 196 255"
+  },
+  {
+    "Column0": "B2Ia",
+    "Column1": "4.46e+05",
+    "Column2": "4.50e+01",
+    "Column3": "22580",
+    "Column4": "177 196 255"
+  },
+  {
+    "Column0": "B2Ib",
+    "Column1": "1.62e+05",
+    "Column2": "2.71e+01",
+    "Column3": "22580",
+    "Column4": "177 196 255"
+  },
+  {
+    "Column0": "B2II",
+    "Column1": "9.36e+04",
+    "Column2": "1.77e+01",
+    "Column3": "24380",
+    "Column4": "165 192 255"
+  },
+  {
+    "Column0": "B2III",
+    "Column1": "2.83e+04",
+    "Column2": "9.71e+00",
+    "Column3": "24380",
+    "Column4": "159 180 255"
+  },
+  {
+    "Column0": "B2IV",
+    "Column1": "1.96e+04",
+    "Column2": "8.08e+00",
+    "Column3": "24380",
+    "Column4": "159 179 255"
+  },
+  {
+    "Column0": "B2V",
+    "Column1": "9.36e+03",
+    "Column2": "5.59e+00",
+    "Column3": "24380",
+    "Column4": "160 180 255"
+  },
+  {
+    "Column0": "B2VI",
+    "Column1": "5.39e+03",
+    "Column2": "4.24e+00",
+    "Column3": "24380",
+    "Column4": "160 180 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "B3Ia0",
+    "Column1": "1.42e+06",
+    "Column2": "8.95e+01",
+    "Column3": "21370",
+    "Column4": "175 194 255"
+  },
+  {
+    "Column0": "B3Ia",
+    "Column1": "4.28e+05",
+    "Column2": "4.92e+01",
+    "Column3": "21370",
+    "Column4": "175 194 255"
+  },
+  {
+    "Column0": "B3Ib",
+    "Column1": "1.29e+05",
+    "Column2": "2.70e+01",
+    "Column3": "21370",
+    "Column4": "175 194 255"
+  },
+  {
+    "Column0": "B3II",
+    "Column1": "6.45e+04",
+    "Column2": "1.71e+01",
+    "Column3": "22570",
+    "Column4": "168 193 255"
+  },
+  {
+    "Column0": "B3III",
+    "Column1": "1.35e+04",
+    "Column2": "7.82e+00",
+    "Column3": "22570",
+    "Column4": "163 187 255"
+  },
+  {
+    "Column0": "B3IV",
+    "Column1": "9.32e+03",
+    "Column2": "6.51e+00",
+    "Column3": "22570",
+    "Column4": "166 188 255"
+  },
+  {
+    "Column0": "B3V",
+    "Column1": "4.89e+03",
+    "Column2": "4.71e+00",
+    "Column3": "22570",
+    "Column4": "165 185 255"
+  },
+  {
+    "Column0": "B3VI",
+    "Column1": "2.57e+03",
+    "Column2": "3.41e+00",
+    "Column3": "22570",
+    "Column4": "165 185 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "B4Ia0",
+    "Column1": "1.23e+06",
+    "Column2": "9.37e+01",
+    "Column3": "20160",
+    "Column4": "187 203 255"
+  },
+  {
+    "Column0": "B4Ia",
+    "Column1": "3.38e+05",
+    "Column2": "4.92e+01",
+    "Column3": "20160",
+    "Column4": "187 203 255"
+  },
+  {
+    "Column0": "B4Ib",
+    "Column1": "1.12e+05",
+    "Column2": "2.83e+01",
+    "Column3": "20160",
+    "Column4": "187 203 255"
+  },
+  {
+    "Column0": "B4II",
+    "Column1": "4.37e+04",
+    "Column2": "1.67e+01",
+    "Column3": "20760",
+    "Column4": "172 194 255"
+  },
+  {
+    "Column0": "B4III",
+    "Column1": "6.93e+03",
+    "Column2": "6.63e+00",
+    "Column3": "20760",
+    "Column4": "166 188 255"
+  },
+  {
+    "Column0": "B4IV",
+    "Column1": "4.79e+03",
+    "Column2": "5.52e+00",
+    "Column3": "20760",
+    "Column4": "169 190 255"
+  },
+  {
+    "Column0": "B4V",
+    "Column1": "2.29e+03",
+    "Column2": "3.82e+00",
+    "Column3": "20760",
+    "Column4": "164 184 255"
+  },
+  {
+    "Column0": "B4VI",
+    "Column1": "1.32e+03",
+    "Column2": "2.89e+00",
+    "Column3": "20760",
+    "Column4": "164 184 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "B5Ia0",
+    "Column1": "9.65e+05",
+    "Column2": "9.39e+01",
+    "Column3": "18950",
+    "Column4": "179 202 255"
+  },
+  {
+    "Column0": "B5Ia",
+    "Column1": "2.91e+05",
+    "Column2": "5.16e+01",
+    "Column3": "18950",
+    "Column4": "179 202 255"
+  },
+  {
+    "Column0": "B5Ib",
+    "Column1": "8.80e+04",
+    "Column2": "2.84e+01",
+    "Column3": "18950",
+    "Column4": "179 202 255"
+  },
+  {
+    "Column0": "B5II",
+    "Column1": "2.91e+04",
+    "Column2": "1.63e+01",
+    "Column3": "18950",
+    "Column4": "175 195 255"
+  },
+  {
+    "Column0": "B5III",
+    "Column1": "3.19e+03",
+    "Column2": "5.40e+00",
+    "Column3": "18950",
+    "Column4": "168 189 255"
+  },
+  {
+    "Column0": "B5IV",
+    "Column1": "2.21e+03",
+    "Column2": "4.50e+00",
+    "Column3": "18950",
+    "Column4": "172 192 255"
+  },
+  {
+    "Column0": "B5V",
+    "Column1": "1.16e+03",
+    "Column2": "3.26e+00",
+    "Column3": "18950",
+    "Column4": "170 191 255"
+  },
+  {
+    "Column0": "B5VI",
+    "Column1": "6.67e+02",
+    "Column2": "2.47e+00",
+    "Column3": "18950",
+    "Column4": "170 191 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "B6Ia0",
+    "Column1": "7.58e+05",
+    "Column2": "1.02e+02",
+    "Column3": "17140",
+    "Column4": "191 207 255"
+  },
+  {
+    "Column0": "B6Ia",
+    "Column1": "2.29e+05",
+    "Column2": "5.59e+01",
+    "Column3": "17140",
+    "Column4": "191 207 255"
+  },
+  {
+    "Column0": "B6Ib",
+    "Column1": "6.31e+04",
+    "Column2": "2.94e+01",
+    "Column3": "17140",
+    "Column4": "191 207 255"
+  },
+  {
+    "Column0": "B6II",
+    "Column1": "1.74e+04",
+    "Column2": "1.54e+01",
+    "Column3": "17140",
+    "Column4": "177 196 255"
+  },
+  {
+    "Column0": "B6III",
+    "Column1": "1.74e+03",
+    "Column2": "4.87e+00",
+    "Column3": "17140",
+    "Column4": "170 190 255"
+  },
+  {
+    "Column0": "B6IV",
+    "Column1": "1.20e+03",
+    "Column2": "4.05e+00",
+    "Column3": "17140",
+    "Column4": "175 194 255"
+  },
+  {
+    "Column0": "B6V",
+    "Column1": "6.92e+02",
+    "Column2": "3.07e+00",
+    "Column3": "17140",
+    "Column4": "172 189 255"
+  },
+  {
+    "Column0": "B6VI",
+    "Column1": "3.63e+02",
+    "Column2": "2.23e+00",
+    "Column3": "17140",
+    "Column4": "172 189 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "B7Ia0",
+    "Column1": "5.33e+05",
+    "Column2": "1.07e+02",
+    "Column3": "15330",
+    "Column4": "195 209 255"
+  },
+  {
+    "Column0": "B7Ia",
+    "Column1": "1.93e+05",
+    "Column2": "6.43e+01",
+    "Column3": "15330",
+    "Column4": "195 209 255"
+  },
+  {
+    "Column0": "B7Ib",
+    "Column1": "4.43e+04",
+    "Column2": "3.08e+01",
+    "Column3": "15330",
+    "Column4": "195 209 255"
+  },
+  {
+    "Column0": "B7II",
+    "Column1": "1.11e+04",
+    "Column2": "1.54e+01",
+    "Column3": "15330",
+    "Column4": "179 198 255"
+  },
+  {
+    "Column0": "B7III",
+    "Column1": "1.01e+03",
+    "Column2": "4.66e+00",
+    "Column3": "15330",
+    "Column4": "171 191 255"
+  },
+  {
+    "Column0": "B7IV",
+    "Column1": "6.40e+02",
+    "Column2": "3.70e+00",
+    "Column3": "15330",
+    "Column4": "170 189 255"
+  },
+  {
+    "Column0": "B7V",
+    "Column1": "4.04e+02",
+    "Column2": "2.94e+00",
+    "Column3": "15330",
+    "Column4": "173 191 255"
+  },
+  {
+    "Column0": "B7VI",
+    "Column1": "1.93e+02",
+    "Column2": "2.03e+00",
+    "Column3": "15330",
+    "Column4": "173 191 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "B8Ia0",
+    "Column1": "3.67e+05",
+    "Column2": "1.14e+02",
+    "Column3": "13520",
+    "Column4": "182 206 255"
+  },
+  {
+    "Column0": "B8Ia",
+    "Column1": "1.60e+05",
+    "Column2": "7.52e+01",
+    "Column3": "13520",
+    "Column4": "182 206 255"
+  },
+  {
+    "Column0": "B8Ib",
+    "Column1": "3.34e+04",
+    "Column2": "3.44e+01",
+    "Column3": "13520",
+    "Column4": "182 206 255"
+  },
+  {
+    "Column0": "B8II",
+    "Column1": "6.99e+03",
+    "Column2": "1.57e+01",
+    "Column3": "13520",
+    "Column4": "181 199 255"
+  },
+  {
+    "Column0": "B8III",
+    "Column1": "5.30e+02",
+    "Column2": "4.33e+00",
+    "Column3": "13520",
+    "Column4": "175 193 255"
+  },
+  {
+    "Column0": "B8IV",
+    "Column1": "3.34e+02",
+    "Column2": "3.44e+00",
+    "Column3": "13520",
+    "Column4": "175 193 255"
+  },
+  {
+    "Column0": "B8V",
+    "Column1": "2.11e+02",
+    "Column2": "2.73e+00",
+    "Column3": "13520",
+    "Column4": "177 195 255"
+  },
+  {
+    "Column0": "B8VI",
+    "Column1": "1.01e+02",
+    "Column2": "1.89e+00",
+    "Column3": "13520",
+    "Column4": "177 195 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "B9Ia0",
+    "Column1": "2.73e+05",
+    "Column2": "1.31e+02",
+    "Column3": "11710",
+    "Column4": "204 216 255"
+  },
+  {
+    "Column0": "B9Ia",
+    "Column1": "1.31e+05",
+    "Column2": "9.05e+01",
+    "Column3": "11710",
+    "Column4": "204 216 255"
+  },
+  {
+    "Column0": "B9Ib",
+    "Column1": "2.27e+04",
+    "Column2": "3.77e+01",
+    "Column3": "11710",
+    "Column4": "204 216 255"
+  },
+  {
+    "Column0": "B9II",
+    "Column1": "4.32e+03",
+    "Column2": "1.65e+01",
+    "Column3": "11710",
+    "Column4": "182 201 255"
+  },
+  {
+    "Column0": "B9III",
+    "Column1": "2.99e+02",
+    "Column2": "4.33e+00",
+    "Column3": "11710",
+    "Column4": "178 195 255"
+  },
+  {
+    "Column0": "B9IV",
+    "Column1": "1.72e+02",
+    "Column2": "3.29e+00",
+    "Column3": "11710",
+    "Column4": "180 197 255"
+  },
+  {
+    "Column0": "B9V",
+    "Column1": "1.19e+02",
+    "Column2": "2.73e+00",
+    "Column3": "11710",
+    "Column4": "181 198 255"
+  },
+  {
+    "Column0": "B9VI",
+    "Column1": "5.20e+01",
+    "Column2": "1.81e+00",
+    "Column3": "11710",
+    "Column4": "181 198 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "A0Ia0",
+    "Column1": "1.86e+05",
+    "Column2": "1.51e+02",
+    "Column3": "9900",
+    "Column4": "187 206 255"
+  },
+  {
+    "Column0": "A0Ia",
+    "Column1": "1.07e+05",
+    "Column2": "1.14e+02",
+    "Column3": "9900",
+    "Column4": "187 206 255"
+  },
+  {
+    "Column0": "A0Ib",
+    "Column1": "1.54e+04",
+    "Column2": "4.35e+01",
+    "Column3": "9900",
+    "Column4": "187 206 255"
+  },
+  {
+    "Column0": "A0II",
+    "Column1": "2.68e+03",
+    "Column2": "1.81e+01",
+    "Column3": "9900",
+    "Column4": "184 202 255"
+  },
+  {
+    "Column0": "A0III",
+    "Column1": "1.54e+02",
+    "Column2": "4.35e+00",
+    "Column3": "9900",
+    "Column4": "188 205 255"
+  },
+  {
+    "Column0": "A0IV",
+    "Column1": "8.88e+01",
+    "Column2": "3.30e+00",
+    "Column3": "9900",
+    "Column4": "179 197 255"
+  },
+  {
+    "Column0": "A0V",
+    "Column1": "6.74e+01",
+    "Column2": "2.88e+00",
+    "Column3": "9900",
+    "Column4": "185 201 255"
+  },
+  {
+    "Column0": "A0VI",
+    "Column1": "2.68e+01",
+    "Column2": "1.81e+00",
+    "Column3": "9900",
+    "Column4": "185 201 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "A1Ia0",
+    "Column1": "1.98e+05",
+    "Column2": "1.62e+02",
+    "Column3": "9707",
+    "Column4": "214 223 255"
+  },
+  {
+    "Column0": "A1Ia",
+    "Column1": "1.14e+05",
+    "Column2": "1.23e+02",
+    "Column3": "9707",
+    "Column4": "214 223 255"
+  },
+  {
+    "Column0": "A1Ib",
+    "Column1": "1.50e+04",
+    "Column2": "4.46e+01",
+    "Column3": "9707",
+    "Column4": "214 223 255"
+  },
+  {
+    "Column0": "A1II",
+    "Column1": "2.35e+03",
+    "Column2": "1.79e+01",
+    "Column3": "9650",
+    "Column4": "186 204 255"
+  },
+  {
+    "Column0": "A1III",
+    "Column1": "1.24e+02",
+    "Column2": "4.10e+00",
+    "Column3": "9650",
+    "Column4": "188 204 255"
+  },
+  {
+    "Column0": "A1IV",
+    "Column1": "7.11e+01",
+    "Column2": "3.11e+00",
+    "Column3": "9650",
+    "Column4": "183 200 255"
+  },
+  {
+    "Column0": "A1V",
+    "Column1": "4.92e+01",
+    "Column2": "2.59e+00",
+    "Column3": "9650",
+    "Column4": "181 199 255"
+  },
+  {
+    "Column0": "A1VI",
+    "Column1": "1.96e+01",
+    "Column2": "1.63e+00",
+    "Column3": "9650",
+    "Column4": "181 199 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "A2Ia0",
+    "Column1": "2.10e+05",
+    "Column2": "1.74e+02",
+    "Column3": "9513",
+    "Column4": "199 214 255"
+  },
+  {
+    "Column0": "A2Ia",
+    "Column1": "1.21e+05",
+    "Column2": "1.32e+02",
+    "Column3": "9513",
+    "Column4": "199 214 255"
+  },
+  {
+    "Column0": "A2Ib",
+    "Column1": "1.33e+04",
+    "Column2": "4.37e+01",
+    "Column3": "9513",
+    "Column4": "199 214 255"
+  },
+  {
+    "Column0": "A2II",
+    "Column1": "2.07e+03",
+    "Column2": "1.77e+01",
+    "Column3": "9400",
+    "Column4": "188 205 255"
+  },
+  {
+    "Column0": "A2III",
+    "Column1": "9.90e+01",
+    "Column2": "3.87e+00",
+    "Column3": "9400",
+    "Column4": "189 204 255"
+  },
+  {
+    "Column0": "A2IV",
+    "Column1": "5.70e+01",
+    "Column2": "2.93e+00",
+    "Column3": "9400",
+    "Column4": "186 202 255"
+  },
+  {
+    "Column0": "A2V",
+    "Column1": "3.94e+01",
+    "Column2": "2.44e+00",
+    "Column3": "9400",
+    "Column4": "187 203 255"
+  },
+  {
+    "Column0": "A2VI",
+    "Column1": "1.57e+01",
+    "Column2": "1.54e+00",
+    "Column3": "9400",
+    "Column4": "187 203 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "A3Ia0",
+    "Column1": "2.24e+05",
+    "Column2": "1.87e+02",
+    "Column3": "9320",
+    "Column4": "207 219 255"
+  },
+  {
+    "Column0": "A3Ia",
+    "Column1": "1.29e+05",
+    "Column2": "1.42e+02",
+    "Column3": "9320",
+    "Column4": "207 219 255"
+  },
+  {
+    "Column0": "A3Ib",
+    "Column1": "1.29e+04",
+    "Column2": "4.49e+01",
+    "Column3": "9320",
+    "Column4": "207 219 255"
+  },
+  {
+    "Column0": "A3II",
+    "Column1": "1.66e+03",
+    "Column2": "1.67e+01",
+    "Column3": "9150",
+    "Column4": "190 207 255"
+  },
+  {
+    "Column0": "A3III",
+    "Column1": "8.71e+01",
+    "Column2": "3.83e+00",
+    "Column3": "9150",
+    "Column4": "189 203 255"
+  },
+  {
+    "Column0": "A3IV",
+    "Column1": "4.17e+01",
+    "Column2": "2.65e+00",
+    "Column3": "9150",
+    "Column4": "190 205 255"
+  },
+  {
+    "Column0": "A3V",
+    "Column1": "2.89e+01",
+    "Column2": "2.20e+00",
+    "Column3": "9150",
+    "Column4": "191 207 255"
+  },
+  {
+    "Column0": "A3VI",
+    "Column1": "1.15e+01",
+    "Column2": "1.39e+00",
+    "Column3": "9150",
+    "Column4": "191 207 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "A4Ia0",
+    "Column1": "2.39e+05",
+    "Column2": "2.02e+02",
+    "Column3": "9127",
+    "Column4": "215 224 255"
+  },
+  {
+    "Column0": "A4Ia",
+    "Column1": "1.38e+05",
+    "Column2": "1.53e+02",
+    "Column3": "9127",
+    "Column4": "215 224 255"
+  },
+  {
+    "Column0": "A4Ib",
+    "Column1": "1.14e+04",
+    "Column2": "4.41e+01",
+    "Column3": "9127",
+    "Column4": "215 224 255"
+  },
+  {
+    "Column0": "A4II",
+    "Column1": "1.46e+03",
+    "Column2": "1.66e+01",
+    "Column3": "8900",
+    "Column4": "192 208 255"
+  },
+  {
+    "Column0": "A4III",
+    "Column1": "7.00e+01",
+    "Column2": "3.63e+00",
+    "Column3": "8900",
+    "Column4": "196 209 255"
+  },
+  {
+    "Column0": "A4IV",
+    "Column1": "3.35e+01",
+    "Column2": "2.51e+00",
+    "Column3": "8900",
+    "Column4": "195 210 255"
+  },
+  {
+    "Column0": "A4V",
+    "Column1": "2.32e+01",
+    "Column2": "2.09e+00",
+    "Column3": "8900",
+    "Column4": "197 211 255"
+  },
+  {
+    "Column0": "A4VI",
+    "Column1": "9.23e+00",
+    "Column2": "1.32e+00",
+    "Column3": "8900",
+    "Column4": "197 211 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "A5Ia0",
+    "Column1": "2.55e+05",
+    "Column2": "2.17e+02",
+    "Column3": "8933",
+    "Column4": "223 229 255"
+  },
+  {
+    "Column0": "A5Ia",
+    "Column1": "1.61e+05",
+    "Column2": "1.73e+02",
+    "Column3": "8933",
+    "Column4": "223 229 255"
+  },
+  {
+    "Column0": "A5Ib",
+    "Column1": "1.11e+04",
+    "Column2": "4.54e+01",
+    "Column3": "8933",
+    "Column4": "223 229 255"
+  },
+  {
+    "Column0": "A5II",
+    "Column1": "1.29e+03",
+    "Column2": "1.65e+01",
+    "Column3": "8650",
+    "Column4": "194 210 255"
+  },
+  {
+    "Column0": "A5III",
+    "Column1": "5.64e+01",
+    "Column2": "3.45e+00",
+    "Column3": "8650",
+    "Column4": "202 215 255"
+  },
+  {
+    "Column0": "A5IV",
+    "Column1": "2.70e+01",
+    "Column2": "2.38e+00",
+    "Column3": "8650",
+    "Column4": "212 220 255"
+  },
+  {
+    "Column0": "A5V",
+    "Column1": "1.70e+01",
+    "Column2": "1.89e+00",
+    "Column3": "8650",
+    "Column4": "202 215 255"
+  },
+  {
+    "Column0": "A5VI",
+    "Column1": "6.78e+00",
+    "Column2": "1.20e+00",
+    "Column3": "8650",
+    "Column4": "202 215 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "A6Ia0",
+    "Column1": "2.49e+05",
+    "Column2": "2.24e+02",
+    "Column3": "8740",
+    "Column4": "219 226 255"
+  },
+  {
+    "Column0": "A6Ia",
+    "Column1": "1.89e+05",
+    "Column2": "1.95e+02",
+    "Column3": "8740",
+    "Column4": "219 226 255"
+  },
+  {
+    "Column0": "A6Ib",
+    "Column1": "1.09e+04",
+    "Column2": "4.69e+01",
+    "Column3": "8740",
+    "Column4": "219 226 255"
+  },
+  {
+    "Column0": "A6II",
+    "Column1": "1.14e+03",
+    "Column2": "1.65e+01",
+    "Column3": "8400",
+    "Column4": "196 211 255"
+  },
+  {
+    "Column0": "A6III",
+    "Column1": "4.55e+01",
+    "Column2": "3.28e+00",
+    "Column3": "8400",
+    "Column4": "209 219 255"
+  },
+  {
+    "Column0": "A6IV",
+    "Column1": "2.18e+01",
+    "Column2": "2.27e+00",
+    "Column3": "8400",
+    "Column4": "202 214 255"
+  },
+  {
+    "Column0": "A6V",
+    "Column1": "1.51e+01",
+    "Column2": "1.89e+00",
+    "Column3": "8400",
+    "Column4": "199 212 255"
+  },
+  {
+    "Column0": "A6VI",
+    "Column1": "5.47e+00",
+    "Column2": "1.14e+00",
+    "Column3": "8400",
+    "Column4": "199 212 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "A7Ia0",
+    "Column1": "2.67e+05",
+    "Column2": "2.43e+02",
+    "Column3": "8547",
+    "Column4": "215 223 255"
+  },
+  {
+    "Column0": "A7Ia",
+    "Column1": "2.22e+05",
+    "Column2": "2.21e+02",
+    "Column3": "8547",
+    "Column4": "215 223 255"
+  },
+  {
+    "Column0": "A7Ib",
+    "Column1": "1.06e+04",
+    "Column2": "4.84e+01",
+    "Column3": "8547",
+    "Column4": "215 223 255"
+  },
+  {
+    "Column0": "A7II",
+    "Column1": "1.11e+03",
+    "Column2": "1.72e+01",
+    "Column3": "8150",
+    "Column4": "197 213 255"
+  },
+  {
+    "Column0": "A7III",
+    "Column1": "3.68e+01",
+    "Column2": "3.14e+00",
+    "Column3": "8150",
+    "Column4": "210 219 255"
+  },
+  {
+    "Column0": "A7IV",
+    "Column1": "1.93e+01",
+    "Column2": "2.27e+00",
+    "Column3": "8150",
+    "Column4": "192 207 255"
+  },
+  {
+    "Column0": "A7V",
+    "Column1": "1.22e+01",
+    "Column2": "1.81e+00",
+    "Column3": "8150",
+    "Column4": "200 213 255"
+  },
+  {
+    "Column0": "A7VI",
+    "Column1": "4.43e+00",
+    "Column2": "1.09e+00",
+    "Column3": "8150",
+    "Column4": "200 213 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "A8Ia0",
+    "Column1": "2.60e+05",
+    "Column2": "2.51e+02",
+    "Column3": "8353",
+    "Column4": "210 221 255"
+  },
+  {
+    "Column0": "A8Ia",
+    "Column1": "2.38e+05",
+    "Column2": "2.40e+02",
+    "Column3": "8353",
+    "Column4": "210 221 255"
+  },
+  {
+    "Column0": "A8Ib",
+    "Column1": "1.04e+04",
+    "Column2": "5.01e+01",
+    "Column3": "8353",
+    "Column4": "210 221 255"
+  },
+  {
+    "Column0": "A8II",
+    "Column1": "9.90e+02",
+    "Column2": "1.73e+01",
+    "Column3": "7900",
+    "Column4": "199 214 255"
+  },
+  {
+    "Column0": "A8III",
+    "Column1": "3.28e+01",
+    "Column2": "3.15e+00",
+    "Column3": "7900",
+    "Column4": "209 219 255"
+  },
+  {
+    "Column0": "A8IV",
+    "Column1": "1.57e+01",
+    "Column2": "2.18e+00",
+    "Column3": "7900",
+    "Column4": "208 217 255"
+  },
+  {
+    "Column0": "A8V",
+    "Column1": "1.09e+01",
+    "Column2": "1.81e+00",
+    "Column3": "7900",
+    "Column4": "213 222 255"
+  },
+  {
+    "Column0": "A8VI",
+    "Column1": "3.59e+00",
+    "Column2": "1.04e+00",
+    "Column3": "7900",
+    "Column4": "213 222 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "A9Ia0",
+    "Column1": "2.80e+05",
+    "Column2": "2.73e+02",
+    "Column3": "8160",
+    "Column4": "206 218 255"
+  },
+  {
+    "Column0": "A9Ia",
+    "Column1": "2.33e+05",
+    "Column2": "2.49e+02",
+    "Column3": "8160",
+    "Column4": "206 218 255"
+  },
+  {
+    "Column0": "A9Ib",
+    "Column1": "1.02e+04",
+    "Column2": "5.20e+01",
+    "Column3": "8160",
+    "Column4": "206 218 255"
+  },
+  {
+    "Column0": "A9II",
+    "Column1": "9.70e+02",
+    "Column2": "1.83e+01",
+    "Column3": "7650",
+    "Column4": "201 216 255"
+  },
+  {
+    "Column0": "A9III",
+    "Column1": "2.67e+01",
+    "Column2": "3.03e+00",
+    "Column3": "7650",
+    "Column4": "209 219 255"
+  },
+  {
+    "Column0": "A9IV",
+    "Column1": "1.40e+01",
+    "Column2": "2.20e+00",
+    "Column3": "7650",
+    "Column4": "224 227 255"
+  },
+  {
+    "Column0": "A9V",
+    "Column1": "8.85e+00",
+    "Column2": "1.75e+00",
+    "Column3": "7650",
+    "Column4": "219 224 255"
+  },
+  {
+    "Column0": "A9VI",
+    "Column1": "2.93e+00",
+    "Column2": "1.00e+00",
+    "Column3": "7650",
+    "Column4": "219 224 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "F0Ia0",
+    "Column1": "2.74e+05",
+    "Column2": "2.83e+02",
+    "Column3": "7967",
+    "Column4": "202 215 255"
+  },
+  {
+    "Column0": "F0Ia",
+    "Column1": "2.28e+05",
+    "Column2": "2.58e+02",
+    "Column3": "7967",
+    "Column4": "202 215 255"
+  },
+  {
+    "Column0": "F0Ib",
+    "Column1": "9.96e+03",
+    "Column2": "5.40e+01",
+    "Column3": "7967",
+    "Column4": "202 215 255"
+  },
+  {
+    "Column0": "F0II",
+    "Column1": "8.70e+02",
+    "Column2": "1.85e+01",
+    "Column3": "7400",
+    "Column4": "203 217 255"
+  },
+  {
+    "Column0": "F0III",
+    "Column1": "2.19e+01",
+    "Column2": "2.93e+00",
+    "Column3": "7400",
+    "Column4": "213 222 255"
+  },
+  {
+    "Column0": "F0IV",
+    "Column1": "1.15e+01",
+    "Column2": "2.12e+00",
+    "Column3": "7400",
+    "Column4": "218 224 255"
+  },
+  {
+    "Column0": "F0V",
+    "Column1": "7.94e+00",
+    "Column2": "1.77e+00",
+    "Column3": "7400",
+    "Column4": "224 229 255"
+  },
+  {
+    "Column0": "F0VI",
+    "Column1": "2.40e+00",
+    "Column2": "9.71e-01",
+    "Column3": "7400",
+    "Column4": "224 229 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "F1Ia0",
+    "Column1": "2.96e+05",
+    "Column2": "3.09e+02",
+    "Column3": "7773",
+    "Column4": "223 229 255"
+  },
+  {
+    "Column0": "F1Ia",
+    "Column1": "2.24e+05",
+    "Column2": "2.69e+02",
+    "Column3": "7773",
+    "Column4": "223 229 255"
+  },
+  {
+    "Column0": "F1Ib",
+    "Column1": "9.79e+03",
+    "Column2": "5.62e+01",
+    "Column3": "7773",
+    "Column4": "223 229 255"
+  },
+  {
+    "Column0": "F1II",
+    "Column1": "8.65e+02",
+    "Column2": "1.92e+01",
+    "Column3": "7260",
+    "Column4": "216 225 255"
+  },
+  {
+    "Column0": "F1III",
+    "Column1": "2.17e+01",
+    "Column2": "3.04e+00",
+    "Column3": "7260",
+    "Column4": "227 232 255"
+  },
+  {
+    "Column0": "F1IV",
+    "Column1": "1.25e+01",
+    "Column2": "2.30e+00",
+    "Column3": "7260",
+    "Column4": "223 227 255"
+  },
+  {
+    "Column0": "F1V",
+    "Column1": "6.56e+00",
+    "Column2": "1.67e+00",
+    "Column3": "7260",
+    "Column4": "230 234 255"
+  },
+  {
+    "Column0": "F1VI",
+    "Column1": "1.98e+00",
+    "Column2": "9.17e-01",
+    "Column3": "7260",
+    "Column4": "230 234 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "F2Ia0",
+    "Column1": "2.91e+05",
+    "Column2": "3.23e+02",
+    "Column3": "7580",
+    "Column4": "244 243 255"
+  },
+  {
+    "Column0": "F2Ia",
+    "Column1": "2.02e+05",
+    "Column2": "2.68e+02",
+    "Column3": "7580",
+    "Column4": "244 243 255"
+  },
+  {
+    "Column0": "F2Ib",
+    "Column1": "8.80e+03",
+    "Column2": "5.61e+01",
+    "Column3": "7580",
+    "Column4": "244 243 255"
+  },
+  {
+    "Column0": "F2II",
+    "Column1": "8.60e+02",
+    "Column2": "1.99e+01",
+    "Column3": "7120",
+    "Column4": "229 233 255"
+  },
+  {
+    "Column0": "F2III",
+    "Column1": "1.97e+01",
+    "Column2": "3.01e+00",
+    "Column3": "7120",
+    "Column4": "241 241 255"
+  },
+  {
+    "Column0": "F2IV",
+    "Column1": "1.49e+01",
+    "Column2": "2.62e+00",
+    "Column3": "7120",
+    "Column4": "227 230 255"
+  },
+  {
+    "Column0": "F2V",
+    "Column1": "5.95e+00",
+    "Column2": "1.65e+00",
+    "Column3": "7120",
+    "Column4": "236 239 255"
+  },
+  {
+    "Column0": "F2VI",
+    "Column1": "1.64e+00",
+    "Column2": "8.67e-01",
+    "Column3": "7120",
+    "Column4": "236 239 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "F3Ia0",
+    "Column1": "3.16e+05",
+    "Column2": "3.54e+02",
+    "Column3": "7387",
+    "Column4": "236 237 255"
+  },
+  {
+    "Column0": "F3Ia",
+    "Column1": "1.99e+05",
+    "Column2": "2.81e+02",
+    "Column3": "7387",
+    "Column4": "236 237 255"
+  },
+  {
+    "Column0": "F3Ib",
+    "Column1": "8.70e+03",
+    "Column2": "5.87e+01",
+    "Column3": "7387",
+    "Column4": "236 237 255"
+  },
+  {
+    "Column0": "F3II",
+    "Column1": "7.82e+02",
+    "Column2": "1.97e+01",
+    "Column3": "6980",
+    "Column4": "235 237 255"
+  },
+  {
+    "Column0": "F3III",
+    "Column1": "1.96e+01",
+    "Column2": "3.12e+00",
+    "Column3": "6980",
+    "Column4": "241 241 255"
+  },
+  {
+    "Column0": "F3IV",
+    "Column1": "1.63e+01",
+    "Column2": "2.85e+00",
+    "Column3": "6980",
+    "Column4": "227 230 255"
+  },
+  {
+    "Column0": "F3V",
+    "Column1": "4.94e+00",
+    "Column2": "1.57e+00",
+    "Column3": "6980",
+    "Column4": "230 233 255"
+  },
+  {
+    "Column0": "F3VI",
+    "Column1": "1.49e+00",
+    "Column2": "8.60e-01",
+    "Column3": "6980",
+    "Column4": "230 233 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "F4Ia0",
+    "Column1": "3.43e+05",
+    "Column2": "3.89e+02",
+    "Column3": "7193",
+    "Column4": "227 231 255"
+  },
+  {
+    "Column0": "F4Ia",
+    "Column1": "1.80e+05",
+    "Column2": "2.82e+02",
+    "Column3": "7193",
+    "Column4": "227 231 255"
+  },
+  {
+    "Column0": "F4Ib",
+    "Column1": "7.86e+03",
+    "Column2": "5.89e+01",
+    "Column3": "7193",
+    "Column4": "227 231 255"
+  },
+  {
+    "Column0": "F4II",
+    "Column1": "7.81e+02",
+    "Column2": "2.05e+01",
+    "Column3": "6840",
+    "Column4": "241 241 255"
+  },
+  {
+    "Column0": "F4III",
+    "Column1": "1.96e+01",
+    "Column2": "3.25e+00",
+    "Column3": "6840",
+    "Column4": "241 240 255"
+  },
+  {
+    "Column0": "F4IV",
+    "Column1": "1.96e+01",
+    "Column2": "3.25e+00",
+    "Column3": "6840",
+    "Column4": "234 235 255"
+  },
+  {
+    "Column0": "F4V",
+    "Column1": "4.50e+00",
+    "Column2": "1.56e+00",
+    "Column3": "6840",
+    "Column4": "224 226 255"
+  },
+  {
+    "Column0": "F4VI",
+    "Column1": "1.24e+00",
+    "Column2": "8.17e-01",
+    "Column3": "6840",
+    "Column4": "224 226 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "F5Ia0",
+    "Column1": "3.74e+05",
+    "Column2": "4.29e+02",
+    "Column3": "7000",
+    "Column4": "219 225 255"
+  },
+  {
+    "Column0": "F5Ia",
+    "Column1": "1.63e+05",
+    "Column2": "2.83e+02",
+    "Column3": "7000",
+    "Column4": "219 225 255"
+  },
+  {
+    "Column0": "F5Ib",
+    "Column1": "7.82e+03",
+    "Column2": "6.20e+01",
+    "Column3": "7000",
+    "Column4": "219 225 255"
+  },
+  {
+    "Column0": "F5II",
+    "Column1": "7.83e+02",
+    "Column2": "2.14e+01",
+    "Column3": "6700",
+    "Column4": "247 242 255"
+  },
+  {
+    "Column0": "F5III",
+    "Column1": "2.16e+01",
+    "Column2": "3.55e+00",
+    "Column3": "6700",
+    "Column4": "242 240 255"
+  },
+  {
+    "Column0": "F5IV",
+    "Column1": "2.16e+01",
+    "Column2": "3.55e+00",
+    "Column3": "6700",
+    "Column4": "241 239 255"
+  },
+  {
+    "Column0": "F5V",
+    "Column1": "3.75e+00",
+    "Column2": "1.48e+00",
+    "Column3": "6700",
+    "Column4": "248 247 255"
+  },
+  {
+    "Column0": "F5VI",
+    "Column1": "1.03e+00",
+    "Column2": "7.77e-01",
+    "Column3": "6700",
+    "Column4": "248 247 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "F6Ia0",
+    "Column1": "3.74e+05",
+    "Column2": "4.60e+02",
+    "Column3": "6760",
+    "Column4": "255 234 252"
+  },
+  {
+    "Column0": "F6Ia",
+    "Column1": "1.49e+05",
+    "Column2": "2.90e+02",
+    "Column3": "6760",
+    "Column4": "255 234 252"
+  },
+  {
+    "Column0": "F6Ib",
+    "Column1": "7.82e+03",
+    "Column2": "6.64e+01",
+    "Column3": "6760",
+    "Column4": "255 234 252"
+  },
+  {
+    "Column0": "F6II",
+    "Column1": "7.86e+02",
+    "Column2": "2.24e+01",
+    "Column3": "6560",
+    "Column4": "253 249 255"
+  },
+  {
+    "Column0": "F6III",
+    "Column1": "2.37e+01",
+    "Column2": "3.89e+00",
+    "Column3": "6560",
+    "Column4": "241 240 255"
+  },
+  {
+    "Column0": "F6IV",
+    "Column1": "1.64e+01",
+    "Column2": "3.23e+00",
+    "Column3": "6560",
+    "Column4": "241 239 255"
+  },
+  {
+    "Column0": "F6V",
+    "Column1": "3.13e+00",
+    "Column2": "1.41e+00",
+    "Column3": "6560",
+    "Column4": "244 241 255"
+  },
+  {
+    "Column0": "F6VI",
+    "Column1": "8.62e-01",
+    "Column2": "7.41e-01",
+    "Column3": "6560",
+    "Column4": "244 241 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "F7Ia0",
+    "Column1": "4.13e+05",
+    "Column2": "5.19e+02",
+    "Column3": "6520",
+    "Column4": "255 243 250"
+  },
+  {
+    "Column0": "F7Ia",
+    "Column1": "1.37e+05",
+    "Column2": "2.99e+02",
+    "Column3": "6520",
+    "Column4": "255 243 250"
+  },
+  {
+    "Column0": "F7Ib",
+    "Column1": "7.18e+03",
+    "Column2": "6.84e+01",
+    "Column3": "6520",
+    "Column4": "255 243 250"
+  },
+  {
+    "Column0": "F7II",
+    "Column1": "7.91e+02",
+    "Column2": "2.34e+01",
+    "Column3": "6420",
+    "Column4": "255 250 251"
+  },
+  {
+    "Column0": "F7III",
+    "Column1": "2.62e+01",
+    "Column2": "4.26e+00",
+    "Column3": "6420",
+    "Column4": "241 240 255"
+  },
+  {
+    "Column0": "F7IV",
+    "Column1": "1.25e+01",
+    "Column2": "2.95e+00",
+    "Column3": "6420",
+    "Column4": "240 239 255"
+  },
+  {
+    "Column0": "F7V",
+    "Column1": "2.62e+00",
+    "Column2": "1.35e+00",
+    "Column3": "6420",
+    "Column4": "246 243 255"
+  },
+  {
+    "Column0": "F7VI",
+    "Column1": "7.91e-01",
+    "Column2": "7.41e-01",
+    "Column3": "6420",
+    "Column4": "246 243 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "F8Ia0",
+    "Column1": "4.19e+05",
+    "Column2": "5.64e+02",
+    "Column3": "6280",
+    "Column4": "255 252 247"
+  },
+  {
+    "Column0": "F8Ia",
+    "Column1": "1.27e+05",
+    "Column2": "3.10e+02",
+    "Column3": "6280",
+    "Column4": "255 252 247"
+  },
+  {
+    "Column0": "F8Ib",
+    "Column1": "7.29e+03",
+    "Column2": "7.43e+01",
+    "Column3": "6280",
+    "Column4": "255 252 247"
+  },
+  {
+    "Column0": "F8II",
+    "Column1": "7.29e+02",
+    "Column2": "2.35e+01",
+    "Column3": "6280",
+    "Column4": "255 248 245"
+  },
+  {
+    "Column0": "F8III",
+    "Column1": "2.90e+01",
+    "Column2": "4.69e+00",
+    "Column3": "6280",
+    "Column4": "252 248 255"
+  },
+  {
+    "Column0": "F8IV",
+    "Column1": "1.05e+01",
+    "Column2": "2.83e+00",
+    "Column3": "6280",
+    "Column4": "255 252 253"
+  },
+  {
+    "Column0": "F8V",
+    "Column1": "2.41e+00",
+    "Column2": "1.35e+00",
+    "Column3": "6280",
+    "Column4": "255 247 252"
+  },
+  {
+    "Column0": "F8VI",
+    "Column1": "6.65e-01",
+    "Column2": "7.10e-01",
+    "Column3": "6280",
+    "Column4": "255 247 252"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "F9Ia0",
+    "Column1": "4.73e+05",
+    "Column2": "6.54e+02",
+    "Column3": "6011",
+    "Column4": "255 246 233"
+  },
+  {
+    "Column0": "F9Ia",
+    "Column1": "1.30e+05",
+    "Column2": "3.43e+02",
+    "Column3": "6011",
+    "Column4": "255 246 233"
+  },
+  {
+    "Column0": "F9Ib",
+    "Column1": "6.84e+03",
+    "Column2": "7.86e+01",
+    "Column3": "6011",
+    "Column4": "255 246 233"
+  },
+  {
+    "Column0": "F9II",
+    "Column1": "7.39e+02",
+    "Column2": "2.48e+01",
+    "Column3": "6140",
+    "Column4": "255 246 239"
+  },
+  {
+    "Column0": "F9III",
+    "Column1": "3.22e+01",
+    "Column2": "5.17e+00",
+    "Column3": "6140",
+    "Column4": "255 246 245"
+  },
+  {
+    "Column0": "F9IV",
+    "Column1": "8.10e+00",
+    "Column2": "2.59e+00",
+    "Column3": "6140",
+    "Column4": "255 250 249"
+  },
+  {
+    "Column0": "F9V",
+    "Column1": "2.03e+00",
+    "Column2": "1.30e+00",
+    "Column3": "6140",
+    "Column4": "255 247 252"
+  },
+  {
+    "Column0": "F9VI",
+    "Column1": "6.14e-01",
+    "Column2": "7.14e-01",
+    "Column3": "6140",
+    "Column4": "255 247 252"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "G0Ia0",
+    "Column1": "4.95e+05",
+    "Column2": "7.32e+02",
+    "Column3": "5743",
+    "Column4": "255 239 219"
+  },
+  {
+    "Column0": "G0Ia",
+    "Column1": "1.24e+05",
+    "Column2": "3.67e+02",
+    "Column3": "5743",
+    "Column4": "255 239 219"
+  },
+  {
+    "Column0": "G0Ib",
+    "Column1": "7.15e+03",
+    "Column2": "8.81e+01",
+    "Column3": "5743",
+    "Column4": "255 239 219"
+  },
+  {
+    "Column0": "G0II",
+    "Column1": "7.84e+02",
+    "Column2": "2.92e+01",
+    "Column3": "5743",
+    "Column4": "255 244 233"
+  },
+  {
+    "Column0": "G0III",
+    "Column1": "3.75e+01",
+    "Column2": "6.38e+00",
+    "Column3": "5743",
+    "Column4": "255 242 233"
+  },
+  {
+    "Column0": "G0IV",
+    "Column1": "6.25e+00",
+    "Column2": "2.38e+00",
+    "Column3": "6000",
+    "Column4": "255 248 245"
+  },
+  {
+    "Column0": "G0V",
+    "Column1": "1.72e+00",
+    "Column2": "1.25e+00",
+    "Column3": "6000",
+    "Column4": "255 248 252"
+  },
+  {
+    "Column0": "G0VI",
+    "Column1": "5.20e-01",
+    "Column2": "6.88e-01",
+    "Column3": "6000",
+    "Column4": "255 248 252"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "G1Ia0",
+    "Column1": "5.27e+05",
+    "Column2": "8.32e+02",
+    "Column3": "5474",
+    "Column4": "255 238 212"
+  },
+  {
+    "Column0": "G1Ia",
+    "Column1": "1.32e+05",
+    "Column2": "4.17e+02",
+    "Column3": "5474",
+    "Column4": "255 238 212"
+  },
+  {
+    "Column0": "G1Ib",
+    "Column1": "7.62e+03",
+    "Column2": "1.00e+02",
+    "Column3": "5474",
+    "Column4": "255 238 212"
+  },
+  {
+    "Column0": "G1II",
+    "Column1": "8.35e+02",
+    "Column2": "3.31e+01",
+    "Column3": "5474",
+    "Column4": "255 243 227"
+  },
+  {
+    "Column0": "G1III",
+    "Column1": "4.38e+01",
+    "Column2": "7.59e+00",
+    "Column3": "5474",
+    "Column4": "255 243 233"
+  },
+  {
+    "Column0": "G1IV",
+    "Column1": "6.35e+00",
+    "Column2": "2.50e+00",
+    "Column3": "5890",
+    "Column4": "255 246 244"
+  },
+  {
+    "Column0": "G1V",
+    "Column1": "1.46e+00",
+    "Column2": "1.19e+00",
+    "Column3": "5890",
+    "Column4": "255 247 248"
+  },
+  {
+    "Column0": "G1VI",
+    "Column1": "4.40e-01",
+    "Column2": "6.56e-01",
+    "Column3": "5890",
+    "Column4": "255 247 248"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "G2Ia0",
+    "Column1": "5.73e+05",
+    "Column2": "9.59e+02",
+    "Column3": "5206",
+    "Column4": "255 236 205"
+  },
+  {
+    "Column0": "G2Ia",
+    "Column1": "1.31e+05",
+    "Column2": "4.59e+02",
+    "Column3": "5206",
+    "Column4": "255 236 205"
+  },
+  {
+    "Column0": "G2Ib",
+    "Column1": "8.29e+03",
+    "Column2": "1.15e+02",
+    "Column3": "5206",
+    "Column4": "255 236 205"
+  },
+  {
+    "Column0": "G2II",
+    "Column1": "9.09e+02",
+    "Column2": "3.82e+01",
+    "Column3": "5206",
+    "Column4": "255 241 221"
+  },
+  {
+    "Column0": "G2III",
+    "Column1": "5.23e+01",
+    "Column2": "9.16e+00",
+    "Column3": "5206",
+    "Column4": "255 243 233"
+  },
+  {
+    "Column0": "G2IV",
+    "Column1": "6.48e+00",
+    "Column2": "2.62e+00",
+    "Column3": "5780",
+    "Column4": "255 244 242"
+  },
+  {
+    "Column0": "G2V",
+    "Column1": "1.23e+00",
+    "Column2": "1.14e+00",
+    "Column3": "5780",
+    "Column4": "255 245 242"
+  },
+  {
+    "Column0": "G2VI",
+    "Column1": "3.73e-01",
+    "Column2": "6.28e-01",
+    "Column3": "5780",
+    "Column4": "255 245 242"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "G3Ia0",
+    "Column1": "7.03e+05",
+    "Column2": "1.18e+03",
+    "Column3": "4937",
+    "Column4": "255 231 203"
+  },
+  {
+    "Column0": "G3Ia",
+    "Column1": "1.47e+05",
+    "Column2": "5.40e+02",
+    "Column3": "4937",
+    "Column4": "255 231 203"
+  },
+  {
+    "Column0": "G3Ib",
+    "Column1": "8.46e+03",
+    "Column2": "1.30e+02",
+    "Column3": "4937",
+    "Column4": "255 231 203"
+  },
+  {
+    "Column0": "G3II",
+    "Column1": "1.11e+03",
+    "Column2": "4.70e+01",
+    "Column3": "4937",
+    "Column4": "255 239 215"
+  },
+  {
+    "Column0": "G3III",
+    "Column1": "7.03e+01",
+    "Column2": "1.18e+01",
+    "Column3": "4937",
+    "Column4": "255 243 233"
+  },
+  {
+    "Column0": "G3IV",
+    "Column1": "6.04e+00",
+    "Column2": "2.63e+00",
+    "Column3": "5670",
+    "Column4": "255 238 226"
+  },
+  {
+    "Column0": "G3V",
+    "Column1": "1.15e+00",
+    "Column2": "1.15e+00",
+    "Column3": "5670",
+    "Column4": "255 243 236"
+  },
+  {
+    "Column0": "G3VI",
+    "Column1": "3.48e-01",
+    "Column2": "6.30e-01",
+    "Column3": "5670",
+    "Column4": "255 243 236"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "G4Ia0",
+    "Column1": "8.13e+05",
+    "Column2": "1.42e+03",
+    "Column3": "4669",
+    "Column4": "255 231 193"
+  },
+  {
+    "Column0": "G4Ia",
+    "Column1": "1.70e+05",
+    "Column2": "6.49e+02",
+    "Column3": "4669",
+    "Column4": "255 231 193"
+  },
+  {
+    "Column0": "G4Ib",
+    "Column1": "9.77e+03",
+    "Column2": "1.56e+02",
+    "Column3": "4669",
+    "Column4": "255 231 193"
+  },
+  {
+    "Column0": "G4II",
+    "Column1": "1.29e+03",
+    "Column2": "5.65e+01",
+    "Column3": "4669",
+    "Column4": "255 237 209"
+  },
+  {
+    "Column0": "G4III",
+    "Column1": "8.91e+01",
+    "Column2": "1.49e+01",
+    "Column3": "4669",
+    "Column4": "255 243 233"
+  },
+  {
+    "Column0": "G4IV",
+    "Column1": "6.20e+00",
+    "Column2": "2.76e+00",
+    "Column3": "5560",
+    "Column4": "255 245 238"
+  },
+  {
+    "Column0": "G4V",
+    "Column1": "9.82e-01",
+    "Column2": "1.10e+00",
+    "Column3": "5560",
+    "Column4": "255 241 229"
+  },
+  {
+    "Column0": "G4VI",
+    "Column1": "2.97e-01",
+    "Column2": "6.05e-01",
+    "Column3": "5560",
+    "Column4": "255 241 229"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "G5Ia0",
+    "Column1": "1.07e+06",
+    "Column2": "1.84e+03",
+    "Column3": "4400",
+    "Column4": "255 230 183"
+  },
+  {
+    "Column0": "G5Ia",
+    "Column1": "1.86e+05",
+    "Column2": "7.66e+02",
+    "Column3": "4400",
+    "Column4": "255 230 183"
+  },
+  {
+    "Column0": "G5Ib",
+    "Column1": "1.18e+04",
+    "Column2": "1.92e+02",
+    "Column3": "4400",
+    "Column4": "255 230 183"
+  },
+  {
+    "Column0": "G5II",
+    "Column1": "1.55e+03",
+    "Column2": "6.99e+01",
+    "Column3": "4400",
+    "Column4": "255 235 203"
+  },
+  {
+    "Column0": "G5III",
+    "Column1": "1.18e+02",
+    "Column2": "1.92e+01",
+    "Column3": "4400",
+    "Column4": "255 236 211"
+  },
+  {
+    "Column0": "G5IV",
+    "Column1": "6.38e+00",
+    "Column2": "2.92e+00",
+    "Column3": "5450",
+    "Column4": "255 235 213"
+  },
+  {
+    "Column0": "G5V",
+    "Column1": "8.41e-01",
+    "Column2": "1.06e+00",
+    "Column3": "5450",
+    "Column4": "255 244 234"
+  },
+  {
+    "Column0": "G5VI",
+    "Column1": "2.54e-01",
+    "Column2": "5.83e-01",
+    "Column3": "5450",
+    "Column4": "255 244 234"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "G6Ia0",
+    "Column1": "1.12e+06",
+    "Column2": "1.93e+03",
+    "Column3": "4343",
+    "Column4": "255 227 178"
+  },
+  {
+    "Column0": "G6Ia",
+    "Column1": "1.95e+05",
+    "Column2": "8.04e+02",
+    "Column3": "4343",
+    "Column4": "255 227 178"
+  },
+  {
+    "Column0": "G6Ib",
+    "Column1": "1.23e+04",
+    "Column2": "2.02e+02",
+    "Column3": "4343",
+    "Column4": "255 227 178"
+  },
+  {
+    "Column0": "G6II",
+    "Column1": "1.62e+03",
+    "Column2": "7.33e+01",
+    "Column3": "4343",
+    "Column4": "255 233 198"
+  },
+  {
+    "Column0": "G6III",
+    "Column1": "1.23e+02",
+    "Column2": "2.02e+01",
+    "Column3": "4343",
+    "Column4": "255 236 215"
+  },
+  {
+    "Column0": "G6IV",
+    "Column1": "6.59e+00",
+    "Column2": "3.09e+00",
+    "Column3": "5340",
+    "Column4": "255 242 234"
+  },
+  {
+    "Column0": "G6V",
+    "Column1": "7.92e-01",
+    "Column2": "1.07e+00",
+    "Column3": "5340",
+    "Column4": "255 244 235"
+  },
+  {
+    "Column0": "G6VI",
+    "Column1": "2.18e-01",
+    "Column2": "5.62e-01",
+    "Column3": "5340",
+    "Column4": "255 244 235"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "G7Ia0",
+    "Column1": "1.18e+06",
+    "Column2": "2.03e+03",
+    "Column3": "4286",
+    "Column4": "255 223 172"
+  },
+  {
+    "Column0": "G7Ia",
+    "Column1": "2.05e+05",
+    "Column2": "8.46e+02",
+    "Column3": "4286",
+    "Column4": "255 223 172"
+  },
+  {
+    "Column0": "G7Ib",
+    "Column1": "1.29e+04",
+    "Column2": "2.12e+02",
+    "Column3": "4286",
+    "Column4": "255 223 172"
+  },
+  {
+    "Column0": "G7II",
+    "Column1": "1.70e+03",
+    "Column2": "7.71e+01",
+    "Column3": "4286",
+    "Column4": "255 231 194"
+  },
+  {
+    "Column0": "G7III",
+    "Column1": "1.29e+02",
+    "Column2": "2.12e+01",
+    "Column3": "4286",
+    "Column4": "255 234 207"
+  },
+  {
+    "Column0": "G7IV",
+    "Column1": "6.84e+00",
+    "Column2": "3.28e+00",
+    "Column3": "5230",
+    "Column4": "255 231 205"
+  },
+  {
+    "Column0": "G7V",
+    "Column1": "6.84e-01",
+    "Column2": "1.04e+00",
+    "Column3": "5230",
+    "Column4": "255 244 235"
+  },
+  {
+    "Column0": "G7VI",
+    "Column1": "2.06e-01",
+    "Column2": "5.70e-01",
+    "Column3": "5230",
+    "Column4": "255 244 235"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "G8Ia0",
+    "Column1": "1.13e+06",
+    "Column2": "2.04e+03",
+    "Column3": "4229",
+    "Column4": "255 220 167"
+  },
+  {
+    "Column0": "G8Ia",
+    "Column1": "1.96e+05",
+    "Column2": "8.51e+02",
+    "Column3": "4229",
+    "Column4": "255 220 167"
+  },
+  {
+    "Column0": "G8Ib",
+    "Column1": "1.49e+04",
+    "Column2": "2.34e+02",
+    "Column3": "4229",
+    "Column4": "255 220 167"
+  },
+  {
+    "Column0": "G8II",
+    "Column1": "1.96e+03",
+    "Column2": "8.51e+01",
+    "Column3": "4229",
+    "Column4": "255 229 189"
+  },
+  {
+    "Column0": "G8III",
+    "Column1": "1.24e+02",
+    "Column2": "2.14e+01",
+    "Column3": "4229",
+    "Column4": "255 231 199"
+  },
+  {
+    "Column0": "G8IV",
+    "Column1": "6.50e+00",
+    "Column2": "3.34e+00",
+    "Column3": "5120",
+    "Column4": "255 233 211"
+  },
+  {
+    "Column0": "G8V",
+    "Column1": "6.50e-01",
+    "Column2": "1.06e+00",
+    "Column3": "5120",
+    "Column4": "255 237 222"
+  },
+  {
+    "Column0": "G8VI",
+    "Column1": "1.79e-01",
+    "Column2": "5.54e-01",
+    "Column3": "5120",
+    "Column4": "255 237 222"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "G9Ia0",
+    "Column1": "1.19e+06",
+    "Column2": "2.16e+03",
+    "Column3": "4171",
+    "Column4": "255 221 174"
+  },
+  {
+    "Column0": "G9Ia",
+    "Column1": "2.07e+05",
+    "Column2": "8.98e+02",
+    "Column3": "4171",
+    "Column4": "255 221 174"
+  },
+  {
+    "Column0": "G9Ib",
+    "Column1": "1.57e+04",
+    "Column2": "2.47e+02",
+    "Column3": "4171",
+    "Column4": "255 221 174"
+  },
+  {
+    "Column0": "G9II",
+    "Column1": "2.07e+03",
+    "Column2": "8.98e+01",
+    "Column3": "4171",
+    "Column4": "255 227 184"
+  },
+  {
+    "Column0": "G9III",
+    "Column1": "1.31e+02",
+    "Column2": "2.26e+01",
+    "Column3": "4171",
+    "Column4": "255 231 196"
+  },
+  {
+    "Column0": "G9IV",
+    "Column1": "6.80e+00",
+    "Column2": "3.57e+00",
+    "Column3": "5010",
+    "Column4": "255 229 200"
+  },
+  {
+    "Column0": "G9V",
+    "Column1": "5.66e-01",
+    "Column2": "1.03e+00",
+    "Column3": "5010",
+    "Column4": "255 239 221"
+  },
+  {
+    "Column0": "G9VI",
+    "Column1": "1.71e-01",
+    "Column2": "5.66e-01",
+    "Column3": "5010",
+    "Column4": "255 239 221"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "K0Ia0",
+    "Column1": "1.26e+06",
+    "Column2": "2.28e+03",
+    "Column3": "4114",
+    "Column4": "255 221 181"
+  },
+  {
+    "Column0": "K0Ia",
+    "Column1": "2.19e+05",
+    "Column2": "9.50e+02",
+    "Column3": "4114",
+    "Column4": "255 221 181"
+  },
+  {
+    "Column0": "K0Ib",
+    "Column1": "1.66e+04",
+    "Column2": "2.62e+02",
+    "Column3": "4114",
+    "Column4": "255 221 181"
+  },
+  {
+    "Column0": "K0II",
+    "Column1": "2.19e+03",
+    "Column2": "9.50e+01",
+    "Column3": "4114",
+    "Column4": "255 226 180"
+  },
+  {
+    "Column0": "K0III",
+    "Column1": "1.38e+02",
+    "Column2": "2.39e+01",
+    "Column3": "4114",
+    "Column4": "255 227 190"
+  },
+  {
+    "Column0": "K0IV",
+    "Column1": "7.16e+00",
+    "Column2": "3.83e+00",
+    "Column3": "4900",
+    "Column4": "255 225 189"
+  },
+  {
+    "Column0": "K0V",
+    "Column1": "5.43e-01",
+    "Column2": "1.05e+00",
+    "Column3": "4900",
+    "Column4": "255 238 221"
+  },
+  {
+    "Column0": "K0VI",
+    "Column1": "1.50e-01",
+    "Column2": "5.53e-01",
+    "Column3": "4900",
+    "Column4": "255 238 221"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "K1Ia0",
+    "Column1": "1.22e+06",
+    "Column2": "2.30e+03",
+    "Column3": "4057",
+    "Column4": "255 220 177"
+  },
+  {
+    "Column0": "K1Ia",
+    "Column1": "2.12e+05",
+    "Column2": "9.60e+02",
+    "Column3": "4057",
+    "Column4": "255 220 177"
+  },
+  {
+    "Column0": "K1Ib",
+    "Column1": "1.76e+04",
+    "Column2": "2.77e+02",
+    "Column3": "4057",
+    "Column4": "255 220 177"
+  },
+  {
+    "Column0": "K1II",
+    "Column1": "2.32e+03",
+    "Column2": "1.01e+02",
+    "Column3": "4057",
+    "Column4": "255 224 175"
+  },
+  {
+    "Column0": "K1III",
+    "Column1": "1.61e+02",
+    "Column2": "2.64e+01",
+    "Column3": "4057",
+    "Column4": "255 223 181"
+  },
+  {
+    "Column0": "K1IV",
+    "Column1": "7.71e+00",
+    "Column2": "4.21e+00",
+    "Column3": "4760",
+    "Column4": "255 216 171"
+  },
+  {
+    "Column0": "K1V",
+    "Column1": "4.43e-01",
+    "Column2": "1.01e+00",
+    "Column3": "4760",
+    "Column4": "255 224 188"
+  },
+  {
+    "Column0": "K1VI",
+    "Column1": "1.34e-01",
+    "Column2": "5.55e-01",
+    "Column3": "4760",
+    "Column4": "255 224 188"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "K2Ia0",
+    "Column1": "1.30e+06",
+    "Column2": "2.44e+03",
+    "Column3": "4000",
+    "Column4": "255 211 135"
+  },
+  {
+    "Column0": "K2Ia",
+    "Column1": "2.25e+05",
+    "Column2": "1.02e+03",
+    "Column3": "4000",
+    "Column4": "255 211 135"
+  },
+  {
+    "Column0": "K2Ib",
+    "Column1": "2.06e+04",
+    "Column2": "3.08e+02",
+    "Column3": "4000",
+    "Column4": "255 211 135"
+  },
+  {
+    "Column0": "K2II",
+    "Column1": "2.47e+03",
+    "Column2": "1.07e+02",
+    "Column3": "4000",
+    "Column4": "255 222 170"
+  },
+  {
+    "Column0": "K2III",
+    "Column1": "2.06e+02",
+    "Column2": "3.08e+01",
+    "Column3": "4000",
+    "Column4": "255 221 175"
+  },
+  {
+    "Column0": "K2IV",
+    "Column1": "8.38e+00",
+    "Column2": "4.66e+00",
+    "Column3": "4620",
+    "Column4": "255 229 202"
+  },
+  {
+    "Column0": "K2V",
+    "Column1": "4.01e-01",
+    "Column2": "1.02e+00",
+    "Column3": "4620",
+    "Column4": "255 227 196"
+  },
+  {
+    "Column0": "K2VI",
+    "Column1": "1.21e-01",
+    "Column2": "5.60e-01",
+    "Column3": "4620",
+    "Column4": "255 227 196"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "K3Ia0",
+    "Column1": "1.46e+06",
+    "Column2": "2.72e+03",
+    "Column3": "3900",
+    "Column4": "255 204 128"
+  },
+  {
+    "Column0": "K3Ia",
+    "Column1": "2.53e+05",
+    "Column2": "1.14e+03",
+    "Column3": "3900",
+    "Column4": "255 204 128"
+  },
+  {
+    "Column0": "K3Ib",
+    "Column1": "2.53e+04",
+    "Column2": "3.59e+02",
+    "Column3": "3900",
+    "Column4": "255 204 128"
+  },
+  {
+    "Column0": "K3II",
+    "Column1": "2.77e+03",
+    "Column2": "1.19e+02",
+    "Column3": "3900",
+    "Column4": "255 220 166"
+  },
+  {
+    "Column0": "K3III",
+    "Column1": "2.53e+02",
+    "Column2": "3.59e+01",
+    "Column3": "3900",
+    "Column4": "255 216 167"
+  },
+  {
+    "Column0": "K3IV",
+    "Column1": "9.22e+00",
+    "Column2": "5.19e+00",
+    "Column3": "4480",
+    "Column4": "255 219 167"
+  },
+  {
+    "Column0": "K3V",
+    "Column1": "3.35e-01",
+    "Column2": "9.90e-01",
+    "Column3": "4480",
+    "Column4": "255 222 195"
+  },
+  {
+    "Column0": "K3VI",
+    "Column1": "1.01e-01",
+    "Column2": "5.44e-01",
+    "Column3": "4480",
+    "Column4": "255 222 195"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "K4Ia0",
+    "Column1": "1.65e+06",
+    "Column2": "3.06e+03",
+    "Column3": "3800",
+    "Column4": "255 201 118"
+  },
+  {
+    "Column0": "K4Ia",
+    "Column1": "2.62e+05",
+    "Column2": "1.22e+03",
+    "Column3": "3800",
+    "Column4": "255 201 118"
+  },
+  {
+    "Column0": "K4Ib",
+    "Column1": "3.15e+04",
+    "Column2": "4.22e+02",
+    "Column3": "3800",
+    "Column4": "255 201 118"
+  },
+  {
+    "Column0": "K4II",
+    "Column1": "3.15e+03",
+    "Column2": "1.33e+02",
+    "Column3": "3800",
+    "Column4": "255 218 161"
+  },
+  {
+    "Column0": "K4III",
+    "Column1": "3.45e+02",
+    "Column2": "4.42e+01",
+    "Column3": "3800",
+    "Column4": "255 211 146"
+  },
+  {
+    "Column0": "K4IV",
+    "Column1": "1.03e+01",
+    "Column2": "5.84e+00",
+    "Column3": "4340",
+    "Column4": "255 218 166"
+  },
+  {
+    "Column0": "K4V",
+    "Column1": "3.10e-01",
+    "Column2": "1.02e+00",
+    "Column3": "4340",
+    "Column4": "255 216 181"
+  },
+  {
+    "Column0": "K4VI",
+    "Column1": "9.36e-02",
+    "Column2": "5.58e-01",
+    "Column3": "4340",
+    "Column4": "255 216 181"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "K5Ia0",
+    "Column1": "1.90e+06",
+    "Column2": "3.46e+03",
+    "Column3": "3700",
+    "Column4": "255 209 154"
+  },
+  {
+    "Column0": "K5Ia",
+    "Column1": "3.01e+05",
+    "Column2": "1.38e+03",
+    "Column3": "3700",
+    "Column4": "255 209 154"
+  },
+  {
+    "Column0": "K5Ib",
+    "Column1": "3.96e+04",
+    "Column2": "4.99e+02",
+    "Column3": "3700",
+    "Column4": "255 209 154"
+  },
+  {
+    "Column0": "K5II",
+    "Column1": "3.62e+03",
+    "Column2": "1.51e+02",
+    "Column3": "3700",
+    "Column4": "255 216 156"
+  },
+  {
+    "Column0": "K5III",
+    "Column1": "4.35e+02",
+    "Column2": "5.23e+01",
+    "Column3": "3700",
+    "Column4": "255 204 138"
+  },
+  {
+    "Column0": "K5IV",
+    "Column1": "1.06e+01",
+    "Column2": "6.33e+00",
+    "Column3": "4200",
+    "Column4": "255 217 165"
+  },
+  {
+    "Column0": "K5V",
+    "Column1": "2.66e-01",
+    "Column2": "1.00e+00",
+    "Column3": "4200",
+    "Column4": "255 210 161"
+  },
+  {
+    "Column0": "K5VI",
+    "Column1": "8.80e-02",
+    "Column2": "5.78e-01",
+    "Column3": "4200",
+    "Column4": "255 210 161"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "K6Ia0",
+    "Column1": "1.85e+06",
+    "Column2": "3.38e+03",
+    "Column3": "3717",
+    "Column4": "255 208 152"
+  },
+  {
+    "Column0": "K6Ia",
+    "Column1": "2.94e+05",
+    "Column2": "1.35e+03",
+    "Column3": "3717",
+    "Column4": "255 208 152"
+  },
+  {
+    "Column0": "K6Ib",
+    "Column1": "4.24e+04",
+    "Column2": "5.12e+02",
+    "Column3": "3717",
+    "Column4": "255 208 152"
+  },
+  {
+    "Column0": "K6II",
+    "Column1": "3.53e+03",
+    "Column2": "1.48e+02",
+    "Column3": "3717",
+    "Column4": "255 214 152"
+  },
+  {
+    "Column0": "K6III",
+    "Column1": "4.65e+02",
+    "Column2": "5.36e+01",
+    "Column3": "3717",
+    "Column4": "255 206 140"
+  },
+  {
+    "Column0": "K6IV",
+    "Column1": "1.22e+01",
+    "Column2": "7.26e+00",
+    "Column3": "4060",
+    "Column4": "255 216 164"
+  },
+  {
+    "Column0": "K6V",
+    "Column1": "2.11e-01",
+    "Column2": "9.57e-01",
+    "Column3": "4060",
+    "Column4": "255 205 152"
+  },
+  {
+    "Column0": "K6VI",
+    "Column1": "7.67e-02",
+    "Column2": "5.77e-01",
+    "Column3": "4060",
+    "Column4": "255 205 152"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "K7Ia0",
+    "Column1": "1.81e+06",
+    "Column2": "3.32e+03",
+    "Column3": "3733",
+    "Column4": "255 207 150"
+  },
+  {
+    "Column0": "K7Ia",
+    "Column1": "2.62e+05",
+    "Column2": "1.26e+03",
+    "Column3": "3733",
+    "Column4": "255 207 150"
+  },
+  {
+    "Column0": "K7Ib",
+    "Column1": "4.55e+04",
+    "Column2": "5.26e+02",
+    "Column3": "3733",
+    "Column4": "255 207 150"
+  },
+  {
+    "Column0": "K7II",
+    "Column1": "3.45e+03",
+    "Column2": "1.45e+02",
+    "Column3": "3733",
+    "Column4": "255 212 147"
+  },
+  {
+    "Column0": "K7III",
+    "Column1": "4.99e+02",
+    "Column2": "5.50e+01",
+    "Column3": "3733",
+    "Column4": "255 208 142"
+  },
+  {
+    "Column0": "K7IV",
+    "Column1": "1.42e+01",
+    "Column2": "8.43e+00",
+    "Column3": "3920",
+    "Column4": "255 216 163"
+  },
+  {
+    "Column0": "K7V",
+    "Column1": "1.87e-01",
+    "Column2": "9.67e-01",
+    "Column3": "3920",
+    "Column4": "255 199 142"
+  },
+  {
+    "Column0": "K7VI",
+    "Column1": "6.80e-02",
+    "Column2": "5.83e-01",
+    "Column3": "3920",
+    "Column4": "255 199 142"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "K8Ia0",
+    "Column1": "1.77e+06",
+    "Column2": "3.25e+03",
+    "Column3": "3750",
+    "Column4": "255 206 147"
+  },
+  {
+    "Column0": "K8Ia",
+    "Column1": "2.56e+05",
+    "Column2": "1.23e+03",
+    "Column3": "3750",
+    "Column4": "255 206 147"
+  },
+  {
+    "Column0": "K8Ib",
+    "Column1": "4.44e+04",
+    "Column2": "5.15e+02",
+    "Column3": "3750",
+    "Column4": "255 206 147"
+  },
+  {
+    "Column0": "K8II",
+    "Column1": "3.69e+03",
+    "Column2": "1.48e+02",
+    "Column3": "3750",
+    "Column4": "255 210 142"
+  },
+  {
+    "Column0": "K8III",
+    "Column1": "5.34e+02",
+    "Column2": "5.64e+01",
+    "Column3": "3750",
+    "Column4": "255 206 139"
+  },
+  {
+    "Column0": "K8IV",
+    "Column1": "1.70e+01",
+    "Column2": "9.90e+00",
+    "Column3": "3780",
+    "Column4": "255 215 162"
+  },
+  {
+    "Column0": "K8V",
+    "Column1": "1.55e-01",
+    "Column2": "9.46e-01",
+    "Column3": "3780",
+    "Column4": "255 209 174"
+  },
+  {
+    "Column0": "K8VI",
+    "Column1": "5.62e-02",
+    "Column2": "5.70e-01",
+    "Column3": "3780",
+    "Column4": "255 209 174"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "K9Ia0",
+    "Column1": "1.83e+06",
+    "Column2": "3.35e+03",
+    "Column3": "3725",
+    "Column4": "255 205 145"
+  },
+  {
+    "Column0": "K9Ia",
+    "Column1": "2.65e+05",
+    "Column2": "1.27e+03",
+    "Column3": "3725",
+    "Column4": "255 205 145"
+  },
+  {
+    "Column0": "K9Ib",
+    "Column1": "5.04e+04",
+    "Column2": "5.56e+02",
+    "Column3": "3725",
+    "Column4": "255 205 145"
+  },
+  {
+    "Column0": "K9II",
+    "Column1": "3.83e+03",
+    "Column2": "1.53e+02",
+    "Column3": "3725",
+    "Column4": "255 209 138"
+  },
+  {
+    "Column0": "K9III",
+    "Column1": "6.06e+02",
+    "Column2": "6.09e+01",
+    "Column3": "3725",
+    "Column4": "255 205 135"
+  },
+  {
+    "Column0": "K9IV",
+    "Column1": "2.07e+01",
+    "Column2": "1.18e+01",
+    "Column3": "3640",
+    "Column4": "255 214 161"
+  },
+  {
+    "Column0": "K9V",
+    "Column1": "1.44e-01",
+    "Column2": "9.82e-01",
+    "Column3": "3640",
+    "Column4": "255 202 157"
+  },
+  {
+    "Column0": "K9VI",
+    "Column1": "4.33e-02",
+    "Column2": "5.40e-01",
+    "Column3": "3640",
+    "Column4": "255 202 157"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "M0Ia0",
+    "Column1": "1.90e+06",
+    "Column2": "3.46e+03",
+    "Column3": "3700",
+    "Column4": "255 204 143"
+  },
+  {
+    "Column0": "M0Ia",
+    "Column1": "2.74e+05",
+    "Column2": "1.31e+03",
+    "Column3": "3700",
+    "Column4": "255 204 143"
+  },
+  {
+    "Column0": "M0Ib",
+    "Column1": "5.73e+04",
+    "Column2": "6.00e+02",
+    "Column3": "3700",
+    "Column4": "255 204 143"
+  },
+  {
+    "Column0": "M0II",
+    "Column1": "3.96e+03",
+    "Column2": "1.58e+02",
+    "Column3": "3700",
+    "Column4": "255 207 133"
+  },
+  {
+    "Column0": "M0III",
+    "Column1": "6.89e+02",
+    "Column2": "6.58e+01",
+    "Column3": "3700",
+    "Column4": "255 203 132"
+  },
+  {
+    "Column0": "M0IV",
+    "Column1": "2.60e+01",
+    "Column2": "1.43e+01",
+    "Column3": "3500",
+    "Column4": "255 213 160"
+  },
+  {
+    "Column0": "M0V",
+    "Column1": "1.25e-01",
+    "Column2": "9.90e-01",
+    "Column3": "3500",
+    "Column4": "255 195 139"
+  },
+  {
+    "Column0": "M0VI",
+    "Column1": "3.76e-02",
+    "Column2": "5.44e-01",
+    "Column3": "3500",
+    "Column4": "255 195 139"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "M1Ia0",
+    "Column1": "2.56e+06",
+    "Column2": "4.46e+03",
+    "Column3": "3510",
+    "Column4": "255 202 138"
+  },
+  {
+    "Column0": "M1Ia",
+    "Column1": "3.37e+05",
+    "Column2": "1.62e+03",
+    "Column3": "3510",
+    "Column4": "255 202 138"
+  },
+  {
+    "Column0": "M1Ib",
+    "Column1": "7.73e+04",
+    "Column2": "7.75e+02",
+    "Column3": "3510",
+    "Column4": "255 202 138"
+  },
+  {
+    "Column0": "M1II",
+    "Column1": "5.86e+03",
+    "Column2": "2.13e+02",
+    "Column3": "3510",
+    "Column4": "255 205 128"
+  },
+  {
+    "Column0": "M1III",
+    "Column1": "9.29e+02",
+    "Column2": "8.50e+01",
+    "Column3": "3510",
+    "Column4": "255 200 121"
+  },
+  {
+    "Column0": "M1IV",
+    "Column1": "3.55e+01",
+    "Column2": "1.84e+01",
+    "Column3": "3333",
+    "Column4": "255 212 159"
+  },
+  {
+    "Column0": "M1V",
+    "Column1": "6.18e-02",
+    "Column2": "7.68e-01",
+    "Column3": "3333",
+    "Column4": "255 204 142"
+  },
+  {
+    "Column0": "M1VI",
+    "Column1": "1.86e-02",
+    "Column2": "4.22e-01",
+    "Column3": "3333",
+    "Column4": "255 204 142"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "M2Ia0",
+    "Column1": "3.65e+06",
+    "Column2": "5.95e+03",
+    "Column3": "3320",
+    "Column4": "255 193 104"
+  },
+  {
+    "Column0": "M2Ia",
+    "Column1": "4.81e+05",
+    "Column2": "2.16e+03",
+    "Column3": "3320",
+    "Column4": "255 193 104"
+  },
+  {
+    "Column0": "M2Ib",
+    "Column1": "1.10e+05",
+    "Column2": "1.03e+03",
+    "Column3": "3320",
+    "Column4": "255 193 104"
+  },
+  {
+    "Column0": "M2II",
+    "Column1": "8.36e+03",
+    "Column2": "2.85e+02",
+    "Column3": "3320",
+    "Column4": "255 203 124"
+  },
+  {
+    "Column0": "M2III",
+    "Column1": "1.21e+03",
+    "Column2": "1.08e+02",
+    "Column3": "3320",
+    "Column4": "255 198 118"
+  },
+  {
+    "Column0": "M2IV",
+    "Column1": "5.09e+01",
+    "Column2": "2.44e+01",
+    "Column3": "3167",
+    "Column4": "255 211 157"
+  },
+  {
+    "Column0": "M2V",
+    "Column1": "3.21e-02",
+    "Column2": "6.14e-01",
+    "Column3": "3167",
+    "Column4": "255 196 131"
+  },
+  {
+    "Column0": "M2VI",
+    "Column1": "8.85e-03",
+    "Column2": "3.22e-01",
+    "Column3": "3167",
+    "Column4": "255 196 131"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "M3Ia0",
+    "Column1": "5.07e+06",
+    "Column2": "7.89e+03",
+    "Column3": "3130",
+    "Column4": "255 192 118"
+  },
+  {
+    "Column0": "M3Ia",
+    "Column1": "7.33e+05",
+    "Column2": "3.00e+03",
+    "Column3": "3130",
+    "Column4": "255 192 118"
+  },
+  {
+    "Column0": "M3Ib",
+    "Column1": "1.68e+05",
+    "Column2": "1.44e+03",
+    "Column3": "3130",
+    "Column4": "255 192 118"
+  },
+  {
+    "Column0": "M3II",
+    "Column1": "1.40e+04",
+    "Column2": "4.14e+02",
+    "Column3": "3130",
+    "Column4": "255 201 119"
+  },
+  {
+    "Column0": "M3III",
+    "Column1": "1.84e+03",
+    "Column2": "1.50e+02",
+    "Column3": "3130",
+    "Column4": "255 200 119"
+  },
+  {
+    "Column0": "M3IV",
+    "Column1": "7.76e+01",
+    "Column2": "3.36e+01",
+    "Column3": "3000",
+    "Column4": "255 210 156"
+  },
+  {
+    "Column0": "M3V",
+    "Column1": "1.78e-02",
+    "Column2": "5.09e-01",
+    "Column3": "3000",
+    "Column4": "255 206 129"
+  },
+  {
+    "Column0": "M3VI",
+    "Column1": "4.90e-03",
+    "Column2": "2.67e-01",
+    "Column3": "3000",
+    "Column4": "255 206 129"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "M4Ia0",
+    "Column1": "8.38e+06",
+    "Column2": "1.15e+04",
+    "Column3": "2940",
+    "Column4": "255 185 104"
+  },
+  {
+    "Column0": "M4Ia",
+    "Column1": "1.10e+06",
+    "Column2": "4.18e+03",
+    "Column3": "2940",
+    "Column4": "255 185 104"
+  },
+  {
+    "Column0": "M4Ib",
+    "Column1": "2.77e+05",
+    "Column2": "2.09e+03",
+    "Column3": "2940",
+    "Column4": "255 185 104"
+  },
+  {
+    "Column0": "M4II",
+    "Column1": "2.31e+04",
+    "Column2": "6.04e+02",
+    "Column3": "2940",
+    "Column4": "255 199 114"
+  },
+  {
+    "Column0": "M4III",
+    "Column1": "2.77e+03",
+    "Column2": "2.09e+02",
+    "Column3": "2940",
+    "Column4": "255 206 127"
+  },
+  {
+    "Column0": "M4IV",
+    "Column1": "1.27e+02",
+    "Column2": "4.83e+01",
+    "Column3": "2833",
+    "Column4": "255 209 155"
+  },
+  {
+    "Column0": "M4V",
+    "Column1": "1.06e-02",
+    "Column2": "4.40e-01",
+    "Column3": "2833",
+    "Column4": "255 201 127"
+  },
+  {
+    "Column0": "M4VI",
+    "Column1": "2.66e-03",
+    "Column2": "2.21e-01",
+    "Column3": "2833",
+    "Column4": "255 201 127"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "M5Ia0",
+    "Column1": "1.53e+07",
+    "Column2": "1.78e+04",
+    "Column3": "2750",
+    "Column4": "255 178 078"
+  },
+  {
+    "Column0": "M5Ia",
+    "Column1": "2.02e+06",
+    "Column2": "6.45e+03",
+    "Column3": "2750",
+    "Column4": "255 178 078"
+  },
+  {
+    "Column0": "M5Ib",
+    "Column1": "5.07e+05",
+    "Column2": "3.23e+03",
+    "Column3": "2750",
+    "Column4": "255 178 078"
+  },
+  {
+    "Column0": "M5II",
+    "Column1": "4.62e+04",
+    "Column2": "9.76e+02",
+    "Column3": "2750",
+    "Column4": "255 197 110"
+  },
+  {
+    "Column0": "M5III",
+    "Column1": "5.07e+03",
+    "Column2": "3.23e+02",
+    "Column3": "2750",
+    "Column4": "255 197 124"
+  },
+  {
+    "Column0": "M5IV",
+    "Column1": "2.07e+02",
+    "Column2": "6.94e+01",
+    "Column3": "2667",
+    "Column4": "255 209 154"
+  },
+  {
+    "Column0": "M5V",
+    "Column1": "6.24e-03",
+    "Column2": "3.81e-01",
+    "Column3": "2667",
+    "Column4": "255 204 111"
+  },
+  {
+    "Column0": "M5VI",
+    "Column1": "1.72e-03",
+    "Column2": "2.00e-01",
+    "Column3": "2667",
+    "Column4": "255 204 111"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "M6Ia0",
+    "Column1": "2.88e+07",
+    "Column2": "2.81e+04",
+    "Column3": "2560",
+    "Column4": "255 171 052"
+  },
+  {
+    "Column0": "M6Ia",
+    "Column1": "4.17e+06",
+    "Column2": "1.07e+04",
+    "Column3": "2560",
+    "Column4": "255 171 052"
+  },
+  {
+    "Column0": "M6Ib",
+    "Column1": "9.55e+05",
+    "Column2": "5.12e+03",
+    "Column3": "2560",
+    "Column4": "255 171 052"
+  },
+  {
+    "Column0": "M6II",
+    "Column1": "9.55e+04",
+    "Column2": "1.62e+03",
+    "Column3": "2560",
+    "Column4": "255 195 105"
+  },
+  {
+    "Column0": "M6III",
+    "Column1": "9.55e+03",
+    "Column2": "5.12e+02",
+    "Column3": "2560",
+    "Column4": "255 178 121"
+  },
+  {
+    "Column0": "M6IV",
+    "Column1": "4.10e+02",
+    "Column2": "1.11e+02",
+    "Column3": "2500",
+    "Column4": "255 208 153"
+  },
+  {
+    "Column0": "M6V",
+    "Column1": "4.50e-03",
+    "Column2": "3.68e-01",
+    "Column3": "2500",
+    "Column4": "255 195 112"
+  },
+  {
+    "Column0": "M6VI",
+    "Column1": "1.63e-03",
+    "Column2": "2.22e-01",
+    "Column3": "2500",
+    "Column4": "255 195 112"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "M7Ia0",
+    "Column1": "6.96e+07",
+    "Column2": "5.10e+04",
+    "Column3": "2370",
+    "Column4": "255 164 026"
+  },
+  {
+    "Column0": "M7Ia",
+    "Column1": "9.18e+06",
+    "Column2": "1.85e+04",
+    "Column3": "2370",
+    "Column4": "255 164 026"
+  },
+  {
+    "Column0": "M7Ib",
+    "Column1": "2.10e+06",
+    "Column2": "8.87e+03",
+    "Column3": "2370",
+    "Column4": "255 164 026"
+  },
+  {
+    "Column0": "M7II",
+    "Column1": "2.53e+05",
+    "Column2": "3.07e+03",
+    "Column3": "2370",
+    "Column4": "255 193 100"
+  },
+  {
+    "Column0": "M7III",
+    "Column1": "2.10e+04",
+    "Column2": "8.87e+02",
+    "Column3": "2370",
+    "Column4": "255 165 097"
+  },
+  {
+    "Column0": "M7IV",
+    "Column1": "9.26e+02",
+    "Column2": "1.92e+02",
+    "Column3": "2333",
+    "Column4": "255 207 152"
+  },
+  {
+    "Column0": "M7V",
+    "Column1": "3.69e-03",
+    "Column2": "3.83e-01",
+    "Column3": "2333",
+    "Column4": "255 197 111"
+  },
+  {
+    "Column0": "M7VI",
+    "Column1": "1.94e-03",
+    "Column2": "2.78e-01",
+    "Column3": "2333",
+    "Column4": "255 197 111"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "M8Ia0",
+    "Column1": "2.05e+08",
+    "Column2": "1.03e+05",
+    "Column3": "2180",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "M8Ia",
+    "Column1": "2.70e+07",
+    "Column2": "3.76e+04",
+    "Column3": "2180",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "M8Ib",
+    "Column1": "5.15e+06",
+    "Column2": "1.64e+04",
+    "Column3": "2180",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "M8II",
+    "Column1": "7.44e+05",
+    "Column2": "6.23e+03",
+    "Column3": "2180",
+    "Column4": "255 192 096"
+  },
+  {
+    "Column0": "M8III",
+    "Column1": "5.15e+04",
+    "Column2": "1.64e+03",
+    "Column3": "2180",
+    "Column4": "255 167 097"
+  },
+  {
+    "Column0": "M8IV",
+    "Column1": "2.44e+03",
+    "Column2": "3.61e+02",
+    "Column3": "2167",
+    "Column4": "255 206 151"
+  },
+  {
+    "Column0": "M8V",
+    "Column1": "3.53e-03",
+    "Column2": "4.34e-01",
+    "Column3": "2167",
+    "Column4": "255 198 109"
+  },
+  {
+    "Column0": "M8VI",
+    "Column1": "2.44e-03",
+    "Column2": "3.61e-01",
+    "Column3": "2167",
+    "Column4": "255 198 109"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "M9Ia0",
+    "Column1": "7.11e+08",
+    "Column2": "2.31e+05",
+    "Column3": "1990",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "M9Ia",
+    "Column1": "1.03e+08",
+    "Column2": "8.79e+04",
+    "Column3": "1990",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "M9Ib",
+    "Column1": "1.79e+07",
+    "Column2": "3.67e+04",
+    "Column3": "1990",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "M9II",
+    "Column1": "2.83e+06",
+    "Column2": "1.46e+04",
+    "Column3": "1990",
+    "Column4": "255 190 091"
+  },
+  {
+    "Column0": "M9III",
+    "Column1": "1.79e+05",
+    "Column2": "3.67e+03",
+    "Column3": "1990",
+    "Column4": "255 233 154"
+  },
+  {
+    "Column0": "M9IV",
+    "Column1": "7.91e+03",
+    "Column2": "7.64e+02",
+    "Column3": "2000",
+    "Column4": "255 205 150"
+  },
+  {
+    "Column0": "M9V",
+    "Column1": "4.15e-03",
+    "Column2": "5.53e-01",
+    "Column3": "2000",
+    "Column4": "255 198 108"
+  },
+  {
+    "Column0": "M9VI",
+    "Column1": "4.15e-03",
+    "Column2": "5.53e-01",
+    "Column3": "2000",
+    "Column4": "255 198 108"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "N0Ia0",
+    "Column1": "1.90e+06",
+    "Column2": "3.46e+03",
+    "Column3": "3700",
+    "Column4": "255 204 143"
+  },
+  {
+    "Column0": "N0Ia",
+    "Column1": "2.74e+05",
+    "Column2": "1.31e+03",
+    "Column3": "3700",
+    "Column4": "255 204 143"
+  },
+  {
+    "Column0": "N0Ib",
+    "Column1": "5.73e+04",
+    "Column2": "6.00e+02",
+    "Column3": "3700",
+    "Column4": "255 204 143"
+  },
+  {
+    "Column0": "N0II",
+    "Column1": "3.96e+03",
+    "Column2": "1.58e+02",
+    "Column3": "3700",
+    "Column4": "255 207 133"
+  },
+  {
+    "Column0": "N0III",
+    "Column1": "6.89e+02",
+    "Column2": "6.58e+01",
+    "Column3": "3700",
+    "Column4": "255 203 132"
+  },
+  {
+    "Column0": "N0IV",
+    "Column1": "2.60e+01",
+    "Column2": "1.43e+01",
+    "Column3": "3500",
+    "Column4": "255 213 160"
+  },
+  {
+    "Column0": "N0V",
+    "Column1": "1.25e-01",
+    "Column2": "9.90e-01",
+    "Column3": "3500",
+    "Column4": "255 195 139"
+  },
+  {
+    "Column0": "N0VI",
+    "Column1": "3.76e-02",
+    "Column2": "5.44e-01",
+    "Column3": "3500",
+    "Column4": "255 195 139"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "N1Ia0",
+    "Column1": "2.56e+06",
+    "Column2": "4.46e+03",
+    "Column3": "3510",
+    "Column4": "255 202 138"
+  },
+  {
+    "Column0": "N1Ia",
+    "Column1": "3.37e+05",
+    "Column2": "1.62e+03",
+    "Column3": "3510",
+    "Column4": "255 202 138"
+  },
+  {
+    "Column0": "N1Ib",
+    "Column1": "7.73e+04",
+    "Column2": "7.75e+02",
+    "Column3": "3510",
+    "Column4": "255 202 138"
+  },
+  {
+    "Column0": "N1II",
+    "Column1": "5.86e+03",
+    "Column2": "2.13e+02",
+    "Column3": "3510",
+    "Column4": "255 205 128"
+  },
+  {
+    "Column0": "N1III",
+    "Column1": "9.29e+02",
+    "Column2": "8.50e+01",
+    "Column3": "3510",
+    "Column4": "255 200 121"
+  },
+  {
+    "Column0": "N1IV",
+    "Column1": "3.55e+01",
+    "Column2": "1.84e+01",
+    "Column3": "3333",
+    "Column4": "255 212 159"
+  },
+  {
+    "Column0": "N1V",
+    "Column1": "6.18e-02",
+    "Column2": "7.68e-01",
+    "Column3": "3333",
+    "Column4": "255 204 142"
+  },
+  {
+    "Column0": "N1VI",
+    "Column1": "1.86e-02",
+    "Column2": "4.22e-01",
+    "Column3": "3333",
+    "Column4": "255 204 142"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "N2Ia0",
+    "Column1": "3.65e+06",
+    "Column2": "5.95e+03",
+    "Column3": "3320",
+    "Column4": "255 193 104"
+  },
+  {
+    "Column0": "N2Ia",
+    "Column1": "4.81e+05",
+    "Column2": "2.16e+03",
+    "Column3": "3320",
+    "Column4": "255 193 104"
+  },
+  {
+    "Column0": "N2Ib",
+    "Column1": "1.10e+05",
+    "Column2": "1.03e+03",
+    "Column3": "3320",
+    "Column4": "255 193 104"
+  },
+  {
+    "Column0": "N2II",
+    "Column1": "8.36e+03",
+    "Column2": "2.85e+02",
+    "Column3": "3320",
+    "Column4": "255 203 124"
+  },
+  {
+    "Column0": "N2III",
+    "Column1": "1.21e+03",
+    "Column2": "1.08e+02",
+    "Column3": "3320",
+    "Column4": "255 198 118"
+  },
+  {
+    "Column0": "N2IV",
+    "Column1": "5.09e+01",
+    "Column2": "2.44e+01",
+    "Column3": "3167",
+    "Column4": "255 211 157"
+  },
+  {
+    "Column0": "N2V",
+    "Column1": "3.21e-02",
+    "Column2": "6.14e-01",
+    "Column3": "3167",
+    "Column4": "255 196 131"
+  },
+  {
+    "Column0": "N2VI",
+    "Column1": "8.85e-03",
+    "Column2": "3.22e-01",
+    "Column3": "3167",
+    "Column4": "255 196 131"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "N3Ia0",
+    "Column1": "5.07e+06",
+    "Column2": "7.89e+03",
+    "Column3": "3130",
+    "Column4": "255 192 118"
+  },
+  {
+    "Column0": "N3Ia",
+    "Column1": "7.33e+05",
+    "Column2": "3.00e+03",
+    "Column3": "3130",
+    "Column4": "255 192 118"
+  },
+  {
+    "Column0": "N3Ib",
+    "Column1": "1.68e+05",
+    "Column2": "1.44e+03",
+    "Column3": "3130",
+    "Column4": "255 192 118"
+  },
+  {
+    "Column0": "N3II",
+    "Column1": "1.40e+04",
+    "Column2": "4.14e+02",
+    "Column3": "3130",
+    "Column4": "255 201 119"
+  },
+  {
+    "Column0": "N3III",
+    "Column1": "1.84e+03",
+    "Column2": "1.50e+02",
+    "Column3": "3130",
+    "Column4": "255 200 119"
+  },
+  {
+    "Column0": "N3IV",
+    "Column1": "7.76e+01",
+    "Column2": "3.36e+01",
+    "Column3": "3000",
+    "Column4": "255 210 156"
+  },
+  {
+    "Column0": "N3V",
+    "Column1": "1.78e-02",
+    "Column2": "5.09e-01",
+    "Column3": "3000",
+    "Column4": "255 206 129"
+  },
+  {
+    "Column0": "N3VI",
+    "Column1": "4.90e-03",
+    "Column2": "2.67e-01",
+    "Column3": "3000",
+    "Column4": "255 206 129"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "N4Ia0",
+    "Column1": "8.38e+06",
+    "Column2": "1.15e+04",
+    "Column3": "2940",
+    "Column4": "255 185 104"
+  },
+  {
+    "Column0": "N4Ia",
+    "Column1": "1.10e+06",
+    "Column2": "4.18e+03",
+    "Column3": "2940",
+    "Column4": "255 185 104"
+  },
+  {
+    "Column0": "N4Ib",
+    "Column1": "2.77e+05",
+    "Column2": "2.09e+03",
+    "Column3": "2940",
+    "Column4": "255 185 104"
+  },
+  {
+    "Column0": "N4II",
+    "Column1": "2.31e+04",
+    "Column2": "6.04e+02",
+    "Column3": "2940",
+    "Column4": "255 199 114"
+  },
+  {
+    "Column0": "N4III",
+    "Column1": "2.77e+03",
+    "Column2": "2.09e+02",
+    "Column3": "2940",
+    "Column4": "255 206 127"
+  },
+  {
+    "Column0": "N4IV",
+    "Column1": "1.27e+02",
+    "Column2": "4.83e+01",
+    "Column3": "2833",
+    "Column4": "255 209 155"
+  },
+  {
+    "Column0": "N4V",
+    "Column1": "1.06e-02",
+    "Column2": "4.40e-01",
+    "Column3": "2833",
+    "Column4": "255 201 127"
+  },
+  {
+    "Column0": "N4VI",
+    "Column1": "2.66e-03",
+    "Column2": "2.21e-01",
+    "Column3": "2833",
+    "Column4": "255 201 127"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "N5Ia0",
+    "Column1": "1.53e+07",
+    "Column2": "1.78e+04",
+    "Column3": "2750",
+    "Column4": "255 178 078"
+  },
+  {
+    "Column0": "N5Ia",
+    "Column1": "2.02e+06",
+    "Column2": "6.45e+03",
+    "Column3": "2750",
+    "Column4": "255 178 078"
+  },
+  {
+    "Column0": "N5Ib",
+    "Column1": "5.07e+05",
+    "Column2": "3.23e+03",
+    "Column3": "2750",
+    "Column4": "255 178 078"
+  },
+  {
+    "Column0": "N5II",
+    "Column1": "4.62e+04",
+    "Column2": "9.76e+02",
+    "Column3": "2750",
+    "Column4": "255 197 110"
+  },
+  {
+    "Column0": "N5III",
+    "Column1": "5.07e+03",
+    "Column2": "3.23e+02",
+    "Column3": "2750",
+    "Column4": "255 197 124"
+  },
+  {
+    "Column0": "N5IV",
+    "Column1": "2.07e+02",
+    "Column2": "6.94e+01",
+    "Column3": "2667",
+    "Column4": "255 209 154"
+  },
+  {
+    "Column0": "N5V",
+    "Column1": "6.24e-03",
+    "Column2": "3.81e-01",
+    "Column3": "2667",
+    "Column4": "255 204 111"
+  },
+  {
+    "Column0": "N5VI",
+    "Column1": "1.72e-03",
+    "Column2": "2.00e-01",
+    "Column3": "2667",
+    "Column4": "255 204 111"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "N6Ia0",
+    "Column1": "2.88e+07",
+    "Column2": "2.81e+04",
+    "Column3": "2560",
+    "Column4": "255 171 052"
+  },
+  {
+    "Column0": "N6Ia",
+    "Column1": "4.17e+06",
+    "Column2": "1.07e+04",
+    "Column3": "2560",
+    "Column4": "255 171 052"
+  },
+  {
+    "Column0": "N6Ib",
+    "Column1": "9.55e+05",
+    "Column2": "5.12e+03",
+    "Column3": "2560",
+    "Column4": "255 171 052"
+  },
+  {
+    "Column0": "N6II",
+    "Column1": "9.55e+04",
+    "Column2": "1.62e+03",
+    "Column3": "2560",
+    "Column4": "255 195 105"
+  },
+  {
+    "Column0": "N6III",
+    "Column1": "9.55e+03",
+    "Column2": "5.12e+02",
+    "Column3": "2560",
+    "Column4": "255 178 121"
+  },
+  {
+    "Column0": "N6IV",
+    "Column1": "4.10e+02",
+    "Column2": "1.11e+02",
+    "Column3": "2500",
+    "Column4": "255 208 153"
+  },
+  {
+    "Column0": "N6V",
+    "Column1": "4.50e-03",
+    "Column2": "3.68e-01",
+    "Column3": "2500",
+    "Column4": "255 195 112"
+  },
+  {
+    "Column0": "N6VI",
+    "Column1": "1.63e-03",
+    "Column2": "2.22e-01",
+    "Column3": "2500",
+    "Column4": "255 195 112"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "N7Ia0",
+    "Column1": "6.96e+07",
+    "Column2": "5.10e+04",
+    "Column3": "2370",
+    "Column4": "255 164 026"
+  },
+  {
+    "Column0": "N7Ia",
+    "Column1": "9.18e+06",
+    "Column2": "1.85e+04",
+    "Column3": "2370",
+    "Column4": "255 164 026"
+  },
+  {
+    "Column0": "N7Ib",
+    "Column1": "2.10e+06",
+    "Column2": "8.87e+03",
+    "Column3": "2370",
+    "Column4": "255 164 026"
+  },
+  {
+    "Column0": "N7II",
+    "Column1": "2.53e+05",
+    "Column2": "3.07e+03",
+    "Column3": "2370",
+    "Column4": "255 193 100"
+  },
+  {
+    "Column0": "N7III",
+    "Column1": "2.10e+04",
+    "Column2": "8.87e+02",
+    "Column3": "2370",
+    "Column4": "255 165 097"
+  },
+  {
+    "Column0": "N7IV",
+    "Column1": "9.26e+02",
+    "Column2": "1.92e+02",
+    "Column3": "2333",
+    "Column4": "255 207 152"
+  },
+  {
+    "Column0": "N7V",
+    "Column1": "3.69e-03",
+    "Column2": "3.83e-01",
+    "Column3": "2333",
+    "Column4": "255 197 111"
+  },
+  {
+    "Column0": "N7VI",
+    "Column1": "1.94e-03",
+    "Column2": "2.78e-01",
+    "Column3": "2333",
+    "Column4": "255 197 111"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "N8Ia0",
+    "Column1": "2.05e+08",
+    "Column2": "1.03e+05",
+    "Column3": "2180",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "N8Ia",
+    "Column1": "2.70e+07",
+    "Column2": "3.76e+04",
+    "Column3": "2180",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "N8Ib",
+    "Column1": "5.15e+06",
+    "Column2": "1.64e+04",
+    "Column3": "2180",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "N8II",
+    "Column1": "7.44e+05",
+    "Column2": "6.23e+03",
+    "Column3": "2180",
+    "Column4": "255 192 096"
+  },
+  {
+    "Column0": "N8III",
+    "Column1": "5.15e+04",
+    "Column2": "1.64e+03",
+    "Column3": "2180",
+    "Column4": "255 167 097"
+  },
+  {
+    "Column0": "N8IV",
+    "Column1": "2.44e+03",
+    "Column2": "3.61e+02",
+    "Column3": "2167",
+    "Column4": "255 206 151"
+  },
+  {
+    "Column0": "N8V",
+    "Column1": "3.53e-03",
+    "Column2": "4.34e-01",
+    "Column3": "2167",
+    "Column4": "255 198 109"
+  },
+  {
+    "Column0": "N8VI",
+    "Column1": "2.44e-03",
+    "Column2": "3.61e-01",
+    "Column3": "2167",
+    "Column4": "255 198 109"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "N9Ia0",
+    "Column1": "7.11e+08",
+    "Column2": "2.31e+05",
+    "Column3": "1990",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "N9Ia",
+    "Column1": "1.03e+08",
+    "Column2": "8.79e+04",
+    "Column3": "1990",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "N9Ib",
+    "Column1": "1.79e+07",
+    "Column2": "3.67e+04",
+    "Column3": "1990",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "N9II",
+    "Column1": "2.83e+06",
+    "Column2": "1.46e+04",
+    "Column3": "1990",
+    "Column4": "255 190 091"
+  },
+  {
+    "Column0": "N9III",
+    "Column1": "1.79e+05",
+    "Column2": "3.67e+03",
+    "Column3": "1990",
+    "Column4": "255 233 154"
+  },
+  {
+    "Column0": "N9IV",
+    "Column1": "7.91e+03",
+    "Column2": "7.64e+02",
+    "Column3": "2000",
+    "Column4": "255 205 150"
+  },
+  {
+    "Column0": "N9V",
+    "Column1": "4.15e-03",
+    "Column2": "5.53e-01",
+    "Column3": "2000",
+    "Column4": "255 198 108"
+  },
+  {
+    "Column0": "N9VI",
+    "Column1": "4.15e-03",
+    "Column2": "5.53e-01",
+    "Column3": "2000",
+    "Column4": "255 198 108"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WC0Ia0",
+    "Column1": "3.41e+07",
+    "Column2": "8.02e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "WC0Ia",
+    "Column1": "2.59e+06",
+    "Column2": "2.21e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "WC0Ib",
+    "Column1": "2.15e+06",
+    "Column2": "2.02e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "WC0II",
+    "Column1": "2.15e+06",
+    "Column2": "2.02e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "WC0III",
+    "Column1": "2.15e+06",
+    "Column2": "2.02e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "WC0IV",
+    "Column1": "1.36e+06",
+    "Column2": "1.60e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "WC0V",
+    "Column1": "1.24e+06",
+    "Column2": "1.53e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "WC0VI",
+    "Column1": "9.40e+05",
+    "Column2": "1.33e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WC1Ia0",
+    "Column1": "2.71e+07",
+    "Column2": "7.88e+01",
+    "Column3": "47600",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "WC1Ia",
+    "Column1": "2.25e+06",
+    "Column2": "2.27e+01",
+    "Column3": "47600",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "WC1Ib",
+    "Column1": "1.87e+06",
+    "Column2": "2.07e+01",
+    "Column3": "47600",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "WC1II",
+    "Column1": "1.73e+06",
+    "Column2": "1.98e+01",
+    "Column3": "47800",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "WC1III",
+    "Column1": "1.58e+06",
+    "Column2": "1.89e+01",
+    "Column3": "47800",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "WC1IV",
+    "Column1": "1.09e+06",
+    "Column2": "1.57e+01",
+    "Column3": "47800",
+    "Column4": "145 167 255"
+  },
+  {
+    "Column0": "WC1V",
+    "Column1": "9.94e+05",
+    "Column2": "1.50e+01",
+    "Column3": "47800",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "WC1VI",
+    "Column1": "7.54e+05",
+    "Column2": "1.31e+01",
+    "Column3": "47800",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WC2Ia0",
+    "Column1": "2.14e+07",
+    "Column2": "7.77e+01",
+    "Column3": "45200",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "WC2Ia",
+    "Column1": "2.14e+06",
+    "Column2": "2.46e+01",
+    "Column3": "45200",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "WC2Ib",
+    "Column1": "1.62e+06",
+    "Column2": "2.14e+01",
+    "Column3": "45200",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "WC2II",
+    "Column1": "1.52e+06",
+    "Column2": "2.03e+01",
+    "Column3": "45600",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "WC2III",
+    "Column1": "1.26e+06",
+    "Column2": "1.85e+01",
+    "Column3": "45600",
+    "Column4": "148 169 255"
+  },
+  {
+    "Column0": "WC2IV",
+    "Column1": "8.72e+05",
+    "Column2": "1.54e+01",
+    "Column3": "45600",
+    "Column4": "146 169 255"
+  },
+  {
+    "Column0": "WC2V",
+    "Column1": "7.95e+05",
+    "Column2": "1.47e+01",
+    "Column3": "45600",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "WC2VI",
+    "Column1": "6.03e+05",
+    "Column2": "1.28e+01",
+    "Column3": "45600",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WC3Ia0",
+    "Column1": "1.68e+07",
+    "Column2": "7.69e+01",
+    "Column3": "42800",
+    "Column4": "151 172 255"
+  },
+  {
+    "Column0": "WC3Ia",
+    "Column1": "1.85e+06",
+    "Column2": "2.55e+01",
+    "Column3": "42800",
+    "Column4": "151 172 255"
+  },
+  {
+    "Column0": "WC3Ib",
+    "Column1": "1.40e+06",
+    "Column2": "2.22e+01",
+    "Column3": "42800",
+    "Column4": "151 172 255"
+  },
+  {
+    "Column0": "WC3II",
+    "Column1": "1.21e+06",
+    "Column2": "2.00e+01",
+    "Column3": "43400",
+    "Column4": "149 173 255"
+  },
+  {
+    "Column0": "WC3III",
+    "Column1": "9.17e+05",
+    "Column2": "1.75e+01",
+    "Column3": "43400",
+    "Column4": "150 171 255"
+  },
+  {
+    "Column0": "WC3IV",
+    "Column1": "6.96e+05",
+    "Column2": "1.52e+01",
+    "Column3": "43400",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "WC3V",
+    "Column1": "6.34e+05",
+    "Column2": "1.45e+01",
+    "Column3": "43400",
+    "Column4": "151 172 255"
+  },
+  {
+    "Column0": "WC3VI",
+    "Column1": "4.81e+05",
+    "Column2": "1.26e+01",
+    "Column3": "43400",
+    "Column4": "151 172 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WC4Ia0",
+    "Column1": "1.32e+07",
+    "Column2": "7.64e+01",
+    "Column3": "40400",
+    "Column4": "153 174 255"
+  },
+  {
+    "Column0": "WC4Ia",
+    "Column1": "1.74e+06",
+    "Column2": "2.77e+01",
+    "Column3": "40400",
+    "Column4": "153 174 255"
+  },
+  {
+    "Column0": "WC4Ib",
+    "Column1": "1.20e+06",
+    "Column2": "2.31e+01",
+    "Column3": "40400",
+    "Column4": "153 174 255"
+  },
+  {
+    "Column0": "WC4II",
+    "Column1": "9.60e+05",
+    "Column2": "1.98e+01",
+    "Column3": "41200",
+    "Column4": "151 175 255"
+  },
+  {
+    "Column0": "WC4III",
+    "Column1": "7.28e+05",
+    "Column2": "1.73e+01",
+    "Column3": "41200",
+    "Column4": "152 172 255"
+  },
+  {
+    "Column0": "WC4IV",
+    "Column1": "5.52e+05",
+    "Column2": "1.50e+01",
+    "Column3": "41200",
+    "Column4": "149 171 255"
+  },
+  {
+    "Column0": "WC4V",
+    "Column1": "5.04e+05",
+    "Column2": "1.44e+01",
+    "Column3": "41200",
+    "Column4": "153 174 255"
+  },
+  {
+    "Column0": "WC4VI",
+    "Column1": "3.82e+05",
+    "Column2": "1.25e+01",
+    "Column3": "41200",
+    "Column4": "153 174 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WC5Ia0",
+    "Column1": "1.03e+07",
+    "Column2": "7.62e+01",
+    "Column3": "38000",
+    "Column4": "155 176 255"
+  },
+  {
+    "Column0": "WC5Ia",
+    "Column1": "1.48e+06",
+    "Column2": "2.90e+01",
+    "Column3": "38000",
+    "Column4": "155 176 255"
+  },
+  {
+    "Column0": "WC5Ib",
+    "Column1": "1.03e+06",
+    "Column2": "2.41e+01",
+    "Column3": "38000",
+    "Column4": "155 176 255"
+  },
+  {
+    "Column0": "WC5II",
+    "Column1": "7.59e+05",
+    "Column2": "1.97e+01",
+    "Column3": "39000",
+    "Column4": "153 177 255"
+  },
+  {
+    "Column0": "WC5III",
+    "Column1": "5.25e+05",
+    "Column2": "1.64e+01",
+    "Column3": "39000",
+    "Column4": "154 174 255"
+  },
+  {
+    "Column0": "WC5IV",
+    "Column1": "4.37e+05",
+    "Column2": "1.49e+01",
+    "Column3": "39000",
+    "Column4": "150 172 255"
+  },
+  {
+    "Column0": "WC5V",
+    "Column1": "3.98e+05",
+    "Column2": "1.42e+01",
+    "Column3": "39000",
+    "Column4": "155 176 255"
+  },
+  {
+    "Column0": "WC5VI",
+    "Column1": "3.02e+05",
+    "Column2": "1.24e+01",
+    "Column3": "39000",
+    "Column4": "155 176 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WC6Ia0",
+    "Column1": "7.81e+06",
+    "Column2": "7.66e+01",
+    "Column3": "35400",
+    "Column4": "157 178 255"
+  },
+  {
+    "Column0": "WC6Ia",
+    "Column1": "1.36e+06",
+    "Column2": "3.19e+01",
+    "Column3": "35400",
+    "Column4": "157 178 255"
+  },
+  {
+    "Column0": "WC6Ib",
+    "Column1": "7.81e+05",
+    "Column2": "2.42e+01",
+    "Column3": "35400",
+    "Column4": "157 178 255"
+  },
+  {
+    "Column0": "WC6II",
+    "Column1": "6.54e+05",
+    "Column2": "2.05e+01",
+    "Column3": "36800",
+    "Column4": "155 179 255"
+  },
+  {
+    "Column0": "WC6III",
+    "Column1": "3.76e+05",
+    "Column2": "1.56e+01",
+    "Column3": "36800",
+    "Column4": "156 175 255"
+  },
+  {
+    "Column0": "WC6IV",
+    "Column1": "3.13e+05",
+    "Column2": "1.42e+01",
+    "Column3": "36800",
+    "Column4": "151 174 255"
+  },
+  {
+    "Column0": "WC6V",
+    "Column1": "2.60e+05",
+    "Column2": "1.29e+01",
+    "Column3": "36800",
+    "Column4": "162 184 255"
+  },
+  {
+    "Column0": "WC6VI",
+    "Column1": "1.80e+05",
+    "Column2": "1.08e+01",
+    "Column3": "36800",
+    "Column4": "162 184 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WC7Ia0",
+    "Column1": "5.88e+06",
+    "Column2": "7.74e+01",
+    "Column3": "32800",
+    "Column4": "160 181 255"
+  },
+  {
+    "Column0": "WC7Ia",
+    "Column1": "1.12e+06",
+    "Column2": "3.38e+01",
+    "Column3": "32800",
+    "Column4": "160 181 255"
+  },
+  {
+    "Column0": "WC7Ib",
+    "Column1": "5.88e+05",
+    "Column2": "2.45e+01",
+    "Column3": "32800",
+    "Column4": "160 181 255"
+  },
+  {
+    "Column0": "WC7II",
+    "Column1": "5.10e+05",
+    "Column2": "2.05e+01",
+    "Column3": "34600",
+    "Column4": "156 181 255"
+  },
+  {
+    "Column0": "WC7III",
+    "Column1": "2.94e+05",
+    "Column2": "1.55e+01",
+    "Column3": "34600",
+    "Column4": "158 177 255"
+  },
+  {
+    "Column0": "WC7IV",
+    "Column1": "2.23e+05",
+    "Column2": "1.35e+01",
+    "Column3": "34600",
+    "Column4": "152 175 255"
+  },
+  {
+    "Column0": "WC7V",
+    "Column1": "1.54e+05",
+    "Column2": "1.13e+01",
+    "Column3": "34600",
+    "Column4": "157 177 255"
+  },
+  {
+    "Column0": "WC7VI",
+    "Column1": "1.07e+05",
+    "Column2": "9.36e+00",
+    "Column3": "34600",
+    "Column4": "157 177 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WC8Ia0",
+    "Column1": "4.37e+06",
+    "Column2": "7.87e+01",
+    "Column3": "30200",
+    "Column4": "162 183 255"
+  },
+  {
+    "Column0": "WC8Ia",
+    "Column1": "9.13e+05",
+    "Column2": "3.60e+01",
+    "Column3": "30200",
+    "Column4": "162 183 255"
+  },
+  {
+    "Column0": "WC8Ib",
+    "Column1": "4.37e+05",
+    "Column2": "2.49e+01",
+    "Column3": "30200",
+    "Column4": "162 183 255"
+  },
+  {
+    "Column0": "WC8II",
+    "Column1": "3.60e+05",
+    "Column2": "1.96e+01",
+    "Column3": "32400",
+    "Column4": "158 183 255"
+  },
+  {
+    "Column0": "WC8III",
+    "Column1": "2.07e+05",
+    "Column2": "1.49e+01",
+    "Column3": "32400",
+    "Column4": "157 178 255"
+  },
+  {
+    "Column0": "WC8IV",
+    "Column1": "1.57e+05",
+    "Column2": "1.30e+01",
+    "Column3": "32400",
+    "Column4": "153 176 255"
+  },
+  {
+    "Column0": "WC8V",
+    "Column1": "9.91e+04",
+    "Column2": "1.03e+01",
+    "Column3": "32400",
+    "Column4": "157 177 255"
+  },
+  {
+    "Column0": "WC8VI",
+    "Column1": "5.70e+04",
+    "Column2": "7.81e+00",
+    "Column3": "32400",
+    "Column4": "157 177 255"
+  },
+  {
+    "Column0": "WN0VI",
+    "Column1": "9.40e+05",
+    "Column2": "1.33e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WC9Ia0",
+    "Column1": "3.19e+06",
+    "Column2": "8.05e+01",
+    "Column3": "27600",
+    "Column4": "164 185 255"
+  },
+  {
+    "Column0": "WC9Ia",
+    "Column1": "7.31e+05",
+    "Column2": "3.85e+01",
+    "Column3": "27600",
+    "Column4": "164 185 255"
+  },
+  {
+    "Column0": "WC9Ib",
+    "Column1": "3.19e+05",
+    "Column2": "2.55e+01",
+    "Column3": "27600",
+    "Column4": "164 185 255"
+  },
+  {
+    "Column0": "WC9II",
+    "Column1": "2.76e+05",
+    "Column2": "1.98e+01",
+    "Column3": "30200",
+    "Column4": "160 186 255"
+  },
+  {
+    "Column0": "WC9III",
+    "Column1": "1.59e+05",
+    "Column2": "1.50e+01",
+    "Column3": "30200",
+    "Column4": "158 177 255"
+  },
+  {
+    "Column0": "WC9IV",
+    "Column1": "1.10e+05",
+    "Column2": "1.25e+01",
+    "Column3": "30200",
+    "Column4": "155 177 255"
+  },
+  {
+    "Column0": "WC9V",
+    "Column1": "5.76e+04",
+    "Column2": "9.04e+00",
+    "Column3": "30200",
+    "Column4": "154 178 255"
+  },
+  {
+    "Column0": "WC9VI",
+    "Column1": "3.31e+04",
+    "Column2": "6.85e+00",
+    "Column3": "30200",
+    "Column4": "154 178 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WN0Ia0",
+    "Column1": "3.41e+07",
+    "Column2": "8.02e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "WN0Ia",
+    "Column1": "2.59e+06",
+    "Column2": "2.21e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "WN0Ib",
+    "Column1": "2.15e+06",
+    "Column2": "2.02e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "WN0II",
+    "Column1": "2.15e+06",
+    "Column2": "2.02e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "WN0III",
+    "Column1": "2.15e+06",
+    "Column2": "2.02e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "WN0IV",
+    "Column1": "1.36e+06",
+    "Column2": "1.60e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": "WN0V",
+    "Column1": "1.24e+06",
+    "Column2": "1.53e+01",
+    "Column3": "50000",
+    "Column4": "144 166 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WN1Ia0",
+    "Column1": "2.71e+07",
+    "Column2": "7.88e+01",
+    "Column3": "47600",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "WN1Ia",
+    "Column1": "2.25e+06",
+    "Column2": "2.27e+01",
+    "Column3": "47600",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "WN1Ib",
+    "Column1": "1.87e+06",
+    "Column2": "2.07e+01",
+    "Column3": "47600",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "WN1II",
+    "Column1": "1.73e+06",
+    "Column2": "1.98e+01",
+    "Column3": "47800",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "WN1III",
+    "Column1": "1.58e+06",
+    "Column2": "1.89e+01",
+    "Column3": "47800",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "WN1IV",
+    "Column1": "1.09e+06",
+    "Column2": "1.57e+01",
+    "Column3": "47800",
+    "Column4": "145 167 255"
+  },
+  {
+    "Column0": "WN1V",
+    "Column1": "9.94e+05",
+    "Column2": "1.50e+01",
+    "Column3": "47800",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": "WN1VI",
+    "Column1": "7.54e+05",
+    "Column2": "1.31e+01",
+    "Column3": "47800",
+    "Column4": "146 168 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WN2Ia0",
+    "Column1": "2.14e+07",
+    "Column2": "7.77e+01",
+    "Column3": "45200",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "WN2Ia",
+    "Column1": "2.14e+06",
+    "Column2": "2.46e+01",
+    "Column3": "45200",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "WN2Ib",
+    "Column1": "1.62e+06",
+    "Column2": "2.14e+01",
+    "Column3": "45200",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "WN2II",
+    "Column1": "1.52e+06",
+    "Column2": "2.03e+01",
+    "Column3": "45600",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "WN2III",
+    "Column1": "1.26e+06",
+    "Column2": "1.85e+01",
+    "Column3": "45600",
+    "Column4": "148 169 255"
+  },
+  {
+    "Column0": "WN2IV",
+    "Column1": "8.72e+05",
+    "Column2": "1.54e+01",
+    "Column3": "45600",
+    "Column4": "146 169 255"
+  },
+  {
+    "Column0": "WN2V",
+    "Column1": "7.95e+05",
+    "Column2": "1.47e+01",
+    "Column3": "45600",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "WN2VI",
+    "Column1": "6.03e+05",
+    "Column2": "1.28e+01",
+    "Column3": "45600",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WN3Ia0",
+    "Column1": "1.68e+07",
+    "Column2": "7.69e+01",
+    "Column3": "42800",
+    "Column4": "151 172 255"
+  },
+  {
+    "Column0": "WN3Ia",
+    "Column1": "1.85e+06",
+    "Column2": "2.55e+01",
+    "Column3": "42800",
+    "Column4": "151 172 255"
+  },
+  {
+    "Column0": "WN3Ib",
+    "Column1": "1.40e+06",
+    "Column2": "2.22e+01",
+    "Column3": "42800",
+    "Column4": "151 172 255"
+  },
+  {
+    "Column0": "WN3II",
+    "Column1": "1.21e+06",
+    "Column2": "2.00e+01",
+    "Column3": "43400",
+    "Column4": "149 173 255"
+  },
+  {
+    "Column0": "WN3III",
+    "Column1": "9.17e+05",
+    "Column2": "1.75e+01",
+    "Column3": "43400",
+    "Column4": "150 171 255"
+  },
+  {
+    "Column0": "WN3IV",
+    "Column1": "6.96e+05",
+    "Column2": "1.52e+01",
+    "Column3": "43400",
+    "Column4": "148 170 255"
+  },
+  {
+    "Column0": "WN3V",
+    "Column1": "6.34e+05",
+    "Column2": "1.45e+01",
+    "Column3": "43400",
+    "Column4": "151 172 255"
+  },
+  {
+    "Column0": "WN3VI",
+    "Column1": "4.81e+05",
+    "Column2": "1.26e+01",
+    "Column3": "43400",
+    "Column4": "151 172 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WN4Ia0",
+    "Column1": "1.32e+07",
+    "Column2": "7.64e+01",
+    "Column3": "40400",
+    "Column4": "153 174 255"
+  },
+  {
+    "Column0": "WN4Ia",
+    "Column1": "1.74e+06",
+    "Column2": "2.77e+01",
+    "Column3": "40400",
+    "Column4": "153 174 255"
+  },
+  {
+    "Column0": "WN4Ib",
+    "Column1": "1.20e+06",
+    "Column2": "2.31e+01",
+    "Column3": "40400",
+    "Column4": "153 174 255"
+  },
+  {
+    "Column0": "WN4II",
+    "Column1": "9.60e+05",
+    "Column2": "1.98e+01",
+    "Column3": "41200",
+    "Column4": "151 175 255"
+  },
+  {
+    "Column0": "WN4III",
+    "Column1": "7.28e+05",
+    "Column2": "1.73e+01",
+    "Column3": "41200",
+    "Column4": "152 172 255"
+  },
+  {
+    "Column0": "WN4IV",
+    "Column1": "5.52e+05",
+    "Column2": "1.50e+01",
+    "Column3": "41200",
+    "Column4": "149 171 255"
+  },
+  {
+    "Column0": "WN4V",
+    "Column1": "5.04e+05",
+    "Column2": "1.44e+01",
+    "Column3": "41200",
+    "Column4": "153 174 255"
+  },
+  {
+    "Column0": "WN4VI",
+    "Column1": "3.82e+05",
+    "Column2": "1.25e+01",
+    "Column3": "41200",
+    "Column4": "153 174 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WN5Ia0",
+    "Column1": "1.03e+07",
+    "Column2": "7.62e+01",
+    "Column3": "38000",
+    "Column4": "155 176 255"
+  },
+  {
+    "Column0": "WN5Ia",
+    "Column1": "1.48e+06",
+    "Column2": "2.90e+01",
+    "Column3": "38000",
+    "Column4": "155 176 255"
+  },
+  {
+    "Column0": "WN5Ib",
+    "Column1": "1.03e+06",
+    "Column2": "2.41e+01",
+    "Column3": "38000",
+    "Column4": "155 176 255"
+  },
+  {
+    "Column0": "WN5II",
+    "Column1": "7.59e+05",
+    "Column2": "1.97e+01",
+    "Column3": "39000",
+    "Column4": "153 177 255"
+  },
+  {
+    "Column0": "WN5III",
+    "Column1": "5.25e+05",
+    "Column2": "1.64e+01",
+    "Column3": "39000",
+    "Column4": "154 174 255"
+  },
+  {
+    "Column0": "WN5IV",
+    "Column1": "4.37e+05",
+    "Column2": "1.49e+01",
+    "Column3": "39000",
+    "Column4": "150 172 255"
+  },
+  {
+    "Column0": "WN5V",
+    "Column1": "3.98e+05",
+    "Column2": "1.42e+01",
+    "Column3": "39000",
+    "Column4": "155 176 255"
+  },
+  {
+    "Column0": "WN5VI",
+    "Column1": "3.02e+05",
+    "Column2": "1.24e+01",
+    "Column3": "39000",
+    "Column4": "155 176 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WN6Ia0",
+    "Column1": "7.81e+06",
+    "Column2": "7.66e+01",
+    "Column3": "35400",
+    "Column4": "157 178 255"
+  },
+  {
+    "Column0": "WN6Ia",
+    "Column1": "1.36e+06",
+    "Column2": "3.19e+01",
+    "Column3": "35400",
+    "Column4": "157 178 255"
+  },
+  {
+    "Column0": "WN6Ib",
+    "Column1": "7.81e+05",
+    "Column2": "2.42e+01",
+    "Column3": "35400",
+    "Column4": "157 178 255"
+  },
+  {
+    "Column0": "WN6II",
+    "Column1": "6.54e+05",
+    "Column2": "2.05e+01",
+    "Column3": "36800",
+    "Column4": "155 179 255"
+  },
+  {
+    "Column0": "WN6III",
+    "Column1": "3.76e+05",
+    "Column2": "1.56e+01",
+    "Column3": "36800",
+    "Column4": "156 175 255"
+  },
+  {
+    "Column0": "WN6IV",
+    "Column1": "3.13e+05",
+    "Column2": "1.42e+01",
+    "Column3": "36800",
+    "Column4": "151 174 255"
+  },
+  {
+    "Column0": "WN6V",
+    "Column1": "2.60e+05",
+    "Column2": "1.29e+01",
+    "Column3": "36800",
+    "Column4": "162 184 255"
+  },
+  {
+    "Column0": "WN6VI",
+    "Column1": "1.80e+05",
+    "Column2": "1.08e+01",
+    "Column3": "36800",
+    "Column4": "162 184 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WN7Ia0",
+    "Column1": "5.88e+06",
+    "Column2": "7.74e+01",
+    "Column3": "32800",
+    "Column4": "160 181 255"
+  },
+  {
+    "Column0": "WN7Ia",
+    "Column1": "1.12e+06",
+    "Column2": "3.38e+01",
+    "Column3": "32800",
+    "Column4": "160 181 255"
+  },
+  {
+    "Column0": "WN7Ib",
+    "Column1": "5.88e+05",
+    "Column2": "2.45e+01",
+    "Column3": "32800",
+    "Column4": "160 181 255"
+  },
+  {
+    "Column0": "WN7II",
+    "Column1": "5.10e+05",
+    "Column2": "2.05e+01",
+    "Column3": "34600",
+    "Column4": "156 181 255"
+  },
+  {
+    "Column0": "WN7III",
+    "Column1": "2.94e+05",
+    "Column2": "1.55e+01",
+    "Column3": "34600",
+    "Column4": "158 177 255"
+  },
+  {
+    "Column0": "WN7IV",
+    "Column1": "2.23e+05",
+    "Column2": "1.35e+01",
+    "Column3": "34600",
+    "Column4": "152 175 255"
+  },
+  {
+    "Column0": "WN7V",
+    "Column1": "1.54e+05",
+    "Column2": "1.13e+01",
+    "Column3": "34600",
+    "Column4": "157 177 255"
+  },
+  {
+    "Column0": "WN7VI",
+    "Column1": "1.07e+05",
+    "Column2": "9.36e+00",
+    "Column3": "34600",
+    "Column4": "157 177 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WN8Ia0",
+    "Column1": "4.37e+06",
+    "Column2": "7.87e+01",
+    "Column3": "30200",
+    "Column4": "162 183 255"
+  },
+  {
+    "Column0": "WN8Ia",
+    "Column1": "9.13e+05",
+    "Column2": "3.60e+01",
+    "Column3": "30200",
+    "Column4": "162 183 255"
+  },
+  {
+    "Column0": "WN8Ib",
+    "Column1": "4.37e+05",
+    "Column2": "2.49e+01",
+    "Column3": "30200",
+    "Column4": "162 183 255"
+  },
+  {
+    "Column0": "WN8II",
+    "Column1": "3.60e+05",
+    "Column2": "1.96e+01",
+    "Column3": "32400",
+    "Column4": "158 183 255"
+  },
+  {
+    "Column0": "WN8III",
+    "Column1": "2.07e+05",
+    "Column2": "1.49e+01",
+    "Column3": "32400",
+    "Column4": "157 178 255"
+  },
+  {
+    "Column0": "WN8IV",
+    "Column1": "1.57e+05",
+    "Column2": "1.30e+01",
+    "Column3": "32400",
+    "Column4": "153 176 255"
+  },
+  {
+    "Column0": "WN8V",
+    "Column1": "9.91e+04",
+    "Column2": "1.03e+01",
+    "Column3": "32400",
+    "Column4": "157 177 255"
+  },
+  {
+    "Column0": "WN8VI",
+    "Column1": "5.70e+04",
+    "Column2": "7.81e+00",
+    "Column3": "32400",
+    "Column4": "157 177 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "WN9Ia0",
+    "Column1": "3.19e+06",
+    "Column2": "8.05e+01",
+    "Column3": "27600",
+    "Column4": "164 185 255"
+  },
+  {
+    "Column0": "WN9Ia",
+    "Column1": "7.31e+05",
+    "Column2": "3.85e+01",
+    "Column3": "27600",
+    "Column4": "164 185 255"
+  },
+  {
+    "Column0": "WN9Ib",
+    "Column1": "3.19e+05",
+    "Column2": "2.55e+01",
+    "Column3": "27600",
+    "Column4": "164 185 255"
+  },
+  {
+    "Column0": "WN9II",
+    "Column1": "2.76e+05",
+    "Column2": "1.98e+01",
+    "Column3": "30200",
+    "Column4": "160 186 255"
+  },
+  {
+    "Column0": "WN9III",
+    "Column1": "1.59e+05",
+    "Column2": "1.50e+01",
+    "Column3": "30200",
+    "Column4": "158 177 255"
+  },
+  {
+    "Column0": "WN9IV",
+    "Column1": "1.10e+05",
+    "Column2": "1.25e+01",
+    "Column3": "30200",
+    "Column4": "155 177 255"
+  },
+  {
+    "Column0": "WN9V",
+    "Column1": "5.76e+04",
+    "Column2": "9.04e+00",
+    "Column3": "30200",
+    "Column4": "154 178 255"
+  },
+  {
+    "Column0": "WN9VI",
+    "Column1": "3.31e+04",
+    "Column2": "6.85e+00",
+    "Column3": "30200",
+    "Column4": "154 178 255"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "R0Ia0",
+    "Column1": "8.13e+05",
+    "Column2": "1.42e+03",
+    "Column3": "4669",
+    "Column4": "255 231 193"
+  },
+  {
+    "Column0": "R0Ia",
+    "Column1": "1.70e+05",
+    "Column2": "6.49e+02",
+    "Column3": "4669",
+    "Column4": "255 231 193"
+  },
+  {
+    "Column0": "R0Ib",
+    "Column1": "9.77e+03",
+    "Column2": "1.56e+02",
+    "Column3": "4669",
+    "Column4": "255 231 193"
+  },
+  {
+    "Column0": "R0II",
+    "Column1": "1.29e+03",
+    "Column2": "5.65e+01",
+    "Column3": "4669",
+    "Column4": "255 237 209"
+  },
+  {
+    "Column0": "R0III",
+    "Column1": "8.91e+01",
+    "Column2": "1.49e+01",
+    "Column3": "4669",
+    "Column4": "255 243 233"
+  },
+  {
+    "Column0": "R0IV",
+    "Column1": "6.20e+00",
+    "Column2": "2.76e+00",
+    "Column3": "5560",
+    "Column4": "255 245 238"
+  },
+  {
+    "Column0": "R0V",
+    "Column1": "9.82e-01",
+    "Column2": "1.10e+00",
+    "Column3": "5560",
+    "Column4": "255 241 229"
+  },
+  {
+    "Column0": "R0VI",
+    "Column1": "2.97e-01",
+    "Column2": "6.05e-01",
+    "Column3": "5560",
+    "Column4": "255 241 229"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "R1Ia0",
+    "Column1": "8.71e+05",
+    "Column2": "1.54e+03",
+    "Column3": "4561",
+    "Column4": "255 228 187"
+  },
+  {
+    "Column0": "R1Ia",
+    "Column1": "1.66e+05",
+    "Column2": "6.72e+02",
+    "Column3": "4561",
+    "Column4": "255 228 187"
+  },
+  {
+    "Column0": "R1Ib",
+    "Column1": "1.05e+04",
+    "Column2": "1.69e+02",
+    "Column3": "4561",
+    "Column4": "255 228 187"
+  },
+  {
+    "Column0": "R1II",
+    "Column1": "1.38e+03",
+    "Column2": "6.13e+01",
+    "Column3": "4561",
+    "Column4": "255 234 201"
+  },
+  {
+    "Column0": "R1III",
+    "Column1": "1.05e+02",
+    "Column2": "1.69e+01",
+    "Column3": "4561",
+    "Column4": "255 239 222"
+  },
+  {
+    "Column0": "R1IV",
+    "Column1": "6.61e+00",
+    "Column2": "3.11e+00",
+    "Column3": "5331",
+    "Column4": "255 241 229"
+  },
+  {
+    "Column0": "R1V",
+    "Column1": "7.94e-01",
+    "Column2": "1.08e+00",
+    "Column3": "5331",
+    "Column4": "255 238 222"
+  },
+  {
+    "Column0": "R1VI",
+    "Column1": "2.19e-01",
+    "Column2": "5.65e-01",
+    "Column3": "5331",
+    "Column4": "255 238 222"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "R2Ia0",
+    "Column1": "9.40e+05",
+    "Column2": "1.68e+03",
+    "Column3": "4453",
+    "Column4": "255 225 182"
+  },
+  {
+    "Column0": "R2Ia",
+    "Column1": "1.79e+05",
+    "Column2": "7.33e+02",
+    "Column3": "4453",
+    "Column4": "255 225 182"
+  },
+  {
+    "Column0": "R2Ib",
+    "Column1": "1.24e+04",
+    "Column2": "1.93e+02",
+    "Column3": "4453",
+    "Column4": "255 225 182"
+  },
+  {
+    "Column0": "R2II",
+    "Column1": "1.49e+03",
+    "Column2": "6.68e+01",
+    "Column3": "4453",
+    "Column4": "255 230 192"
+  },
+  {
+    "Column0": "R2III",
+    "Column1": "1.36e+02",
+    "Column2": "2.02e+01",
+    "Column3": "4453",
+    "Column4": "255 234 211"
+  },
+  {
+    "Column0": "R2IV",
+    "Column1": "7.17e+00",
+    "Column2": "3.53e+00",
+    "Column3": "5102",
+    "Column4": "255 238 221"
+  },
+  {
+    "Column0": "R2V",
+    "Column1": "6.54e-01",
+    "Column2": "1.07e+00",
+    "Column3": "5102",
+    "Column4": "255 235 216"
+  },
+  {
+    "Column0": "R2VI",
+    "Column1": "1.80e-01",
+    "Column2": "5.60e-01",
+    "Column3": "5102",
+    "Column4": "255 235 216"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "R3Ia0",
+    "Column1": "9.32e+05",
+    "Column2": "1.75e+03",
+    "Column3": "4346",
+    "Column4": "255 222 176"
+  },
+  {
+    "Column0": "R3Ia",
+    "Column1": "1.78e+05",
+    "Column2": "7.66e+02",
+    "Column3": "4346",
+    "Column4": "255 222 176"
+  },
+  {
+    "Column0": "R3Ib",
+    "Column1": "1.35e+04",
+    "Column2": "2.11e+02",
+    "Column3": "4346",
+    "Column4": "255 222 176"
+  },
+  {
+    "Column0": "R3II",
+    "Column1": "1.78e+03",
+    "Column2": "7.66e+01",
+    "Column3": "4346",
+    "Column4": "255 227 184"
+  },
+  {
+    "Column0": "R3III",
+    "Column1": "1.62e+02",
+    "Column2": "2.31e+01",
+    "Column3": "4346",
+    "Column4": "255 230 199"
+  },
+  {
+    "Column0": "R3IV",
+    "Column1": "7.26e+00",
+    "Column2": "3.90e+00",
+    "Column3": "4873",
+    "Column4": "255 234 212"
+  },
+  {
+    "Column0": "R3V",
+    "Column1": "5.50e-01",
+    "Column2": "1.07e+00",
+    "Column3": "4873",
+    "Column4": "255 233 209"
+  },
+  {
+    "Column0": "R3VI",
+    "Column1": "1.52e-01",
+    "Column2": "5.63e-01",
+    "Column3": "4873",
+    "Column4": "255 233 209"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "R4Ia0",
+    "Column1": "1.02e+06",
+    "Column2": "1.93e+03",
+    "Column3": "4238",
+    "Column4": "255 219 171"
+  },
+  {
+    "Column0": "R4Ia",
+    "Column1": "1.95e+05",
+    "Column2": "8.44e+02",
+    "Column3": "4238",
+    "Column4": "255 219 171"
+  },
+  {
+    "Column0": "R4Ib",
+    "Column1": "1.62e+04",
+    "Column2": "2.43e+02",
+    "Column3": "4238",
+    "Column4": "255 219 171"
+  },
+  {
+    "Column0": "R4II",
+    "Column1": "1.95e+03",
+    "Column2": "8.44e+01",
+    "Column3": "4238",
+    "Column4": "255 223 175"
+  },
+  {
+    "Column0": "R4III",
+    "Column1": "1.95e+02",
+    "Column2": "2.67e+01",
+    "Column3": "4238",
+    "Column4": "255 225 188"
+  },
+  {
+    "Column0": "R4IV",
+    "Column1": "8.25e+00",
+    "Column2": "4.57e+00",
+    "Column3": "4644",
+    "Column4": "255 231 203"
+  },
+  {
+    "Column0": "R4V",
+    "Column1": "5.21e-01",
+    "Column2": "1.15e+00",
+    "Column3": "4644",
+    "Column4": "255 230 203"
+  },
+  {
+    "Column0": "R4VI",
+    "Column1": "1.19e-01",
+    "Column2": "5.50e-01",
+    "Column3": "4644",
+    "Column4": "255 230 203"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "R5Ia0",
+    "Column1": "1.13e+06",
+    "Column2": "2.14e+03",
+    "Column3": "4130",
+    "Column4": "255 216 165"
+  },
+  {
+    "Column0": "R5Ia",
+    "Column1": "1.97e+05",
+    "Column2": "8.93e+02",
+    "Column3": "4130",
+    "Column4": "255 216 165"
+  },
+  {
+    "Column0": "R5Ib",
+    "Column1": "2.16e+04",
+    "Column2": "2.96e+02",
+    "Column3": "4130",
+    "Column4": "255 216 165"
+  },
+  {
+    "Column0": "R5II",
+    "Column1": "2.16e+03",
+    "Column2": "9.35e+01",
+    "Column3": "4130",
+    "Column4": "255 220 167"
+  },
+  {
+    "Column0": "R5III",
+    "Column1": "2.59e+02",
+    "Column2": "3.24e+01",
+    "Column3": "4130",
+    "Column4": "255 221 177"
+  },
+  {
+    "Column0": "R5IV",
+    "Column1": "9.67e+00",
+    "Column2": "5.47e+00",
+    "Column3": "4416",
+    "Column4": "255 227 194"
+  },
+  {
+    "Column0": "R5V",
+    "Column1": "4.63e-01",
+    "Column2": "1.20e+00",
+    "Column3": "4416",
+    "Column4": "255 227 196"
+  },
+  {
+    "Column0": "R5VI",
+    "Column1": "8.81e-02",
+    "Column2": "5.23e-01",
+    "Column3": "4416",
+    "Column4": "255 227 196"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "R6Ia0",
+    "Column1": "1.26e+06",
+    "Column2": "2.39e+03",
+    "Column3": "4023",
+    "Column4": "255 213 160"
+  },
+  {
+    "Column0": "R6Ia",
+    "Column1": "2.20e+05",
+    "Column2": "9.95e+02",
+    "Column3": "4023",
+    "Column4": "255 213 160"
+  },
+  {
+    "Column0": "R6Ib",
+    "Column1": "3.18e+04",
+    "Column2": "3.78e+02",
+    "Column3": "4023",
+    "Column4": "255 213 160"
+  },
+  {
+    "Column0": "R6II",
+    "Column1": "2.41e+03",
+    "Column2": "1.04e+02",
+    "Column3": "4023",
+    "Column4": "255 217 158"
+  },
+  {
+    "Column0": "R6III",
+    "Column1": "3.18e+02",
+    "Column2": "3.78e+01",
+    "Column3": "4023",
+    "Column4": "255 216 166"
+  },
+  {
+    "Column0": "R6IV",
+    "Column1": "1.17e+01",
+    "Column2": "6.71e+00",
+    "Column3": "4187",
+    "Column4": "255 224 186"
+  },
+  {
+    "Column0": "R6V",
+    "Column1": "4.26e-01",
+    "Column2": "1.28e+00",
+    "Column3": "4187",
+    "Column4": "255 219 182"
+  },
+  {
+    "Column0": "R6VI",
+    "Column1": "6.76e-02",
+    "Column2": "5.09e-01",
+    "Column3": "4187",
+    "Column4": "255 219 182"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "R7Ia0",
+    "Column1": "1.43e+06",
+    "Column2": "2.68e+03",
+    "Column3": "3915",
+    "Column4": "255 210 154"
+  },
+  {
+    "Column0": "R7Ia",
+    "Column1": "2.27e+05",
+    "Column2": "1.07e+03",
+    "Column3": "3915",
+    "Column4": "255 210 154"
+  },
+  {
+    "Column0": "R7Ib",
+    "Column1": "3.94e+04",
+    "Column2": "4.45e+02",
+    "Column3": "3915",
+    "Column4": "255 210 154"
+  },
+  {
+    "Column0": "R7II",
+    "Column1": "2.99e+03",
+    "Column2": "1.22e+02",
+    "Column3": "3915",
+    "Column4": "255 213 150"
+  },
+  {
+    "Column0": "R7III",
+    "Column1": "3.94e+02",
+    "Column2": "4.45e+01",
+    "Column3": "3915",
+    "Column4": "255 212 154"
+  },
+  {
+    "Column0": "R7IV",
+    "Column1": "1.36e+01",
+    "Column2": "8.08e+00",
+    "Column3": "3958",
+    "Column4": "255 220 177"
+  },
+  {
+    "Column0": "R7V",
+    "Column1": "2.59e-01",
+    "Column2": "1.12e+00",
+    "Column3": "3958",
+    "Column4": "255 211 168"
+  },
+  {
+    "Column0": "R7VI",
+    "Column1": "4.50e-02",
+    "Column2": "4.65e-01",
+    "Column3": "3958",
+    "Column4": "255 211 168"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "R8Ia0",
+    "Column1": "1.64e+06",
+    "Column2": "3.03e+03",
+    "Column3": "3808",
+    "Column4": "255 207 149"
+  },
+  {
+    "Column0": "R8Ia",
+    "Column1": "2.59e+05",
+    "Column2": "1.21e+03",
+    "Column3": "3808",
+    "Column4": "255 207 149"
+  },
+  {
+    "Column0": "R8Ib",
+    "Column1": "4.50e+04",
+    "Column2": "5.03e+02",
+    "Column3": "3808",
+    "Column4": "255 207 149"
+  },
+  {
+    "Column0": "R8II",
+    "Column1": "3.42e+03",
+    "Column2": "1.38e+02",
+    "Column3": "3808",
+    "Column4": "255 210 141"
+  },
+  {
+    "Column0": "R8III",
+    "Column1": "5.41e+02",
+    "Column2": "5.51e+01",
+    "Column3": "3808",
+    "Column4": "255 207 143"
+  },
+  {
+    "Column0": "R8IV",
+    "Column1": "1.82e+01",
+    "Column2": "1.05e+01",
+    "Column3": "3729",
+    "Column4": "255 216 168"
+  },
+  {
+    "Column0": "R8V",
+    "Column1": "1.82e-01",
+    "Column2": "1.05e+00",
+    "Column3": "3729",
+    "Column4": "255 203 153"
+  },
+  {
+    "Column0": "R8VI",
+    "Column1": "3.80e-02",
+    "Column2": "4.82e-01",
+    "Column3": "3729",
+    "Column4": "255 203 153"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "R9Ia0",
+    "Column1": "1.90e+06",
+    "Column2": "3.46e+03",
+    "Column3": "3700",
+    "Column4": "255 204 143"
+  },
+  {
+    "Column0": "R9Ia",
+    "Column1": "2.74e+05",
+    "Column2": "1.31e+03",
+    "Column3": "3700",
+    "Column4": "255 204 143"
+  },
+  {
+    "Column0": "R9Ib",
+    "Column1": "5.73e+04",
+    "Column2": "6.00e+02",
+    "Column3": "3700",
+    "Column4": "255 204 143"
+  },
+  {
+    "Column0": "R9II",
+    "Column1": "3.96e+03",
+    "Column2": "1.58e+02",
+    "Column3": "3700",
+    "Column4": "255 207 133"
+  },
+  {
+    "Column0": "R9III",
+    "Column1": "6.89e+02",
+    "Column2": "6.58e+01",
+    "Column3": "3700",
+    "Column4": "255 203 132"
+  },
+  {
+    "Column0": "R9IV",
+    "Column1": "2.60e+01",
+    "Column2": "1.43e+01",
+    "Column3": "3500",
+    "Column4": "255 213 160"
+  },
+  {
+    "Column0": "R9V",
+    "Column1": "1.25e-01",
+    "Column2": "9.90e-01",
+    "Column3": "3500",
+    "Column4": "255 195 139"
+  },
+  {
+    "Column0": "R9VI",
+    "Column1": "3.76e-02",
+    "Column2": "5.44e-01",
+    "Column3": "3500",
+    "Column4": "255 195 139"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "C0Ia0",
+    "Column1": "8.13e+05",
+    "Column2": "1.42e+03",
+    "Column3": "4669",
+    "Column4": "255 231 193"
+  },
+  {
+    "Column0": "C0Ia",
+    "Column1": "1.70e+05",
+    "Column2": "6.49e+02",
+    "Column3": "4669",
+    "Column4": "255 231 193"
+  },
+  {
+    "Column0": "C0Ib",
+    "Column1": "9.77e+03",
+    "Column2": "1.56e+02",
+    "Column3": "4669",
+    "Column4": "255 231 193"
+  },
+  {
+    "Column0": "C0II",
+    "Column1": "1.29e+03",
+    "Column2": "5.65e+01",
+    "Column3": "4669",
+    "Column4": "255 237 209"
+  },
+  {
+    "Column0": "C0III",
+    "Column1": "8.91e+01",
+    "Column2": "1.49e+01",
+    "Column3": "4669",
+    "Column4": "255 243 233"
+  },
+  {
+    "Column0": "C0IV",
+    "Column1": "6.20e+00",
+    "Column2": "2.76e+00",
+    "Column3": "5560",
+    "Column4": "255 245 238"
+  },
+  {
+    "Column0": "C0V",
+    "Column1": "9.82e-01",
+    "Column2": "1.10e+00",
+    "Column3": "5560",
+    "Column4": "255 241 229"
+  },
+  {
+    "Column0": "C0VI",
+    "Column1": "2.97e-01",
+    "Column2": "6.05e-01",
+    "Column3": "5560",
+    "Column4": "255 241 229"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "C1Ia0",
+    "Column1": "1.10e+06",
+    "Column2": "1.88e+03",
+    "Column3": "4371",
+    "Column4": "255 222 172"
+  },
+  {
+    "Column0": "C1Ia",
+    "Column1": "1.91e+05",
+    "Column2": "7.85e+02",
+    "Column3": "4371",
+    "Column4": "255 222 172"
+  },
+  {
+    "Column0": "C1Ib",
+    "Column1": "1.20e+04",
+    "Column2": "1.97e+02",
+    "Column3": "4371",
+    "Column4": "255 222 172"
+  },
+  {
+    "Column0": "C1II",
+    "Column1": "1.59e+03",
+    "Column2": "7.16e+01",
+    "Column3": "4371",
+    "Column4": "255 232 196"
+  },
+  {
+    "Column0": "C1III",
+    "Column1": "1.32e+02",
+    "Column2": "2.06e+01",
+    "Column3": "4371",
+    "Column4": "255 242 224"
+  },
+  {
+    "Column0": "C1IV",
+    "Column1": "7.00e+00",
+    "Column2": "3.41e+00",
+    "Column3": "5164",
+    "Column4": "255 241 228"
+  },
+  {
+    "Column0": "C1V",
+    "Column1": "6.39e-01",
+    "Column2": "1.03e+00",
+    "Column3": "5164",
+    "Column4": "255 235 218"
+  },
+  {
+    "Column0": "C1VI",
+    "Column1": "1.76e-01",
+    "Column2": "5.40e-01",
+    "Column3": "5164",
+    "Column4": "255 235 218"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "C2Ia0",
+    "Column1": "1.31e+06",
+    "Column2": "2.37e+03",
+    "Column3": "4073",
+    "Column4": "255 214 150"
+  },
+  {
+    "Column0": "C2Ia",
+    "Column1": "2.28e+05",
+    "Column2": "9.89e+02",
+    "Column3": "4073",
+    "Column4": "255 214 150"
+  },
+  {
+    "Column0": "C2Ib",
+    "Column1": "1.73e+04",
+    "Column2": "2.72e+02",
+    "Column3": "4073",
+    "Column4": "255 214 150"
+  },
+  {
+    "Column0": "C2II",
+    "Column1": "2.28e+03",
+    "Column2": "9.89e+01",
+    "Column3": "4073",
+    "Column4": "255 226 183"
+  },
+  {
+    "Column0": "C2III",
+    "Column1": "2.08e+02",
+    "Column2": "2.99e+01",
+    "Column3": "4073",
+    "Column4": "255 241 215"
+  },
+  {
+    "Column0": "C2IV",
+    "Column1": "7.67e+00",
+    "Column2": "4.18e+00",
+    "Column3": "4769",
+    "Column4": "255 236 218"
+  },
+  {
+    "Column0": "C2V",
+    "Column1": "2.78e-01",
+    "Column2": "7.97e-01",
+    "Column3": "4769",
+    "Column4": "255 228 207"
+  },
+  {
+    "Column0": "C2VI",
+    "Column1": "1.33e-01",
+    "Column2": "5.51e-01",
+    "Column3": "4769",
+    "Column4": "255 228 207"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "C3Ia0",
+    "Column1": "1.71e+06",
+    "Column2": "3.15e+03",
+    "Column3": "3776",
+    "Column4": "255 206 129"
+  },
+  {
+    "Column0": "C3Ia",
+    "Column1": "2.97e+05",
+    "Column2": "1.31e+03",
+    "Column3": "3776",
+    "Column4": "255 206 129"
+  },
+  {
+    "Column0": "C3Ib",
+    "Column1": "2.47e+04",
+    "Column2": "3.78e+02",
+    "Column3": "3776",
+    "Column4": "255 206 129"
+  },
+  {
+    "Column0": "C3II",
+    "Column1": "3.57e+03",
+    "Column2": "1.44e+02",
+    "Column3": "3776",
+    "Column4": "255 221 170"
+  },
+  {
+    "Column0": "C3III",
+    "Column1": "3.57e+02",
+    "Column2": "4.55e+01",
+    "Column3": "3776",
+    "Column4": "255 240 207"
+  },
+  {
+    "Column0": "C3IV",
+    "Column1": "1.00e+01",
+    "Column2": "5.68e+00",
+    "Column3": "4373",
+    "Column4": "255 232 209"
+  },
+  {
+    "Column0": "C3V",
+    "Column1": "1.20e-01",
+    "Column2": "6.23e-01",
+    "Column3": "4373",
+    "Column4": "255 222 196"
+  },
+  {
+    "Column0": "C3VI",
+    "Column1": "9.12e-02",
+    "Column2": "5.42e-01",
+    "Column3": "4373",
+    "Column4": "255 222 196"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "C4Ia0",
+    "Column1": "2.71e+06",
+    "Column2": "4.67e+03",
+    "Column3": "3478",
+    "Column4": "255 198 107"
+  },
+  {
+    "Column0": "C4Ia",
+    "Column1": "4.29e+05",
+    "Column2": "1.86e+03",
+    "Column3": "3478",
+    "Column4": "255 198 107"
+  },
+  {
+    "Column0": "C4Ib",
+    "Column1": "4.29e+04",
+    "Column2": "5.88e+02",
+    "Column3": "3478",
+    "Column4": "255 198 107"
+  },
+  {
+    "Column0": "C4II",
+    "Column1": "6.20e+03",
+    "Column2": "2.23e+02",
+    "Column3": "3478",
+    "Column4": "255 216 157"
+  },
+  {
+    "Column0": "C4III",
+    "Column1": "6.80e+02",
+    "Column2": "7.40e+01",
+    "Column3": "3478",
+    "Column4": "255 239 198"
+  },
+  {
+    "Column0": "C4IV",
+    "Column1": "1.46e+01",
+    "Column2": "8.28e+00",
+    "Column3": "3978",
+    "Column4": "255 227 199"
+  },
+  {
+    "Column0": "C4V",
+    "Column1": "6.36e-02",
+    "Column2": "5.47e-01",
+    "Column3": "3978",
+    "Column4": "255 215 185"
+  },
+  {
+    "Column0": "C4VI",
+    "Column1": "6.36e-02",
+    "Column2": "5.47e-01",
+    "Column3": "3978",
+    "Column4": "255 215 185"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "C5Ia0",
+    "Column1": "4.94e+06",
+    "Column2": "7.55e+03",
+    "Column3": "3180",
+    "Column4": "255 190 086"
+  },
+  {
+    "Column0": "C5Ia",
+    "Column1": "7.83e+05",
+    "Column2": "3.00e+03",
+    "Column3": "3180",
+    "Column4": "255 190 086"
+  },
+  {
+    "Column0": "C5Ib",
+    "Column1": "9.41e+04",
+    "Column2": "1.04e+03",
+    "Column3": "3180",
+    "Column4": "255 190 086"
+  },
+  {
+    "Column0": "C5II",
+    "Column1": "1.13e+04",
+    "Column2": "3.61e+02",
+    "Column3": "3180",
+    "Column4": "255 211 143"
+  },
+  {
+    "Column0": "C5III",
+    "Column1": "1.49e+03",
+    "Column2": "1.31e+02",
+    "Column3": "3180",
+    "Column4": "255 237 189"
+  },
+  {
+    "Column0": "C5IV",
+    "Column1": "2.27e+01",
+    "Column2": "1.28e+01",
+    "Column3": "3582",
+    "Column4": "255 223 189"
+  },
+  {
+    "Column0": "C5V",
+    "Column1": "5.20e-03",
+    "Column2": "1.93e-01",
+    "Column3": "3582",
+    "Column4": "255 209 174"
+  },
+  {
+    "Column0": "C5VI",
+    "Column1": "3.28e-02",
+    "Column2": "4.85e-01",
+    "Column3": "3582",
+    "Column4": "255 209 174"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "C6Ia0",
+    "Column1": "1.09e+07",
+    "Column2": "1.36e+04",
+    "Column3": "2883",
+    "Column4": "255 182 064"
+  },
+  {
+    "Column0": "C6Ia",
+    "Column1": "1.57e+06",
+    "Column2": "5.18e+03",
+    "Column3": "2883",
+    "Column4": "255 182 064"
+  },
+  {
+    "Column0": "C6Ib",
+    "Column1": "2.73e+05",
+    "Column2": "2.16e+03",
+    "Column3": "2883",
+    "Column4": "255 182 064"
+  },
+  {
+    "Column0": "C6II",
+    "Column1": "2.73e+04",
+    "Column2": "6.83e+02",
+    "Column3": "2883",
+    "Column4": "255 205 130"
+  },
+  {
+    "Column0": "C6III",
+    "Column1": "3.95e+03",
+    "Column2": "2.60e+02",
+    "Column3": "2883",
+    "Column4": "255 236 180"
+  },
+  {
+    "Column0": "C6IV",
+    "Column1": "4.86e+01",
+    "Column2": "2.36e+01",
+    "Column3": "3187",
+    "Column4": "255 218 179"
+  },
+  {
+    "Column0": "C6V",
+    "Column1": "1.34e-03",
+    "Column2": "1.24e-01",
+    "Column3": "3187",
+    "Column4": "255 206 158"
+  },
+  {
+    "Column0": "C6VI",
+    "Column1": "3.07e-03",
+    "Column2": "1.87e-01",
+    "Column3": "3187",
+    "Column4": "255 206 158"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "C7Ia0",
+    "Column1": "2.85e+07",
+    "Column2": "2.74e+04",
+    "Column3": "2585",
+    "Column4": "255 173 043"
+  },
+  {
+    "Column0": "C7Ia",
+    "Column1": "4.12e+06",
+    "Column2": "1.04e+04",
+    "Column3": "2585",
+    "Column4": "255 173 043"
+  },
+  {
+    "Column0": "C7Ib",
+    "Column1": "8.61e+05",
+    "Column2": "4.77e+03",
+    "Column3": "2585",
+    "Column4": "255 173 043"
+  },
+  {
+    "Column0": "C7II",
+    "Column1": "8.61e+04",
+    "Column2": "1.51e+03",
+    "Column3": "2585",
+    "Column4": "255 200 117"
+  },
+  {
+    "Column0": "C7III",
+    "Column1": "9.44e+03",
+    "Column2": "4.99e+02",
+    "Column3": "2585",
+    "Column4": "255 235 172"
+  },
+  {
+    "Column0": "C7IV",
+    "Column1": "1.46e+02",
+    "Column2": "5.33e+01",
+    "Column3": "2791",
+    "Column4": "255 214 170"
+  },
+  {
+    "Column0": "C7V",
+    "Column1": "5.30e-04",
+    "Column2": "1.01e-01",
+    "Column3": "2791",
+    "Column4": "255 204 141"
+  },
+  {
+    "Column0": "C7VI",
+    "Column1": "5.30e-04",
+    "Column2": "1.01e-01",
+    "Column3": "2791",
+    "Column4": "255 204 141"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "C8Ia0",
+    "Column1": "1.08e+08",
+    "Column2": "6.82e+04",
+    "Column3": "2288",
+    "Column4": "255 165 021"
+  },
+  {
+    "Column0": "C8Ia",
+    "Column1": "1.56e+07",
+    "Column2": "2.59e+04",
+    "Column3": "2288",
+    "Column4": "255 165 021"
+  },
+  {
+    "Column0": "C8Ib",
+    "Column1": "3.26e+06",
+    "Column2": "1.18e+04",
+    "Column3": "2288",
+    "Column4": "255 165 021"
+  },
+  {
+    "Column0": "C8II",
+    "Column1": "3.58e+05",
+    "Column2": "3.92e+03",
+    "Column3": "2288",
+    "Column4": "255 195 104"
+  },
+  {
+    "Column0": "C8III",
+    "Column1": "2.97e+04",
+    "Column2": "1.13e+03",
+    "Column3": "2288",
+    "Column4": "255 234 163"
+  },
+  {
+    "Column0": "C8IV",
+    "Column1": "6.70e+02",
+    "Column2": "1.55e+02",
+    "Column3": "2396",
+    "Column4": "255 209 160"
+  },
+  {
+    "Column0": "C8V",
+    "Column1": "9.68e-04",
+    "Column2": "1.86e-01",
+    "Column3": "2396",
+    "Column4": "255 201 125"
+  },
+  {
+    "Column0": "C8VI",
+    "Column1": "6.70e-04",
+    "Column2": "1.55e-01",
+    "Column3": "2396",
+    "Column4": "255 201 125"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "C9Ia0",
+    "Column1": "7.11e+08",
+    "Column2": "2.31e+05",
+    "Column3": "1990",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "C9Ia",
+    "Column1": "1.03e+08",
+    "Column2": "8.79e+04",
+    "Column3": "1990",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "C9Ib",
+    "Column1": "2.15e+07",
+    "Column2": "4.02e+04",
+    "Column3": "1990",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "C9II",
+    "Column1": "2.83e+06",
+    "Column2": "1.46e+04",
+    "Column3": "1990",
+    "Column4": "255 190 091"
+  },
+  {
+    "Column0": "C9III",
+    "Column1": "1.79e+05",
+    "Column2": "3.67e+03",
+    "Column3": "1990",
+    "Column4": "255 233 154"
+  },
+  {
+    "Column0": "C9IV",
+    "Column1": "7.91e+03",
+    "Column2": "7.64e+02",
+    "Column3": "2000",
+    "Column4": "255 205 150"
+  },
+  {
+    "Column0": "C9V",
+    "Column1": "4.15e-03",
+    "Column2": "5.53e-01",
+    "Column3": "2000",
+    "Column4": "255 198 108"
+  },
+  {
+    "Column0": "C9VI",
+    "Column1": "4.15e-03",
+    "Column2": "5.53e-01",
+    "Column3": "2000",
+    "Column4": "255 198 108"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "S0Ia0",
+    "Column1": "1.90e+06",
+    "Column2": "3.46e+03",
+    "Column3": "3700",
+    "Column4": "255 204 143"
+  },
+  {
+    "Column0": "S0Ia",
+    "Column1": "2.74e+05",
+    "Column2": "1.31e+03",
+    "Column3": "3700",
+    "Column4": "255 204 143"
+  },
+  {
+    "Column0": "S0Ib",
+    "Column1": "5.73e+04",
+    "Column2": "6.00e+02",
+    "Column3": "3700",
+    "Column4": "255 204 143"
+  },
+  {
+    "Column0": "S0II",
+    "Column1": "3.96e+03",
+    "Column2": "1.58e+02",
+    "Column3": "3700",
+    "Column4": "255 207 133"
+  },
+  {
+    "Column0": "S0III",
+    "Column1": "6.89e+02",
+    "Column2": "6.58e+01",
+    "Column3": "3700",
+    "Column4": "255 203 132"
+  },
+  {
+    "Column0": "S0IV",
+    "Column1": "2.60e+01",
+    "Column2": "1.43e+01",
+    "Column3": "3500",
+    "Column4": "255 213 160"
+  },
+  {
+    "Column0": "S0V",
+    "Column1": "1.25e-01",
+    "Column2": "9.90e-01",
+    "Column3": "3500",
+    "Column4": "255 195 139"
+  },
+  {
+    "Column0": "S0VI",
+    "Column1": "3.76e-02",
+    "Column2": "5.44e-01",
+    "Column3": "3500",
+    "Column4": "255 195 139"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "S1Ia0",
+    "Column1": "2.56e+06",
+    "Column2": "4.46e+03",
+    "Column3": "3510",
+    "Column4": "255 202 138"
+  },
+  {
+    "Column0": "S1Ia",
+    "Column1": "3.37e+05",
+    "Column2": "1.62e+03",
+    "Column3": "3510",
+    "Column4": "255 202 138"
+  },
+  {
+    "Column0": "S1Ib",
+    "Column1": "7.73e+04",
+    "Column2": "7.75e+02",
+    "Column3": "3510",
+    "Column4": "255 202 138"
+  },
+  {
+    "Column0": "S1II",
+    "Column1": "5.86e+03",
+    "Column2": "2.13e+02",
+    "Column3": "3510",
+    "Column4": "255 205 128"
+  },
+  {
+    "Column0": "S1III",
+    "Column1": "9.29e+02",
+    "Column2": "8.50e+01",
+    "Column3": "3510",
+    "Column4": "255 200 121"
+  },
+  {
+    "Column0": "S1IV",
+    "Column1": "3.55e+01",
+    "Column2": "1.84e+01",
+    "Column3": "3333",
+    "Column4": "255 212 159"
+  },
+  {
+    "Column0": "S1V",
+    "Column1": "6.18e-02",
+    "Column2": "7.68e-01",
+    "Column3": "3333",
+    "Column4": "255 204 142"
+  },
+  {
+    "Column0": "S1VI",
+    "Column1": "1.86e-02",
+    "Column2": "4.22e-01",
+    "Column3": "3333",
+    "Column4": "255 204 142"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "S2Ia0",
+    "Column1": "3.65e+06",
+    "Column2": "5.95e+03",
+    "Column3": "3320",
+    "Column4": "255 193 104"
+  },
+  {
+    "Column0": "S2Ia",
+    "Column1": "4.81e+05",
+    "Column2": "2.16e+03",
+    "Column3": "3320",
+    "Column4": "255 193 104"
+  },
+  {
+    "Column0": "S2Ib",
+    "Column1": "1.10e+05",
+    "Column2": "1.03e+03",
+    "Column3": "3320",
+    "Column4": "255 193 104"
+  },
+  {
+    "Column0": "S2II",
+    "Column1": "8.36e+03",
+    "Column2": "2.85e+02",
+    "Column3": "3320",
+    "Column4": "255 203 124"
+  },
+  {
+    "Column0": "S2III",
+    "Column1": "1.21e+03",
+    "Column2": "1.08e+02",
+    "Column3": "3320",
+    "Column4": "255 198 118"
+  },
+  {
+    "Column0": "S2IV",
+    "Column1": "5.09e+01",
+    "Column2": "2.44e+01",
+    "Column3": "3167",
+    "Column4": "255 211 157"
+  },
+  {
+    "Column0": "S2V",
+    "Column1": "3.21e-02",
+    "Column2": "6.14e-01",
+    "Column3": "3167",
+    "Column4": "255 196 131"
+  },
+  {
+    "Column0": "S2VI",
+    "Column1": "8.85e-03",
+    "Column2": "3.22e-01",
+    "Column3": "3167",
+    "Column4": "255 196 131"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "S3Ia0",
+    "Column1": "5.07e+06",
+    "Column2": "7.89e+03",
+    "Column3": "3130",
+    "Column4": "255 192 118"
+  },
+  {
+    "Column0": "S3Ia",
+    "Column1": "7.33e+05",
+    "Column2": "3.00e+03",
+    "Column3": "3130",
+    "Column4": "255 192 118"
+  },
+  {
+    "Column0": "S3Ib",
+    "Column1": "1.68e+05",
+    "Column2": "1.44e+03",
+    "Column3": "3130",
+    "Column4": "255 192 118"
+  },
+  {
+    "Column0": "S3II",
+    "Column1": "1.40e+04",
+    "Column2": "4.14e+02",
+    "Column3": "3130",
+    "Column4": "255 201 119"
+  },
+  {
+    "Column0": "S3III",
+    "Column1": "1.84e+03",
+    "Column2": "1.50e+02",
+    "Column3": "3130",
+    "Column4": "255 200 119"
+  },
+  {
+    "Column0": "S3IV",
+    "Column1": "7.76e+01",
+    "Column2": "3.36e+01",
+    "Column3": "3000",
+    "Column4": "255 210 156"
+  },
+  {
+    "Column0": "S3V",
+    "Column1": "1.78e-02",
+    "Column2": "5.09e-01",
+    "Column3": "3000",
+    "Column4": "255 206 129"
+  },
+  {
+    "Column0": "S3VI",
+    "Column1": "4.90e-03",
+    "Column2": "2.67e-01",
+    "Column3": "3000",
+    "Column4": "255 206 129"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "S4Ia0",
+    "Column1": "8.38e+06",
+    "Column2": "1.15e+04",
+    "Column3": "2940",
+    "Column4": "255 185 104"
+  },
+  {
+    "Column0": "S4Ia",
+    "Column1": "1.10e+06",
+    "Column2": "4.18e+03",
+    "Column3": "2940",
+    "Column4": "255 185 104"
+  },
+  {
+    "Column0": "S4Ib",
+    "Column1": "2.77e+05",
+    "Column2": "2.09e+03",
+    "Column3": "2940",
+    "Column4": "255 185 104"
+  },
+  {
+    "Column0": "S4II",
+    "Column1": "2.31e+04",
+    "Column2": "6.04e+02",
+    "Column3": "2940",
+    "Column4": "255 199 114"
+  },
+  {
+    "Column0": "S4III",
+    "Column1": "2.77e+03",
+    "Column2": "2.09e+02",
+    "Column3": "2940",
+    "Column4": "255 206 127"
+  },
+  {
+    "Column0": "S4IV",
+    "Column1": "1.27e+02",
+    "Column2": "4.83e+01",
+    "Column3": "2833",
+    "Column4": "255 209 155"
+  },
+  {
+    "Column0": "S4V",
+    "Column1": "1.06e-02",
+    "Column2": "4.40e-01",
+    "Column3": "2833",
+    "Column4": "255 201 127"
+  },
+  {
+    "Column0": "S4VI",
+    "Column1": "2.66e-03",
+    "Column2": "2.21e-01",
+    "Column3": "2833",
+    "Column4": "255 201 127"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "S5Ia0",
+    "Column1": "1.53e+07",
+    "Column2": "1.78e+04",
+    "Column3": "2750",
+    "Column4": "255 178 078"
+  },
+  {
+    "Column0": "S5Ia",
+    "Column1": "2.02e+06",
+    "Column2": "6.45e+03",
+    "Column3": "2750",
+    "Column4": "255 178 078"
+  },
+  {
+    "Column0": "S5Ib",
+    "Column1": "5.07e+05",
+    "Column2": "3.23e+03",
+    "Column3": "2750",
+    "Column4": "255 178 078"
+  },
+  {
+    "Column0": "S5II",
+    "Column1": "4.62e+04",
+    "Column2": "9.76e+02",
+    "Column3": "2750",
+    "Column4": "255 197 110"
+  },
+  {
+    "Column0": "S5III",
+    "Column1": "5.07e+03",
+    "Column2": "3.23e+02",
+    "Column3": "2750",
+    "Column4": "255 197 124"
+  },
+  {
+    "Column0": "S5IV",
+    "Column1": "2.07e+02",
+    "Column2": "6.94e+01",
+    "Column3": "2667",
+    "Column4": "255 209 154"
+  },
+  {
+    "Column0": "S5V",
+    "Column1": "6.24e-03",
+    "Column2": "3.81e-01",
+    "Column3": "2667",
+    "Column4": "255 204 111"
+  },
+  {
+    "Column0": "S5VI",
+    "Column1": "1.72e-03",
+    "Column2": "2.00e-01",
+    "Column3": "2667",
+    "Column4": "255 204 111"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "S6Ia0",
+    "Column1": "2.88e+07",
+    "Column2": "2.81e+04",
+    "Column3": "2560",
+    "Column4": "255 171 052"
+  },
+  {
+    "Column0": "S6Ia",
+    "Column1": "4.17e+06",
+    "Column2": "1.07e+04",
+    "Column3": "2560",
+    "Column4": "255 171 052"
+  },
+  {
+    "Column0": "S6Ib",
+    "Column1": "9.55e+05",
+    "Column2": "5.12e+03",
+    "Column3": "2560",
+    "Column4": "255 171 052"
+  },
+  {
+    "Column0": "S6II",
+    "Column1": "9.55e+04",
+    "Column2": "1.62e+03",
+    "Column3": "2560",
+    "Column4": "255 195 105"
+  },
+  {
+    "Column0": "S6III",
+    "Column1": "9.55e+03",
+    "Column2": "5.12e+02",
+    "Column3": "2560",
+    "Column4": "255 178 121"
+  },
+  {
+    "Column0": "S6IV",
+    "Column1": "4.10e+02",
+    "Column2": "1.11e+02",
+    "Column3": "2500",
+    "Column4": "255 208 153"
+  },
+  {
+    "Column0": "S6V",
+    "Column1": "4.50e-03",
+    "Column2": "3.68e-01",
+    "Column3": "2500",
+    "Column4": "255 195 112"
+  },
+  {
+    "Column0": "S6VI",
+    "Column1": "1.63e-03",
+    "Column2": "2.22e-01",
+    "Column3": "2500",
+    "Column4": "255 195 112"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "S7Ia0",
+    "Column1": "6.96e+07",
+    "Column2": "5.10e+04",
+    "Column3": "2370",
+    "Column4": "255 164 026"
+  },
+  {
+    "Column0": "S7Ia",
+    "Column1": "9.18e+06",
+    "Column2": "1.85e+04",
+    "Column3": "2370",
+    "Column4": "255 164 026"
+  },
+  {
+    "Column0": "S7Ib",
+    "Column1": "2.10e+06",
+    "Column2": "8.87e+03",
+    "Column3": "2370",
+    "Column4": "255 164 026"
+  },
+  {
+    "Column0": "S7II",
+    "Column1": "2.53e+05",
+    "Column2": "3.07e+03",
+    "Column3": "2370",
+    "Column4": "255 193 100"
+  },
+  {
+    "Column0": "S7III",
+    "Column1": "2.10e+04",
+    "Column2": "8.87e+02",
+    "Column3": "2370",
+    "Column4": "255 165 097"
+  },
+  {
+    "Column0": "S7IV",
+    "Column1": "9.26e+02",
+    "Column2": "1.92e+02",
+    "Column3": "2333",
+    "Column4": "255 207 152"
+  },
+  {
+    "Column0": "S7V",
+    "Column1": "3.69e-03",
+    "Column2": "3.83e-01",
+    "Column3": "2333",
+    "Column4": "255 197 111"
+  },
+  {
+    "Column0": "S7VI",
+    "Column1": "1.94e-03",
+    "Column2": "2.78e-01",
+    "Column3": "2333",
+    "Column4": "255 197 111"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "S8Ia0",
+    "Column1": "2.05e+08",
+    "Column2": "1.03e+05",
+    "Column3": "2180",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "S8Ia",
+    "Column1": "2.70e+07",
+    "Column2": "3.76e+04",
+    "Column3": "2180",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "S8Ib",
+    "Column1": "5.15e+06",
+    "Column2": "1.64e+04",
+    "Column3": "2180",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "S8II",
+    "Column1": "7.44e+05",
+    "Column2": "6.23e+03",
+    "Column3": "2180",
+    "Column4": "255 192 096"
+  },
+  {
+    "Column0": "S8III",
+    "Column1": "5.15e+04",
+    "Column2": "1.64e+03",
+    "Column3": "2180",
+    "Column4": "255 167 097"
+  },
+  {
+    "Column0": "S8IV",
+    "Column1": "2.44e+03",
+    "Column2": "3.61e+02",
+    "Column3": "2167",
+    "Column4": "255 206 151"
+  },
+  {
+    "Column0": "S8V",
+    "Column1": "3.53e-03",
+    "Column2": "4.34e-01",
+    "Column3": "2167",
+    "Column4": "255 198 109"
+  },
+  {
+    "Column0": "S8VI",
+    "Column1": "2.44e-03",
+    "Column2": "3.61e-01",
+    "Column3": "2167",
+    "Column4": "255 198 109"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "S9Ia0",
+    "Column1": "7.11e+08",
+    "Column2": "2.31e+05",
+    "Column3": "1990",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "S9Ia",
+    "Column1": "1.03e+08",
+    "Column2": "8.79e+04",
+    "Column3": "1990",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "S9Ib",
+    "Column1": "1.79e+07",
+    "Column2": "3.67e+04",
+    "Column3": "1990",
+    "Column4": "255 157 000"
+  },
+  {
+    "Column0": "S9II",
+    "Column1": "2.83e+06",
+    "Column2": "1.46e+04",
+    "Column3": "1990",
+    "Column4": "255 190 091"
+  },
+  {
+    "Column0": "S9III",
+    "Column1": "1.79e+05",
+    "Column2": "3.67e+03",
+    "Column3": "1990",
+    "Column4": "255 233 154"
+  },
+  {
+    "Column0": "S9IV",
+    "Column1": "7.91e+03",
+    "Column2": "7.64e+02",
+    "Column3": "2000",
+    "Column4": "255 205 150"
+  },
+  {
+    "Column0": "S9V",
+    "Column1": "4.15e-03",
+    "Column2": "5.53e-01",
+    "Column3": "2000",
+    "Column4": "255 198 108"
+  },
+  {
+    "Column0": "S9VI",
+    "Column1": "4.15e-03",
+    "Column2": "5.53e-01",
+    "Column3": "2000",
+    "Column4": "255 198 108"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "DA0",
+    "Column1": "6.91e+00",
+    "Column2": "9.02e-03",
+    "Column3": "100000",
+    "Column4": "155 178 255"
+  },
+  {
+    "Column0": "DA1",
+    "Column1": "2.65e-01",
+    "Column2": "6.96e-03",
+    "Column3": "50400",
+    "Column4": "159 181 255"
+  },
+  {
+    "Column0": "DA2",
+    "Column1": "2.55e-02",
+    "Column2": "8.64e-03",
+    "Column3": "25200",
+    "Column4": "168 189 255"
+  },
+  {
+    "Column0": "DA3",
+    "Column1": "6.02e-03",
+    "Column2": "9.44e-03",
+    "Column3": "16800",
+    "Column4": "179 197 255"
+  },
+  {
+    "Column0": "DA4",
+    "Column1": "1.82e-03",
+    "Column2": "9.22e-03",
+    "Column3": "12600",
+    "Column4": "192 207 255"
+  },
+  {
+    "Column0": "DA5",
+    "Column1": "6.93e-04",
+    "Column2": "8.90e-03",
+    "Column3": "10080",
+    "Column4": "207 218 255"
+  },
+  {
+    "Column0": "DA6",
+    "Column1": "3.15e-04",
+    "Column2": "8.64e-03",
+    "Column3": "8400",
+    "Column4": "224 230 255"
+  },
+  {
+    "Column0": "DA7",
+    "Column1": "1.80e-04",
+    "Column2": "8.89e-03",
+    "Column3": "7200",
+    "Column4": "243 243 255"
+  },
+  {
+    "Column0": "DA8",
+    "Column1": "1.05e-04",
+    "Column2": "8.87e-03",
+    "Column3": "6300",
+    "Column4": "255 247 245"
+  },
+  {
+    "Column0": "DA9",
+    "Column1": "6.73e-05",
+    "Column2": "8.98e-03",
+    "Column3": "5600",
+    "Column4": "255 239 225"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "DB0",
+    "Column1": "6.91e+00",
+    "Column2": "9.02e-03",
+    "Column3": "100000",
+    "Column4": "155 178 255"
+  },
+  {
+    "Column0": "DB1",
+    "Column1": "2.65e-01",
+    "Column2": "6.96e-03",
+    "Column3": "50400",
+    "Column4": "159 181 255"
+  },
+  {
+    "Column0": "DB2",
+    "Column1": "2.55e-02",
+    "Column2": "8.64e-03",
+    "Column3": "25200",
+    "Column4": "168 189 255"
+  },
+  {
+    "Column0": "DB3",
+    "Column1": "6.02e-03",
+    "Column2": "9.44e-03",
+    "Column3": "16800",
+    "Column4": "179 197 255"
+  },
+  {
+    "Column0": "DB4",
+    "Column1": "1.82e-03",
+    "Column2": "9.22e-03",
+    "Column3": "12600",
+    "Column4": "192 207 255"
+  },
+  {
+    "Column0": "DB5",
+    "Column1": "6.93e-04",
+    "Column2": "8.90e-03",
+    "Column3": "10080",
+    "Column4": "207 218 255"
+  },
+  {
+    "Column0": "DB6",
+    "Column1": "3.15e-04",
+    "Column2": "8.64e-03",
+    "Column3": "8400",
+    "Column4": "224 230 255"
+  },
+  {
+    "Column0": "DB7",
+    "Column1": "1.80e-04",
+    "Column2": "8.89e-03",
+    "Column3": "7200",
+    "Column4": "243 243 255"
+  },
+  {
+    "Column0": "DB8",
+    "Column1": "1.05e-04",
+    "Column2": "8.87e-03",
+    "Column3": "6300",
+    "Column4": "255 247 245"
+  },
+  {
+    "Column0": "DB9",
+    "Column1": "6.73e-05",
+    "Column2": "8.98e-03",
+    "Column3": "5600",
+    "Column4": "255 239 225"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "DC0",
+    "Column1": "6.91e+00",
+    "Column2": "9.02e-03",
+    "Column3": "100000",
+    "Column4": "155 178 255"
+  },
+  {
+    "Column0": "DC1",
+    "Column1": "2.65e-01",
+    "Column2": "6.96e-03",
+    "Column3": "50400",
+    "Column4": "159 181 255"
+  },
+  {
+    "Column0": "DC2",
+    "Column1": "2.55e-02",
+    "Column2": "8.64e-03",
+    "Column3": "25200",
+    "Column4": "168 189 255"
+  },
+  {
+    "Column0": "DC3",
+    "Column1": "6.02e-03",
+    "Column2": "9.44e-03",
+    "Column3": "16800",
+    "Column4": "179 197 255"
+  },
+  {
+    "Column0": "DC4",
+    "Column1": "1.82e-03",
+    "Column2": "9.22e-03",
+    "Column3": "12600",
+    "Column4": "192 207 255"
+  },
+  {
+    "Column0": "DC5",
+    "Column1": "6.93e-04",
+    "Column2": "8.90e-03",
+    "Column3": "10080",
+    "Column4": "207 218 255"
+  },
+  {
+    "Column0": "DC6",
+    "Column1": "3.15e-04",
+    "Column2": "8.64e-03",
+    "Column3": "8400",
+    "Column4": "224 230 255"
+  },
+  {
+    "Column0": "DC7",
+    "Column1": "1.80e-04",
+    "Column2": "8.89e-03",
+    "Column3": "7200",
+    "Column4": "243 243 255"
+  },
+  {
+    "Column0": "DC8",
+    "Column1": "1.05e-04",
+    "Column2": "8.87e-03",
+    "Column3": "6300",
+    "Column4": "255 247 245"
+  },
+  {
+    "Column0": "DC9",
+    "Column1": "6.73e-05",
+    "Column2": "8.98e-03",
+    "Column3": "5600",
+    "Column4": "255 239 225"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "DO0",
+    "Column1": "6.91e+00",
+    "Column2": "9.02e-03",
+    "Column3": "100000",
+    "Column4": "155 178 255"
+  },
+  {
+    "Column0": "DO1",
+    "Column1": "2.65e-01",
+    "Column2": "6.96e-03",
+    "Column3": "50400",
+    "Column4": "159 181 255"
+  },
+  {
+    "Column0": "DO2",
+    "Column1": "2.55e-02",
+    "Column2": "8.64e-03",
+    "Column3": "25200",
+    "Column4": "168 189 255"
+  },
+  {
+    "Column0": "DO3",
+    "Column1": "6.02e-03",
+    "Column2": "9.44e-03",
+    "Column3": "16800",
+    "Column4": "179 197 255"
+  },
+  {
+    "Column0": "DO4",
+    "Column1": "1.82e-03",
+    "Column2": "9.22e-03",
+    "Column3": "12600",
+    "Column4": "192 207 255"
+  },
+  {
+    "Column0": "DO5",
+    "Column1": "6.93e-04",
+    "Column2": "8.90e-03",
+    "Column3": "10080",
+    "Column4": "207 218 255"
+  },
+  {
+    "Column0": "DO6",
+    "Column1": "3.15e-04",
+    "Column2": "8.64e-03",
+    "Column3": "8400",
+    "Column4": "224 230 255"
+  },
+  {
+    "Column0": "DO7",
+    "Column1": "1.80e-04",
+    "Column2": "8.89e-03",
+    "Column3": "7200",
+    "Column4": "243 243 255"
+  },
+  {
+    "Column0": "DO8",
+    "Column1": "1.05e-04",
+    "Column2": "8.87e-03",
+    "Column3": "6300",
+    "Column4": "255 247 245"
+  },
+  {
+    "Column0": "DO9",
+    "Column1": "6.73e-05",
+    "Column2": "8.98e-03",
+    "Column3": "5600",
+    "Column4": "255 239 225"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "DQ0",
+    "Column1": "6.91e+00",
+    "Column2": "9.02e-03",
+    "Column3": "100000",
+    "Column4": "155 178 255"
+  },
+  {
+    "Column0": "DQ1",
+    "Column1": "2.65e-01",
+    "Column2": "6.96e-03",
+    "Column3": "50400",
+    "Column4": "159 181 255"
+  },
+  {
+    "Column0": "DQ2",
+    "Column1": "2.55e-02",
+    "Column2": "8.64e-03",
+    "Column3": "25200",
+    "Column4": "168 189 255"
+  },
+  {
+    "Column0": "DQ3",
+    "Column1": "6.02e-03",
+    "Column2": "9.44e-03",
+    "Column3": "16800",
+    "Column4": "179 197 255"
+  },
+  {
+    "Column0": "DQ4",
+    "Column1": "1.82e-03",
+    "Column2": "9.22e-03",
+    "Column3": "12600",
+    "Column4": "192 207 255"
+  },
+  {
+    "Column0": "DQ5",
+    "Column1": "6.93e-04",
+    "Column2": "8.90e-03",
+    "Column3": "10080",
+    "Column4": "207 218 255"
+  },
+  {
+    "Column0": "DQ6",
+    "Column1": "3.15e-04",
+    "Column2": "8.64e-03",
+    "Column3": "8400",
+    "Column4": "224 230 255"
+  },
+  {
+    "Column0": "DQ7",
+    "Column1": "1.80e-04",
+    "Column2": "8.89e-03",
+    "Column3": "7200",
+    "Column4": "243 243 255"
+  },
+  {
+    "Column0": "DQ8",
+    "Column1": "1.05e-04",
+    "Column2": "8.87e-03",
+    "Column3": "6300",
+    "Column4": "255 247 245"
+  },
+  {
+    "Column0": "DQ9",
+    "Column1": "6.73e-05",
+    "Column2": "8.98e-03",
+    "Column3": "5600",
+    "Column4": "255 239 225"
+  },
+  {
+    "Column0": ""
+  },
+  {
+    "Column0": "DZ0",
+    "Column1": "6.91e+00",
+    "Column2": "9.02e-03",
+    "Column3": "100000",
+    "Column4": "155 178 255"
+  },
+  {
+    "Column0": "DZ1",
+    "Column1": "2.65e-01",
+    "Column2": "6.96e-03",
+    "Column3": "50400",
+    "Column4": "159 181 255"
+  },
+  {
+    "Column0": "DZ2",
+    "Column1": "2.55e-02",
+    "Column2": "8.64e-03",
+    "Column3": "25200",
+    "Column4": "168 189 255"
+  },
+  {
+    "Column0": "DZ3",
+    "Column1": "6.02e-03",
+    "Column2": "9.44e-03",
+    "Column3": "16800",
+    "Column4": "179 197 255"
+  },
+  {
+    "Column0": "DZ4",
+    "Column1": "1.82e-03",
+    "Column2": "9.22e-03",
+    "Column3": "12600",
+    "Column4": "192 207 255"
+  },
+  {
+    "Column0": "DZ5",
+    "Column1": "6.93e-04",
+    "Column2": "8.90e-03",
+    "Column3": "10080",
+    "Column4": "207 218 255"
+  },
+  {
+    "Column0": "DZ6",
+    "Column1": "3.15e-04",
+    "Column2": "8.64e-03",
+    "Column3": "8400",
+    "Column4": "224 230 255"
+  },
+  {
+    "Column0": "DZ7",
+    "Column1": "1.80e-04",
+    "Column2": "8.89e-03",
+    "Column3": "7200",
+    "Column4": "243 243 255"
+  },
+  {
+    "Column0": "DZ8",
+    "Column1": "1.05e-04",
+    "Column2": "8.87e-03",
+    "Column3": "6300",
+    "Column4": "255 247 245"
+  },
+  {
+    "Column0": "DZ9",
+    "Column1": "6.73e-05",
+    "Column2": "8.98e-03",
+    "Column3": "5600",
+    "Column4": "255 239 225"
+  }
+]
