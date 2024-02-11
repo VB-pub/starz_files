@@ -1,0 +1,47 @@
+function scrapeTableWithBorderAndDownloadAsJson() {
+
+    const columnIndices = [0, 2, 3, 4, 9]; // Adjust based on the columns you need
+    
+    const table = document.querySelector('table[BORDER="1"]');
+    
+    if (!table) {
+        console.error('No table with BORDER=1 found.');
+        return;
+    }
+
+    const rows = table.querySelectorAll('tr');
+    const data = [];
+
+    rows.forEach((row, rowIndex) => {
+        if (rowIndex === 0 || !row.querySelectorAll('td').length) return;
+
+        const rowData = {};
+        columnIndices.forEach((index, colIndex) => {
+            const cell = row.querySelectorAll('td, th')[index];
+            if(cell) {
+                
+                rowData[`Column${colIndex}`] = cell.innerText.trim();
+            }
+        });
+        if (Object.keys(rowData).length) {
+            data.push(rowData);
+        }
+    });
+
+    if (data.length) {
+        const json = JSON.stringify(data, null, 2);
+        const blob = new Blob([json], {type: 'application/json'});
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.download = 'starz_colorz.json';
+        a.href = url;
+        a.textContent = 'Download JSON';
+        document.body.appendChild(a); 
+        a.click(); 
+        document.body.removeChild(a); 
+    } else {
+        console.log('No data extracted.');
+    }
+}
+
+scrapeTableWithBorderAndDownloadAsJson();
